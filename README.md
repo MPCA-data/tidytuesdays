@@ -50,6 +50,12 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 
 <br><br><br>
 
+## :book: Reading
+
+- Hadley's [R 4 Data Science](https://r4ds.had.co.nz/)
+- Helsel's books at [Practical Stats](http://www.practicalstats.com/info2use/books.html)
+
+
 ## Discussion
 
 Things to talk about.
@@ -83,9 +89,11 @@ Things to talk about.
 > 1. Show-n-tell what you want to replace: mega Excel tools, Access
 > 1. Is it an outlier?
 > 1. Non-detects: `NADA` vs `EnvStats` 
-> 1. Time series forecasting (Barbara)
-> 1. Kriging - Spatial interpolating between map points
+> 1. Time series forecasting 
+> 1. Maps and shapefiles
+>     - Kriging / Spatial interpolating between map points
 > 1. Conditional probability
+> 1. `broom` your modeling results
 > 1. What is Rmarkdown?
 > 1. `gganimate`
 >     - gifs for mpca tweets
