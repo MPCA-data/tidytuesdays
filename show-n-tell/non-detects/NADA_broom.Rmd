@@ -2,7 +2,7 @@
 title: "Use NADA and broom for non-parametric analysis of left-censored groundwater data"
 author: "Barbara Monaco"
 date: "2/18/2020"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
