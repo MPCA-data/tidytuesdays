@@ -14,7 +14,7 @@
 
 ## Anouncements
 
-- Timing / locations (next week), rotating host, snacks
+- Timing / locations (next week), rotating host
 
 <br>
 
@@ -28,6 +28,16 @@
 
 <br>
 
+
+## :phone: Calls for **HELP!**
+
+- [ ]  Publish an Rmarkdown report as a webpage (*Barbara*)
+- [ ]  Get the TITAN analysis to run super fast  
+       - Data and code are here: [X-drive](file:///X:\Agency_Files\Data_Services\DAU\Data Analytics User Group\Shared\r\tidytuesday\show-n-tell\bug_count)
+
+<br>
+
+
 ## :hatching_chick: Featured functions
 
 Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
@@ -39,6 +49,7 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 - [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#beep-beepnotes)
 
 <br>
+
 
 ## What we're learning
 
@@ -114,12 +125,6 @@ Things to talk about.
 
 <br>
 
-## :phone: Calls for **HELP!**
-
-- [ ]  Please publish a Rmarkdown report (*Barbara*)
-- [ ]  And embed on MPCA website (*Dorian*)
-
-<br>
 
 ## :earth_africa: Community projects
 
