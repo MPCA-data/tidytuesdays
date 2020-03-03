@@ -153,6 +153,9 @@ Things to talk about.
 - R training
     - Annual __R week__?
     - [Star Wars training](https://itep-r.netlify.com/)
+    - [Workshops](https://mpca-air.github.io/RTrain/#workshops)
+        - Maps
+        - Connect to databases
     - The original old-school [Cat training](https://mpca-air.github.io/RCamp/)
 - `library(ecoquotes)` or for Barbara `trekkiequotes`
 
