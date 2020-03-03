@@ -1,6 +1,7 @@
 # Create interactive site maps
 
 ```r
+
 library(tidyverse)
 library(leaflet)
 
@@ -37,7 +38,24 @@ leaflet(sites) %>%
 # Add color markers
 leaflet(sites) %>%
   addProviderTiles(providers$CartoDB.Voyager) %>%
-  addCircleMarkers(popup = ~`Site Name`) %>%
+  addCircleMarkers() 
+
+
+# Color by state
+
+## Add state column
+sites <- sites %>% mutate(state = substring(AqsID, 1 , 2))
+
+pal <- colorFactor(c("navy"), domain = c("27"))
+
+leaflet(sites) %>%
+  addProviderTiles(providers$CartoDB.Voyager) %>%
+  addCircleMarkers(color = ~pal(state)) 
+
+
+
+  
+  
 ```
 
 
