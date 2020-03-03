@@ -21,7 +21,8 @@
 ## Upcoming/Recent events
 
 | Date | Time | Event  | Event link | Group webpage |  
-| --- | --- | --- | --- | --- |
+| ---  | --- | --- | --- | --- |
+| July 7-10, 2020 | -- | R User Conference - St. Louis, MO | [useR 2020](https://user2020.r-project.org/program/tutorials/) | https://user2020.r-project.org/ | 
 | May 31, 2020 | 8-5 | Cascadia R Conference - :evergreen_tree: Eugene, Oregon | https://cascadiarconf.com/ | https://www.meetup.com/portland-r-user-group/ | 
 | Feb 4, 2020 | 1:30-3 | Eco Data Science - :santa: Santa Barbara - GIS analysis + editing | [Zoom link](https://ucsb.zoom.us/j/390601568) | https://eco-data-science.github.io/  |    
 | Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Recordings available | [RStudio 2020](https://resources.rstudio.com/rstudio-conf-2020)  |   https://resources.rstudio.com   |
@@ -32,9 +33,9 @@
 
 ## :phone: Calls for **HELP!**
 
-- [ ]  Publish an Rmarkdown report as a webpage (*Barbara*)
 - [ ]  Get the TITAN analysis to run super fast  
     - Data and code here: `X:\Agency_Files\Data_Services\DAU\Data Analytics User Group\Shared\r\tidytuesday\show-n-tell\bug_count`
+- [ ]  Publish an Rmarkdown report as a webpage (*Barbara*)
 
 <br>
 
