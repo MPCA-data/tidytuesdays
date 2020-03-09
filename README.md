@@ -14,7 +14,7 @@
 
 ## Anouncements
 
-- Next week timing & location, show-n-tell?, share a problem
+- Next week timing & location, show-n-tell, share a problem
 
 <br>
 
