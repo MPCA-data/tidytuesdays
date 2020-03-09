@@ -14,7 +14,7 @@
 
 ## Anouncements
 
-- Timing / locations (next week), rotating host
+- Next week timing / location, show-n-tell?, share a problem
 
 <br>
 
