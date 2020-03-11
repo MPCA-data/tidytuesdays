@@ -8,7 +8,7 @@
 ```r
 library(tidyverse)
 
-sulfate <- read_csv("") 
+sulfate <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/help/water-Sulfate/sulfate_per_wid_with_min10_obs.csv") 
 
 ```
 
