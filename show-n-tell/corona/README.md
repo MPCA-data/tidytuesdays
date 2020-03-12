@@ -14,7 +14,7 @@ data <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/mast
 
 ```
 
-## View results for your state
+## Results for your state
 
 ```r
 i_live_in <- "OR"
