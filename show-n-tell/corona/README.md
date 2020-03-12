@@ -2,7 +2,10 @@
 
 Explore Novel Corona Virus (COVID-19) epidemiological data since 22 January 2020.
 
-Live map of cases: https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+> Live map of cases: https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases  
+>
+> ![Coronavirus map](../../images/corona_map.png)
+
 
 ## Load data
 
