@@ -9,7 +9,7 @@
 
 They say you should read more to write better.  
 
-Let's practice interpreting R scripts to a partner, who will take what you say and try to turn it back into code. It will be kind of like a game of telephone, but for R.
+Let's practice interpreting R scripts to a partner, who will take what you say and try to turn it back into code. It's like a game of **telephone**, but for R.
 
 #### Steps
 
