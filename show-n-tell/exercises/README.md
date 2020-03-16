@@ -24,7 +24,7 @@ _Find a partner and decide who gets to be **Bert** and who is **Ernie**._
 
 <details>
 
-<summary>:eyes: Bert's eyes only (No peeking Ernie!) </summary>
+<summary> Bert's :eyes: only (No peeking Ernie!) </summary>
     
 ```r
 
@@ -36,8 +36,8 @@ big_fishes <- filter(fishes, length > 20)
  
 ```
 
-**Example**  
-*Load the package "readr". Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes". Create a new table called "big_fishes" by pulling out only fish that are longer than 20 inches.*
+> **Example reading**  
+> *Load the package "readr". Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes". Create a new table called "big_fishes" by pulling out only fish that are longer than 20 inches.*
 
 </details>
 
@@ -45,7 +45,7 @@ big_fishes <- filter(fishes, length > 20)
 
 <details>
 
-<summary>:eyes: Ernie's eyes only (No peeking Bert!) </summary>
+<summary> Ernie's :eyes: only (No peeking Bert!) </summary>
     
 ```r
 
@@ -58,11 +58,9 @@ big_fishes <- filter(fishes, length > 20)
 ```
 
 
-<details>
-
-<summary>Example</summary>
- 
-*Load the package "readr". Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes". Create a new table called "big_fishes" by pulling out only fish that are longer than 20 inches.*
-
-</details>
-</details>
+> <details> <summary>Example</summary>
+> 
+> *Load the package "readr". Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes". Create a new table called "big_fishes" by pulling out only fish that are longer than 20 inches.*
+>
+> </details>
+> </details>
