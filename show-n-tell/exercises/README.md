@@ -2,6 +2,8 @@
 
 ## Partner games
 
+<img src="../../images/bert_ernie.jpg" width=248 align="right" />
+
 ### :book: Reading aloud
 
 They say reading makes great writing.  
