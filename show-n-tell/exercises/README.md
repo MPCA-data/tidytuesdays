@@ -24,7 +24,7 @@ _Find a partner and decide who gets to be **Bert** and who is **Ernie**._
 
 <details>
 
-<summary>:eyes: For Bert's eyes only (No peeking Ernie!) </summary>
+<summary>:eyes: Bert's eyes only (No peeking Ernie!) </summary>
     
 ```r
 
@@ -45,7 +45,7 @@ big_fishes <- filter(fishes, length > 20)
 
 <details>
 
-<summary>:eyes: For Ernie's eyes only (No peeking Bert!) </summary>
+<summary>:eyes: Ernie's eyes only (No peeking Bert!) </summary>
     
 ```r
 
