@@ -1,8 +1,7 @@
 # Exercises
 
-## Partner games
-
 <img src="../../images/bert_ernie.jpg" width=248 align="right" />
+## Partners
 
 ### :book: Reading aloud
 
