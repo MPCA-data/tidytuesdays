@@ -20,11 +20,11 @@ _Find a partner and decide who gets to be **Bert** and who is **Ernie**._
 1. Bert can then offer more clues to help.
     - But try **NOT** to say the exact names of functions, like "`filter`" or "use `select`"
 
-### Bert reads: block 1
+### Bert reads: `big fish`
 
 <details>
 
-<summary>For Bert's eyes only :eyes:(No peeking Ernie!) </summary>
+<summary>:eyes: For Bert's eyes only (No peeking Ernie!) </summary>
     
 ```r
 
@@ -36,7 +36,33 @@ big_fishes <- filter(fishes, length > 20)
  
 ```
 
-**Hint**  
+**Example**  
 *Load the package "readr". Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes". Create a new table called "big_fishes" by pulling out only fish that are longer than 20 inches.*
 
+</details>
+
+### Ernie reads: `sheep count`
+
+<details>
+
+<summary>:eyes: For Ernie's eyes only (No peeking Bert!) </summary>
+    
+```r
+
+library(readr)
+
+fishes <- read_csv("lake_superior_fish.csv")
+
+big_fishes <- filter(fishes, length > 20)
+ 
+```
+
+
+<details>
+
+<summary>Example</summary>
+ 
+*Load the package "readr". Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes". Create a new table called "big_fishes" by pulling out only fish that are longer than 20 inches.*
+
+</details>
 </details>
