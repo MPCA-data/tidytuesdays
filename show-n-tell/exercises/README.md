@@ -6,9 +6,9 @@
 
 ### :book: Reading aloud
 
-They say reading makes great writing.  
+They say you should read to write better.  
 
-Let's practice reading R scripts aloud and have our parnter interpret what we say back into code. It's kind of like the game telephone, but for R.
+Let's practice interpreting R scripts to our parnter who will try to turn it back into code. It will be kind of like a game of telephone, but for R.
 
 #### Steps
 
