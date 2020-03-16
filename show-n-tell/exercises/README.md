@@ -17,6 +17,6 @@ _First find a partner and decide who gets to be **Bert** and who's **Ernie**._
 1. Bert looks at the first code block and reads it to Ernie.
 1. Ernie then writes a code snippet that follows what Bert said.
 1. Bert can offer more clues to help
-    - But try **NOT** say the names of functions explicitly, like "`filter`" or "use `select`"
+    - But try **NOT** to say the names of functions, like "`filter`" or "use `select`"
 
 ### Bert reads: block 1
