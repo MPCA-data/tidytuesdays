@@ -1,29 +1,30 @@
 # Exercises
 
-<img src="../../images/bert_ernie.jpg" width=248 align="right" />
 
 ## Partners
 
+<img src="../../images/bert_ernie.jpg" width=248 align="right" />
+
 ### :book: Reading aloud
 
-They say you should read to write better.  
+They say you should read more to write better.  
 
-Let's practice interpreting R scripts to our parnter who will try to turn it back into code. It will be kind of like a game of telephone, but for R.
+Let's practice interpreting R scripts to a partner, who will take what you say and try to turn it back into code. It will be kind of like a game of telephone, but for R.
 
 #### Steps
 
-_First find a partner and decide who gets to be **Bert** and who's **Ernie**._
+_Find a partner and decide who gets to be **Bert** and who is **Ernie**._
 
-1. Bert looks at the first code block and reads it to Ernie.
-1. Ernie then writes a code snippet that follows what Bert said.
-1. Bert can offer more clues to help
-    - But try **NOT** to say the names of functions, like "`filter`" or "use `select`"
+1. Bert will look at the first code block and tell Ernie what it does.
+1. Ernie will then write a code snippet that accomplishes what Bert said.
+1. Bert can then offer more clues to help.
+    - But try **NOT** to say the exact names of functions, like "`filter`" or "use `select`"
 
 ### Bert reads: block 1
 
 <details>
 
-<summary>Bert's eyes only **(No looking Ernie!)** </summary>
+<summary>For Bert's eyes only **(No looking Ernie!)** </summary>
     
 ```r
 
