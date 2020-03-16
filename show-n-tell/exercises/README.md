@@ -24,9 +24,11 @@ _Find a partner and decide who gets to be **Bert** and who is **Ernie**._
 
 <details>
 
-<summary>For Bert's eyes only **(No looking Ernie!)** </summary>
+<summary>For Bert's eyes only :eyes:(No peeking Ernie!) </summary>
     
 ```r
+
+library(readr)
 
 fishes <- read_csv("lake_superior_fish.csv")
 
@@ -35,6 +37,6 @@ big_fishes <- filter(fishes, length > 20)
 ```
 
 **Hint**  
-*Read in the Lake Superior fish data stored in a .csv and name it "fishes". Create a new table called "big_fishes" by pulling out only the fish that are longer than 20 inches.*
+*Load the package "readr". Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes". Create a new table called "big_fishes" by pulling out only fish that are longer than 20 inches.*
 
 </details>
