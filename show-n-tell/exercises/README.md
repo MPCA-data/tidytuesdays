@@ -3,9 +3,9 @@
 
 ## Partners
 
-<img src="../../images/bert_ernie.jpg" width=248 align="right" />
-
 ### Reading aloud :book: 
+
+<img src="../../images/bert_ernie.jpg" width=248 align="right" />
 
 They say you should read more to write better.  
 
