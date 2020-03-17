@@ -7,9 +7,9 @@
 
 <img src="../../images/bert_ernie.jpg" width=248 align="right" />
 
-They say you should read more to write better.  
+> They say read more to write better.  
 
-Let's practice interpreting R scripts to a partner, who take what you say and turn it back into code. It'll be like a game of **telephone**, but for R.
+So let's practice interpreting R scripts to a partner, who will try to take what you say and turn it back into code. It'll be like a game of **telephone**, but for R.
 
 #### Steps
 
@@ -52,25 +52,30 @@ nrow(big_fishes)
 > Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes".   
 > View the column names in the fishes data.  
 > Count the number of fish.  
-> Create a new table called "big_fishes" that contains only the fish with a length longer than 20 inches.  
+> Create a new table called "big_fishes" that contains only the fish with a length longer than 20 (inches?).  
 > Finally, count the number of big fish.*  
 
 </details></details>
 
-### Ernie's turn: `sheep count` :sheep:
+<br>
+
+Now let's go the other direction. We'll try to turn _plain language_ into R code.
+
+### Ernie's turn: `sheep count` :sheep::sheep::sheep:
 
 <details>
 
 <summary> Ernie's :eyes: only </summary>
     
-    
+>    
 > *Load the package "ggplot2".  
-> Create a new variable named "asleep" and set it to false.  
-> Create a new variable named "n_sheep" and assign it a value of 3.    
+> Create a new variable named "asleep" and set it to false.     
 > Create a vector called "names" that contains the 3 text values: "Shrek", "Dolly", & "Beetlejuice". 
-> Create a data frame called "my_sheep" with 2 columns: sheep_name that contains the "names" vector above, and "characters" that contains the number of characters in each name.
-> Make a gg-scatterplot of my_sheep, with the sheep names along the x-axis and the character length as the y-axis
-> Give the plot the title "My sheep names say it all"*
+> Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3. 
+> Create a data frame called "my_sheep" with 2 columns: sheep_name that contains the "names" vector above, and "sheep_id" that contains the "sheep_ids" above.
+> Make a gg-scatterplot of my_sheep, with the sheep names along the x-axis and the sheep IDs as the y-axis
+> Give the plot the title "Counting sheep backwards makes me Zzzz..."
+> Set the variable "asleep" to true*
 
 
 <details> <summary> Example code </summary>
@@ -81,14 +86,21 @@ library(ggplot2)
 
 asleep <- FALSE
 
-n_sheep <- 3
-
 names <- c("Shrek", "Dolly", "Beetlejuice")
 
-my_sheep <- data.frame(sheep_name = names, characters = nchar(names))
+my_sheep <- data.frame(sheep_name = names, 
+                       sheep_ids  = 1:3)
 
-ggplot(my_sheep, aes(x = names, y = characters)) +
-     geom_point()
+sheep_ids <- 1:3
+
+ggplot(my_sheep, aes(x = names, y = sheep_ids)) +
+  geom_point()
+
+ggplot(my_sheep, aes(x = names, y = sheep_ids)) +
+  geom_point() +
+  labs(title = "Counting sheep backwards makes me Zzzz...")
+ 
+ asleep <- TRUE
  
 ``` 
 
