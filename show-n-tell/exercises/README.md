@@ -13,7 +13,7 @@ Let's practice interpreting R scripts to a partner, who take what you say and tu
 
 #### Steps
 
-_Find a partner and decide who gets to be **Bert** and who is **Ernie**._
+_Find a partner and decide who gets to be **Bert** and who gets to be **Ernie**._
 
 1. Bert will look at the first code block and tell Ernie what it does.
 1. Ernie will then write a code snippet that accomplishes what Bert said.
@@ -57,9 +57,7 @@ nrow(big_fishes)
 
 </details></details>
 
-<br>
-
-### Ernie reads: `sheep count` :sheep:
+### Ernie's turn: `sheep count` :sheep:
 
 <details>
 
