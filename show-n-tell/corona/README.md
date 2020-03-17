@@ -12,6 +12,7 @@ Explore Novel Corona Virus (COVID-19) epidemiological data since 22 January 2020
 ```r
 library(tidyverse)
 library(lubridate)
+library(plotly)
 
 data <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv")
 
@@ -35,4 +36,9 @@ total <- filter(data, str_detect(subregion, i_live_in)) %>%
           slice(n()) 
 
 View(total)
+
+#Scary plot of confirmed COVID-19 cases in MN
+filter(data, subregion == "Minnesota", date >= ymd(20200309)) %>%
+  plot_ly(x = ~date, y = ~confirmed) %>%
+  add_lines()
 ```
