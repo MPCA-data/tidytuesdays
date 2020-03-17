@@ -71,7 +71,7 @@ Now let's go the other direction. We'll try to turn _plain language_ into R code
 >     
 > *Load the package "ggplot2".  
 > Create a new variable named "asleep" and set it to false.     
-> Create a vector called "names" that contains the 3 text values: "Shrek", "Dolly" & "Beetlejuice".  
+> Create a vector called "names" that contains the 3 text values: "Lambchop", "Dolly" & "Shaun".  
 > Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3.  
 > Create a data frame called "my_sheep" with 2 columns:*  
 >    - *"sheep_name" that contains the "names" vector above*  
@@ -90,7 +90,7 @@ library(ggplot2)
 
 asleep <- FALSE
 
-names <- c("Shrek", "Dolly", "Beetlejuice")
+names <- c("Lambchop", "Dolly" & "Shaun")
 
 my_sheep <- data.frame(sheep_name = names, 
                        sheep_ids  = 1:3)
