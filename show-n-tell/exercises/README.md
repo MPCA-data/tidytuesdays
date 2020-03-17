@@ -48,12 +48,12 @@ nrow(big_fishes)
 
 **<summary> Example reading  </summary>**
 
-> *Load the package "readr".  
-> Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes".   
+> *Load the package "readr".*  
+> *Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes".   
 > View the column names in the fishes data.  
-> Count the number of fish.  
+> Count the number of fish.*  
 >   
-> Create a new table called "big_fishes" that contains only the fish with a length longer than 20 (inches?).  
+> *Create a new table called "big_fishes" that contains only the fish with a length longer than 20 (inches?).  
 > Finally, count the number of big fish.*  
 
 </details></details>
