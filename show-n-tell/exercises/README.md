@@ -70,12 +70,15 @@ Now let's go the other direction. We'll try to turn _plain language_ into R code
 >    
 > *Load the package "ggplot2".  
 > Create a new variable named "asleep" and set it to false.     
-> Create a vector called "names" that contains the 3 text values: "Shrek", "Dolly", & "Beetlejuice". 
-> Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3. 
-> Create a data frame called "my_sheep" with 2 columns: sheep_name that contains the "names" vector above, and "sheep_id" that contains the "sheep_ids" above.
-> Make a gg-scatterplot of my_sheep, with the sheep names along the x-axis and the sheep IDs as the y-axis
-> Give the plot the title "Counting sheep backwards makes me Zzzz..."
-> Set the variable "asleep" to true*
+> Create a vector called "names" that contains the 3 text values: "Shrek", "Dolly" & "Beetlejuice".  
+> Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3.  
+> Create a data frame called "my_sheep" with 2 columns:*  
+>    - *"sheep_name" that contains the "names" vector above*  
+>    - *"sheep_id" that contains the "sheep_ids" above*    
+>
+> *Make a gg-scatterplot of my_sheep, with the sheep names along the x-axis and the sheep IDs as the y-axis.    
+> Give the plot the title "Counting sheep backwards makes me Zzzz...".  
+> Set the variable "asleep" to true.*  
 
 
 <details> <summary> Example code </summary>
