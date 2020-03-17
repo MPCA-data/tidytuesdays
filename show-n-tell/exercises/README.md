@@ -69,10 +69,10 @@ Now let's go the other direction. We'll try to turn _plain language_ into R code
 <summary> Ernie's :eyes: only </summary>
     
 >     
-> *Load the package "ggplot2".  
-> Create a new variable named "asleep" and set it to false.     
-> Create a vector called "names" that contains the 3 text values: "Lambchop", "Dolly" & "Shaun".  
-> Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3.  
+> *Load the package "ggplot2".*  
+> *Create a new variable named "asleep" and set it to false.     
+> Create a vector called "names" that contains the 3 text values: "Shaun", "Lambchop" & "Dolly"    
+> Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3    
 > Create a data frame called "my_sheep" with 2 columns:*  
 >    - *"sheep_name" that contains the "names" vector above*  
 >    - *"sheep_id" that contains the "sheep_ids" above*    
@@ -90,21 +90,21 @@ library(ggplot2)
 
 asleep <- FALSE
 
-names <- c("Lambchop", "Dolly" & "Shaun")
-
-my_sheep <- data.frame(sheep_name = names, 
-                       sheep_ids  = 1:3)
+names <- c("Shaun", "Lambchop", "Dolly")
 
 sheep_ids <- 1:3
 
-ggplot(my_sheep, aes(x = names, y = sheep_ids)) +
+my_sheep <- data.frame(sheep_name = names, 
+                       sheep_id   = sheep_ids)
+
+ggplot(my_sheep, aes(x = names, y = sheep_id)) +
   geom_point()
 
-ggplot(my_sheep, aes(x = names, y = sheep_ids)) +
+ggplot(my_sheep, aes(x = names, y = sheep_id)) +
   geom_point() +
   labs(title = "Counting sheep backwards makes me Zzzz...")
- 
- asleep <- TRUE
+
+asleep <- TRUE
  
 ``` 
 
