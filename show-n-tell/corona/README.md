@@ -20,7 +20,7 @@ data <- read_csv("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/mast
 ## Results for your state
 
 ```r
-i_live_in <- "OR"
+i_live_in <- "Minnesota"
 
 # Reshape the data
 data <- pivot_longer(data, -(`Province/State`:Long), "date", values_to = "confirmed")
@@ -32,9 +32,7 @@ data <- rename_at(data, 1:4, ~c("subregion", "region", "lat", "lon")) %>%
 # Get latest results for chosen subregion
 total <- filter(data, str_detect(subregion, i_live_in)) %>%
           group_by(subregion) %>%
-          slice(n()) %>%
-          ungroup() %>%
-          summarise(confirmed = sum(confirmed))
+          slice(n()) 
 
 View(total)
 ```
