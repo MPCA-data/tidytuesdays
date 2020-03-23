@@ -43,6 +43,8 @@ red_veggies <- filter(fillings, food_type == "vegetable", color = "red")
 
 <br>
 
+:warning: Don't click below until you have assigned roles. :warning:
+
 ### Bert reads: `big fish` :fish:
 
 We'll start by turning some fishy code into plain language.
