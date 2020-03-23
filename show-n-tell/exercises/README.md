@@ -18,9 +18,9 @@ _Find a partner and decide who gets to be **Bert** and who gets to be **Ernie**.
 1. Then Bert can offer more clues to help.
     - Try **not** to say the exact syntax or names of functions, like "use `filter`" or "use `write csv`"
 
-
+<br>
 <details>
-    <summary><b>Example</b></summary>
+<summary><b>Example</b> <i>(Click here)</i></summary>
   
 Say aloud what this code does or tries to accomplish.  
 
