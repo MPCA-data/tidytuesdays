@@ -39,14 +39,15 @@ output:
   bookdown::gitbook: default
   #bookdown::pdf_book: default
 ---
-
+  
 # Hello fans!
-
+  
 Hi.
 
 Bye.
 
-<!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
+<!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. -->
+<!-- You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
 ```
 
 6. Save the file as `index.Rmd`
