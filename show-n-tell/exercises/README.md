@@ -20,7 +20,7 @@ _Find a partner and decide who gets to be **Bert** and who gets to be **Ernie**.
 
 
 <details>
-<summary>**Example**</summary>
+    <summary><b>Example</b></summary>
   
 Say aloud what this code does or tries to accomplish.  
 
