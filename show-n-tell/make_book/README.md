@@ -1,11 +1,14 @@
 # Make a web book :book:
 
-This is great for a wiki-type documentation of a long term project that includes code and has multiple team members.
+> This is great for a wiki-type documentation of a long term project.
+>
+> You can include narrative along side images and charts with  
+> the code used for your anlyses.
 
 #### Resources
 
 - User guide: https://bookdown.org/yihui/bookdown/
-- Official example: https://github.com/rstudio/bookdown-demo
+- An example: https://github.com/rstudio/bookdown-demo
 
 <br>
 
@@ -21,7 +24,6 @@ We're making a simple 3-page book to learn the ropes.
 
 ```r
 install.packages("bookdown")
-
 ```
 
 1. Create a new R file
@@ -45,5 +47,7 @@ Hi.
 Bye.
 
 <!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
-
 ```
+
+6. Save the file as `index.Rmd`
+6. 
