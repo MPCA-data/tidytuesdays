@@ -15,7 +15,7 @@ _Find a partner and decide who gets to be **Bert** and who gets to be **Ernie**.
 
 1. Bert will look at the first code block and tell Ernie what it does.
 1. Ernie will then write a code snippet that accomplishes what Bert said.
-1. Bert can then offer more clues to help.
+1. Then Bert can offer more clues to help.
     - Try **not** to say the exact syntax or names of functions, like "`filter`" or "`use write csv`"
 
 
