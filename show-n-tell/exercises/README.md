@@ -7,9 +7,9 @@
 
 <img src="../../images/bert_ernie.jpg" width=248 align="right" />
 
-> They say read more to write better.  
+> "Read more to write better."  
 
-So let's practice interpreting R scripts to a partner, who will try to take what you say and turn it back into code. It'll be like a game of **telephone**, but for R.
+Let's practice reading R scripts to a partner, who will listen to what you say and try to turn it back into code. It's like a game of *telephone*, but for R.
 
 #### Steps
 
@@ -18,9 +18,28 @@ _Find a partner and decide who gets to be **Bert** and who gets to be **Ernie**.
 1. Bert will look at the first code block and tell Ernie what it does.
 1. Ernie will then write a code snippet that accomplishes what Bert said.
 1. Bert can then offer more clues to help.
-    - But try **NOT** to say the exact names of functions, like "`filter`" or "use `select`"
+    - Try **not** to say the exact syntax or names of functions, like "`filter`" or "`use write csv`"
 
-Let's start by turning some fishy code into plain language.
+
+<details>
+<summary>Example</summary>
+    
+```r
+library(sandwich)
+    
+slices_bread <- 4
+
+fillings <- read_csv("fillings.csv")
+
+nrow(fillings)
+
+names(fillings)
+```    
+
+</details>    
+
+
+We'll start by turning some fishy code into plain language.
 
 ### Bert reads: `big fish` :fish:
 
