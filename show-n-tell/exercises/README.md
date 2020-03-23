@@ -20,9 +20,9 @@ _Find a partner and decide who gets to be **Bert** and who gets to be **Ernie**.
 
 
 <details>
-<summary>### Example</summary>
+<summary>**Example**</summary>
   
-Read aloud what this code does or tries to accomplish.  
+Say aloud what this code does or tries to accomplish.  
 
 ```r
 library(sandwich)
@@ -35,16 +35,17 @@ nrow(fillings)
 
 names(fillings)
 
-veggies <- filter(fillings, food_type == "vegetable")
+red_veggies <- filter(fillings, food_type == "vegetable", color = "red")
 
 ```    
 
 </details>    
 
-
-We'll start by turning some fishy code into plain language.
+<br>
 
 ### Bert reads: `big fish` :fish:
+
+We'll start by turning some fishy code into plain language.
 
 <details>
 
