@@ -1,9 +1,7 @@
 # Exercises
 
 
-## Partners
-
-### Reading aloud :book: 
+### :book: Reading aloud
 
 <img src="../../images/bert_ernie.jpg" width=248 align="right" />
 
