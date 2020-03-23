@@ -20,8 +20,10 @@ _Find a partner and decide who gets to be **Bert** and who gets to be **Ernie**.
 
 
 <details>
-<summary>Example</summary>
-    
+<summary>### Example</summary>
+  
+Read aloud what this code does or tries to accomplish.  
+
 ```r
 library(sandwich)
     
@@ -32,6 +34,9 @@ fillings <- read_csv("fillings.csv")
 nrow(fillings)
 
 names(fillings)
+
+veggies <- filter(fillings, food_type == "vegetable")
+
 ```    
 
 </details>    
