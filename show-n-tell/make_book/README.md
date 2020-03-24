@@ -1,21 +1,20 @@
 # Make a web book :book:
 
-> This is great for a wiki-type documentation of a long term project.
+> The `bookdown` package is great for a wiki-type documentation of a long term project.
 >
-> You can include narrative along side images and charts with  
-> the code used for your anlyses.
+> You can include narrative along side images and charts with your analysis code.
 
 #### Resources
 
 - User guide: https://bookdown.org/yihui/bookdown/
 - Book example: https://github.com/rstudio/bookdown-demo
-- Air example: https://mpca-air.github.io/air-methods/  
+- MPCA's air example: https://mpca-air.github.io/air-methods/  
 
 <br>
 
 ## Today's steps
 
-We're making a simple 3-page book to learn the ropes. 
+We're kicking off with a 3-page book. 
 
 1. Open R
     - Use https://rstudio.cloud if you don't have access to R
@@ -58,5 +57,8 @@ Bye.
 
 8. Click `New File > R Markdown...`
 8. Leave the default options and click `OK`
-8.
+8. Delete the top header information starting and ending with the 3 ticks: `---`
+8. Drop one of the `#` signs in front of "## R Markdown" to create a level 1 header
+8. Save the file as `02-page_2` or `02-my_section_name`
+
 
