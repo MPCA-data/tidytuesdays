@@ -92,7 +92,7 @@ This would show an image of a blue fish I had in my folder:
 ![](https://bookdown.org/yihui/bookdown/images/gitbook.png)
 
 1. Create a new R file
-1. Save it as `output.yml`
+1. Save it as `_output.yml`
 1. Paste these configuration options into it:
 
 ```r
