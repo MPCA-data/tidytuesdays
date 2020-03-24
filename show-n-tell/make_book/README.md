@@ -8,7 +8,8 @@
 #### Resources
 
 - User guide: https://bookdown.org/yihui/bookdown/
-- An example: https://github.com/rstudio/bookdown-demo
+- Book example: https://github.com/rstudio/bookdown-demo
+- Air example: https://mpca-air.github.io/air-methods/  
 
 <br>
 
@@ -26,7 +27,7 @@ We're making a simple 3-page book to learn the ropes.
 install.packages("bookdown")
 ```
 
-1. Create a new R file
+1. Create a new R file _(This will be your book's title or Home page)_
 1. Paste this starter code into the file:
 
 ```r
@@ -50,5 +51,12 @@ Bye.
 <!-- You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
 ```
 
-6. Save the file as `index.Rmd`
-6. 
+6. Save the file as `index.Rmd` _(The Rmd extension stands for R markdown)_
+6. Fix any spacing changes that occurred (`title` and `# Hello fans` should start all the way to the left)
+
+### New page!
+
+8. Click `New File > R Markdown...`
+8. Leave the default options and click `OK`
+8.
+
