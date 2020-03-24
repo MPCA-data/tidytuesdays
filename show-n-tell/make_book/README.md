@@ -1,4 +1,4 @@
-# Make a web book :book:
+# :book: Make a web book 
 
 > The `bookdown` package is great for a wiki-type documentation of a long term project.
 >
@@ -60,5 +60,14 @@ Bye.
 8. Delete the top header information starting and ending with the 3 ticks: `---`
 8. Drop one of the `#` signs in front of "## R Markdown" to create a level 1 header
 8. Save the file as `02-page_2` or `02-my_section_name`
+8. Preview this page
+    - Click the `Knit` button at the top left
+    - It's under the .Rmd file tabs and has a __yarn__ icon
 
+### Last page
 
+14. Repeat the first 4 steps above to create a new page
+14. Save the file as `03-page_3` or `03-my_section_name`
+14.
+
+## :star: Bonus options
