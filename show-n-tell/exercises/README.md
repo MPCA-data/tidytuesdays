@@ -95,24 +95,7 @@ Now let's go the other direction. We'll try to turn _plain language_ into R code
 
 <summary> Ernie's :eyes: only </summary>
     
-  
-  
->     
-> *Load the package "ggplot2".*  
-> *Create a new variable named "asleep" and set it to false.     
-> Create a vector called "names" that contains the 3 text values: "Shaun", "Lambchop" & "Dolly"    
-> Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3    
-> Create a data frame called "my_sheep" with 2 columns:*  
->    - *"sheep_name" that contains the sheep `names` above*  
->    - *"sheep_id" that contains the `sheep_ids` above*    
->  
-> *Make a point plot of my_sheep, with the sheep names along the x-axis and sheep IDs on the y-axis.    
-> Add a plot title, "Counting sheep backwards makes me Zzzz...".  
-> Set the variable `asleep` to true.*  
 
-
-<details> <summary> Example code </summary>
- 
 ```r
 
 library(ggplot2)
@@ -133,7 +116,24 @@ counting + labs(title = "Counting sheep backwards makes me Zzzz...")
 
 asleep <- TRUE
  
-``` 
+```   
+  
+<details>
+
+**<summary> Example reading  </summary>**
+  
+>     
+> *Load the package "ggplot2".*  
+> *Create a new variable named "asleep" and set it to false.     
+> Create a vector called "names" that contains the 3 text values: "Shaun", "Lambchop" & "Dolly"    
+> Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3    
+> Create a data frame called "my_sheep" with 2 columns:*  
+>    - *"sheep_name" that contains the sheep `names` above*  
+>    - *"sheep_id" that contains the `sheep_ids` above*    
+>  
+> *Make a point plot of my_sheep, with the sheep names along the x-axis and sheep IDs on the y-axis.    
+> Add a plot title, "Counting sheep backwards makes me Zzzz...".  
+> Set the variable `asleep` to true.*  
 
 </details>
 </details>
