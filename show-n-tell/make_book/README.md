@@ -12,12 +12,12 @@
 
 <br>
 
-## Today's steps
+## First steps
 
 We're kicking off with a 3-page book. 
 
 1. Open R
-    - Use https://rstudio.cloud if you don't have access to R
+    - Try https://rstudio.cloud if you have telework troubles
 1. Create a new R project
     - File > New project... > Name it "my_book"
 1. Install the R package `bookdown`
@@ -40,18 +40,20 @@ output:
   #bookdown::pdf_book: default
 ---
   
-# Hello fans!
+# Hello
   
 Hi.
 
 Bye.
 
-<!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. -->
-<!-- You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->
 ```
 
 6. Save the file as `index.Rmd` _(The Rmd extension stands for R markdown)_
 6. Fix any spacing changes that occurred (`title` and `# Hello fans` should start all the way to the left)
+6. Add an image by placing the following after the `# Hello` header
+    - `![](link-to-my-image.png)`
+
+<br>
 
 ### New page!
 
@@ -60,7 +62,7 @@ Bye.
 8. Delete the top header information starting and ending with the 3 ticks: `---`
 8. Drop one of the `#` signs in front of "## R Markdown" to create a level 1 header
 8. Save the file as `02-page_2` or `02-my_section_name`
-8. Preview this page
+8. Preview the page
     - Click the `Knit` button at the top left
     - It's under the .Rmd file tabs and has a __yarn__ icon
 
@@ -68,6 +70,27 @@ Bye.
 
 14. Repeat the first 4 steps above to create a new page
 14. Save the file as `03-page_3` or `03-my_section_name`
-14.
+14. Preview the page _(click the `knit` button)_
 
-## :star: Bonus options
+### Build your book
+
+16. 
+
+## :star: Bonus options :star:
+
+### Download options
+
+![](https://bookdown.org/yihui/bookdown/images/gitbook.png)
+
+1. Create a new R file
+1. Save it as `output.yml`
+1. Paste these configuration options into it:
+
+```r
+bookdown::gitbook:
+  config:
+    download: ["pdf", "epub"]
+ 
+```
+4. Re-build your book.
+
