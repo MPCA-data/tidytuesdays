@@ -49,9 +49,14 @@ Bye.
 ```
 
 6. Save the file as `index.Rmd` _(The Rmd extension stands for R markdown)_
-6. Fix any spacing changes that occurred (`title` and `# Hello fans` should start all the way to the left)
+6. Fix any spacing changes that occurred 
+    - `title: ` and `# Hello` should start all the way to the left
 6. Add an image by placing the following after the `# Hello` header
     - `![](link-to-my-image.png)`
+    
+This would show an image of a blue fish I had in my folder:   
+`![](blue-fish.png)`  
+![](https://i.pinimg.com/236x/09/3f/01/093f01c6016cf56b08598bb78604faf0--fish-template-santa-fe.jpg)
 
 <br>
 
