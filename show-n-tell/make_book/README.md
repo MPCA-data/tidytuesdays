@@ -2,7 +2,7 @@
 
 > The `bookdown` package is great for a wiki-type documentation of a long term project.
 >
-> You can include narrative along side images and charts with your analysis code.
+> You can include narrative next to images and charts and your analysis code.
 
 #### Resources
 
