@@ -80,6 +80,8 @@ This would show an image of a blue fish I had in my folder:
 
 ### Build your book
 
+1. Restart your R session
+1. Open your book project
 1. Click the `Build` tab in the top-right of RStudio's _Environment_ pane, near the `History` and `Connections` tabs
 1. Click `Build Book`
 
