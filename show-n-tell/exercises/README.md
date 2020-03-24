@@ -74,7 +74,7 @@ nrow(big_fishes)
 <details>
 
 **<summary> Example reading  </summary>**
-
+  
 > *Load the package "readr".*  
 > *Then read in the Lake Superior fish data stored in a .csv file and name the data "fishes".   
 > View the column names in the fishes data.  
@@ -95,14 +95,16 @@ Now let's go the other direction. We'll try to turn _plain language_ into R code
 
 <summary> Ernie's :eyes: only </summary>
     
+  
+  
 >     
 > *Load the package "ggplot2".*  
 > *Create a new variable named "asleep" and set it to false.     
 > Create a vector called "names" that contains the 3 text values: "Shaun", "Lambchop" & "Dolly"    
 > Create a new variable named "sheep_id" and assign it three values: 1, 2, & 3    
 > Create a data frame called "my_sheep" with 2 columns:*  
->    - *"sheep_name" that contains the "names" vector above*  
->    - *"sheep_id" that contains the "sheep_ids" above*    
+>    - *"sheep_name" that contains the sheep `names` above*  
+>    - *"sheep_id" that contains the `sheep_ids` above*    
 >  
 > *Make a gg-scatterplot of my_sheep, with the sheep names along the x-axis and the sheep IDs as the y-axis.    
 > Give the plot the title "Counting sheep backwards makes me Zzzz...".  
