@@ -79,9 +79,11 @@ This would show an image of a blue fish I had in my folder:
 
 ### Build your book
 
-16. 
+16. Click the `Build` tab in the top-right of RStudio's _Environment_ pane (near the `History` tab)
 
-## :star: Bonus options :star:
+<br>
+
+## Bonus options 
 
 ### Download options
 
