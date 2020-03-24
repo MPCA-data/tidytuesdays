@@ -9,6 +9,7 @@
 - User guide: https://bookdown.org/yihui/bookdown/
 - Book example: https://github.com/rstudio/bookdown-demo
 - MPCA's air example: https://mpca-air.github.io/air-methods/  
+- R textbook: https://r4ds.had.co.nz/
 
 <br>
 
