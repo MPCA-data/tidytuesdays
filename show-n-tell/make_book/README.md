@@ -36,7 +36,7 @@ author: "My name"
 site: bookdown::bookdown_site
 documentclass: book
 output:
-  bookdown::gitbook: default
+  bookdown::gitbook
   #bookdown::pdf_book: default
 ---
   
