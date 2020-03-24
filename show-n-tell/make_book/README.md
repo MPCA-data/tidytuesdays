@@ -26,8 +26,8 @@ We're kicking off with a 3-page book.
 install.packages("bookdown")
 ```
 
-1. Create a new R file _(This will be your book's title or Home page)_
-1. Paste this starter code into the file:
+4. Create a new R file _(This will be your book's title or Home page)_
+4. Paste this starter code into the file:
 
 ```r
 ---
@@ -49,9 +49,9 @@ Bye.
 ```
 
 6. Save the file as `index.Rmd` _(The Rmd extension stands for R markdown)_
-6. Fix any spacing changes that occurred 
+7. Fix any spacing changes that occurred 
     - `title: ` and `# Hello` should start all the way to the left
-6. Add an image by placing the following after the `# Hello` header
+8. Add an image by placing the following after the `# Hello` header
     - `![](link-to-my-image.png)`
     
 This would show an image of a blue fish I had in my folder:   
@@ -62,24 +62,24 @@ This would show an image of a blue fish I had in my folder:
 
 ### New page!
 
-8. Click `New File > R Markdown...`
-8. Leave the default options and click `OK`
-8. Delete the top header information starting and ending with the 3 ticks: `---`
-8. Drop one of the `#` signs in front of "## R Markdown" to create a level 1 header
-8. Save the file as `02-page_2` or `02-my_section_name`
-8. Preview the page
+1. Click `New File > R Markdown...`
+1. Leave the default options and click `OK`
+1. Delete the top header information starting and ending with the 3 ticks: `---`
+1. Drop one of the `#` signs in front of "## R Markdown" to create a level 1 header
+1. Save the file as `02-page_2` or `02-my_section_name`
+1. Preview the page
     - Click the `Knit` button at the top left
     - It's under the .Rmd file tabs and has a __yarn__ icon
 
 ### Last page
 
-14. Repeat the first 4 steps above to create a new page
-14. Save the file as `03-page_3` or `03-my_section_name`
-14. Preview the page _(click the `knit` button)_
+1. Repeat the first 4 steps above to create a new page
+1. Save the file as `03-page_3` or `03-my_section_name`
+1. Preview the page _(click the `knit` button)_
 
 ### Build your book
 
-16. Click the `Build` tab in the top-right of RStudio's _Environment_ pane (near the `History` tab)
+1. Click the `Build` tab in the top-right of RStudio's _Environment_ pane, near the `History` tab
 
 <br>
 
