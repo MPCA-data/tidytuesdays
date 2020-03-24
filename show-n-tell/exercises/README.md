@@ -126,12 +126,10 @@ sheep_ids <- 1:3
 my_sheep <- data.frame(sheep_name = names, 
                        sheep_id   = sheep_ids)
 
-ggplot(my_sheep, aes(x = names, y = sheep_id)) +
-  geom_point()
+counting <- ggplot(my_sheep, aes(x = names, y = sheep_id)) +
+            geom_point()
 
-ggplot(my_sheep, aes(x = names, y = sheep_id)) +
-  geom_point() +
-  labs(title = "Counting sheep backwards makes me Zzzz...")
+counting + labs(title = "Counting sheep backwards makes me Zzzz...")
 
 asleep <- TRUE
  
