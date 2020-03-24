@@ -86,7 +86,7 @@ This would show an image of a blue fish I had in my folder:
 
 ## Bonus options 
 
-### Download options
+### Download as PDF
 
 ![](https://bookdown.org/yihui/bookdown/images/gitbook.png)
 
