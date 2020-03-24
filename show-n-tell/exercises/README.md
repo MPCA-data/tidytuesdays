@@ -43,7 +43,7 @@ red_veggies <- filter(fillings, food_type == "vegetable", color = "red")
 
 <br>
 
-> :warning: Don't click below until you have assigned roles. :warning:
+> :warning: Don't click below until you have assigned roles. 
 
 <br>
 
