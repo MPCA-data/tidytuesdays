@@ -106,9 +106,9 @@ Now let's go the other direction. We'll try to turn _plain language_ into R code
 >    - *"sheep_name" that contains the sheep `names` above*  
 >    - *"sheep_id" that contains the `sheep_ids` above*    
 >  
-> *Make a gg-scatterplot of my_sheep, with the sheep names along the x-axis and the sheep IDs as the y-axis.    
-> Give the plot the title "Counting sheep backwards makes me Zzzz...".  
-> Set the variable "asleep" to true.*  
+> *Make a point plot of my_sheep, with the sheep names along the x-axis and sheep IDs on the y-axis.    
+> Add a plot title, "Counting sheep backwards makes me Zzzz...".  
+> Set the variable `asleep` to true.*  
 
 
 <details> <summary> Example code </summary>
