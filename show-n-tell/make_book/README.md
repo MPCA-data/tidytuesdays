@@ -117,7 +117,7 @@ Let's create one last options file named `_bookdown.yml` to tell R do this step 
 
 1. Create a new R file
 1. Save it as `_bookdown.yml`
-1. Paste these configuration options into it and save
+1. Paste in these configuration options and save
 
 ```yml
 book_filename: bookdown
