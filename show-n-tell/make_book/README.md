@@ -93,7 +93,7 @@ This would show an image of a blue fish I had in my folder:
 
 ## Bonus options 
 
-### Download as PDF
+### 1. Download as PDF
 
 ![](https://bookdown.org/yihui/bookdown/images/gitbook.png)
 
@@ -107,5 +107,23 @@ bookdown::gitbook:
     download: ["pdf", "epub"]
  
 ```
-4. Re-build your book.
+4. Save the file and re-build your book.
+
+### 2. :warning: Please stop the merged file warning
+
+> Tired of the warning to delete the merged file when _knitr_ runs into a mistake?  
+
+Let's create one last options file named `_bookdown.yml` to tell R do this step for us.
+
+1. Create a new R file
+1. Save it as `_bookdown.yml`
+1. Paste these configuration options into it and save
+
+```yml
+book_filename: bookdown
+delete_merged_file: true
+
+```
+
+### Happy booking! :pencil2: :tada:
 
