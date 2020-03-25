@@ -12,7 +12,7 @@
 - R textbook: https://r4ds.had.co.nz/
 
 
-More on how to write in R Markdown: https://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/index.html
+More on writing in R Markdown: [Data Reports with R](https://swcarpentry.github.io/r-novice-gapminder/15-knitr-markdown/index.html)
 
 
 <br>
