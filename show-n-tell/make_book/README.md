@@ -109,7 +109,7 @@ bookdown::gitbook:
 ```
 4. Save the file and re-build your book.
 
-### 2. :warning: Please stop the merged file warning
+### 2. :warning: Stop the merged file warnings
 
 > Tired of the warning to delete the merged file when _knitr_ runs into a mistake?  
 
