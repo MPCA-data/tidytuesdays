@@ -1,4 +1,4 @@
-# tidytuesdays
+# tidy tuesdays
 
 ![](https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=200&h=200)
 
