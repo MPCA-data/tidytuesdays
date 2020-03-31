@@ -78,6 +78,8 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 
 > Open to all to contribute – especially you!
 
+<br>
+
 | Project | Details | Team contact | Members _join us!_ | Help requests |  
 | ---  | --- | --- | --- | --- | 
 | `library(mpcadata)` | Database connections to delta, equis, AirVision, tempo, GIS resources, etc...  <br/> - Store common reference data | Derek | | |
