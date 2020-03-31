@@ -134,7 +134,7 @@ Things to talk about.
 
 ## :earth_africa: Community projects
 
-> Open to everyone to contribute – especially you!
+> Open to all to contribute – especially you!
 
 
 | Project | Team leads | Team leads  | Event link | Group webpage |  
