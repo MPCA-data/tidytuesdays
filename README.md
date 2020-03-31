@@ -71,6 +71,28 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 - Helsel's books at [Practical Stats](http://www.practicalstats.com/info2use/books.html)
 
 
+<br/>
+
+
+## :earth_africa::busts_in_silhouette: Community projects
+
+> Open to all to contribute – especially you!
+
+| Project | Details | Team contact | Members _join us!_ | Help requests |  
+| ---  | --- | --- | --- | --- | 
+| `library(mpcadata)` | Database connections to delta, equis, AirVision, tempo, GIS resources, etc...  <br/> - Store common reference data | Derek | | |
+| `library(mpcaggthemes)` | MPCA themes for `ggplot` w/ branded colors, fonts, logos | | | |
+| `library(mpcareports)` | MPCA themes for markdown reports -Templates with logo, header, fonts <img src="images/mpca_template.png" width="40%">  | Dorian | | | 
+|[MPCA Data Guide](https://mpca-data.github.io/Data-Guide/) | A guide to data locations and instructions for water, land, air, and more | | | Add data publishing/sharing tips  |
+| [Analysis Methods Guide](https://mpca-air.github.io/air-methods/) | How we analyze monitoring data in R _(currently air focused)_ | | | | 
+| `library(chemicalnames)` | My data has "`Methyl Bromide`" and you have "`Bromomethane`", but we all want the CAS# `74-83-9` | | | | 
+| MPCA / MN R hex sticker |<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/modelr.png" width="20%">  A porg, or a flyging squirrel, or a porg on a flying squirrel?  | Barbara |  | | 
+| `library(mpcadashboard)` | Update our paper [dashboard](https://www.pca.state.mn.us/about-mpca/dashboard-environmental-and-performance-measures) to an R web dashboard | | | | 
+| R training | - [Star Wars training](https://itep-r.netlify.com/)  <br/> - [Workshops](https://mpca-air.github.io/RTrain/#workshops) (Maps, Connecting to databases, messy data)  <br/> - [Cat training](https://mpca-air.github.io/RCamp/) (the original)  | | | | 
+
+<br>
+
+
 
 ## Future topics
 
@@ -126,26 +148,5 @@ Things to talk about.
 > How do we store and share our methods and code? Do your analyses have versions?
 
 </details>
-
-<br>
-
-
-
-
-## :earth_africa::busts_in_silhouette: Community projects
-
-> Open to all to contribute – especially you!
-
-| Project | Details | Team contact | Members | Help requests |  
-| ---  | --- | --- | --- | --- | 
-| `library(mpcadata)` | Database connections to delta, equis, AirVision, tempo, GIS resources, etc...  <br/> - Store common reference data | Derek | | |
-| `library(mpcaggthemes)` | MPCA themes for `ggplot` w/ branded colors, fonts, logos | | | |
-| `library(mpcareports)` | MPCA themes for markdown reports -Templates with logo, header, fonts <img src="images/mpca_template.png" width="40%">  | Dorian | | | 
-|[MPCA Data Guide](https://mpca-data.github.io/Data-Guide/) | A guide to data locations and instructions for water, land, air, and more | | | Add data publishing/sharing tips  |
-| [Analysis Methods Guide](https://mpca-air.github.io/air-methods/) | How we analyze monitoring data in R _(currently air focused)_ | | | | 
-| `library(chemicalnames)` | My data has "`Methyl Bromide`" and you have "`Bromomethane`", but we all want the CAS# `74-83-9` | | | | 
-| MPCA / MN R hex sticker |<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/modelr.png" width="20%">  A porg, or a flyging squirrel, or a porg on a flying squirrel?  | Barbara |  | | 
-| `library(mpcadashboard)` | Update our paper [dashboard](https://www.pca.state.mn.us/about-mpca/dashboard-environmental-and-performance-measures) to an R web dashboard | | | | 
-| R training | - [Star Wars training](https://itep-r.netlify.com/)  <br/> - [Workshops](https://mpca-air.github.io/RTrain/#workshops) (Maps, Connecting to databases, messy data)  <br/> - [Cat training](https://mpca-air.github.io/RCamp/) (the original)  | | | | 
 
 <br>
