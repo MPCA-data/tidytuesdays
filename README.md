@@ -146,6 +146,6 @@ Things to talk about.
 | `library(chemicalnames)` | My data has "`Methyl Bromide`" and you have "`Bromomethane`", but we all want the CAS# `74-83-9` | | | | 
 | MPCA / MN R hex sticker |<img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/modelr.png" width="20%">  A porg, or a flyging squirrel, or a porg on a flying squirrel?  | Barbara |  | | 
 | `library(mpcadashboard)` | Update our paper [dashboard](https://www.pca.state.mn.us/about-mpca/dashboard-environmental-and-performance-measures) to an R web dashboard | | | | 
-| R training | - [Star Wars training](https://itep-r.netlify.com/)  <br/> - [Workshops](https://mpca-air.github.io/RTrain/#workshops) <br/> - Maps  <br/> - Connect to databases  <br/> - The original [Cat training](https://mpca-air.github.io/RCamp/) | | | | 
+| R training | - [Star Wars training](https://itep-r.netlify.com/)  <br/> - [Workshops](https://mpca-air.github.io/RTrain/#workshops) (Maps, Connecting to databases, messy data)  <br/> - [Cat training](https://mpca-air.github.io/RCamp/) (the original)  | | | | 
 
 <br>
