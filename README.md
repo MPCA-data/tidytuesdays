@@ -18,7 +18,7 @@
 
 <br>
 
-## Upcoming events _(and recordings)_
+## Upcoming events & recordings
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
