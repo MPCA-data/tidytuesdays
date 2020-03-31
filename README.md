@@ -54,6 +54,7 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 <br>
 
 
+
 ## What we're learning
 
 <a href="https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html"><img src="https://tinystats.github.io/teacups-giraffes-and-statistics/images/Landing_page/singleGiraffe-clickme-hover.jpg" width="11%" align="left" /></a>
@@ -68,6 +69,37 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 
 - Hadley's [R 4 Data Science](https://r4ds.had.co.nz/)
 - Helsel's books at [Practical Stats](http://www.practicalstats.com/info2use/books.html)
+
+
+
+## Future topics
+
+> 1. Maps and shapefiles
+>     - Kriging / Spatial interpolating between map points
+> 1. Is it an outlier?
+> 1. Conditional probability
+> 1. Python & R: `reticulate`
+> 1. <s>Non-detects: `NADA` vs `EnvStats` </s>
+> 1. <s>Time series forecasting </s>
+> 1. <s>Rmarkdown books: `bookdown` </s>
+> 1. Intro to Rmarkdown
+> 1. `broom` your modeling results
+> 1. `gganimate`
+>     - gifs for mpca tweets
+> 1. Working w/ strings & text
+>     - Find exact words
+>     - Pull data from PDFs  
+>     - Read text from online  
+> 1. Project swap - Will it run?
+> 1. Working in GitHub
+> 1. `data.table` *(Derek)*
+> 1. Create R packages
+> 1. Write tests - testthat *(Barbara)*
+> 1. [R generative art](https://www.data-imaginist.com/art)
+>    - <img src="https://d33wubrfki0l68.cloudfront.net/68c4238194b9e2a403f144836aeb0dd8dec6cec8/51cfa/art/005_genesis/genesis4563_hu094ca1b1a2a99a63b276daf95703c5da_1678978_500x500_fill_box_center_2.png" width="25%"/> <img src="https://d33wubrfki0l68.cloudfront.net/d2690abfd68ec3d3abd3a0d84d79b2ff449f7aac/e0f3d/art/005_genesis/genesis9458_hu00b8f3fe8c7f8351b6b4597d079006d8_4379029_500x500_fill_box_center_2.png" width="25%"/> 
+> 1. Show-n-tell what you want to replace: mega Excel tools, Access
+
+<br>
 
 
 ## Discussion
@@ -98,40 +130,16 @@ Things to talk about.
 <br>
 
 
-## Future topics
-
-> 1. Show-n-tell what you want to replace: mega Excel tools, Access
-> 1. Is it an outlier?
-> 1. Non-detects: `NADA` vs `EnvStats` 
-> 1. Time series forecasting 
-> 1. Maps and shapefiles
->     - Kriging / Spatial interpolating between map points
-> 1. Conditional probability
-> 1. `broom` your modeling results
-> 1. What is Rmarkdown?
-> 1. `gganimate`
->     - gifs for mpca tweets
-> 1. Working w/ strings & text
->     - Find words
->     - Split text columns
->     - Pull data from PDFs  
->     - Get data from web pages  
-> 1. Project swap - Will it run?
-> 1. Working in GitHub
-> 1. `data.table` *(Derek)*
-> 1. Create R packages
-> 1. Write tests - testthat *(Barbara)*
-> 1. Add data set to Kaggle - Pose questions to the world
-> 1. [R generative art](https://www.data-imaginist.com/art)
->    - <img src="https://d33wubrfki0l68.cloudfront.net/68c4238194b9e2a403f144836aeb0dd8dec6cec8/51cfa/art/005_genesis/genesis4563_hu094ca1b1a2a99a63b276daf95703c5da_1678978_500x500_fill_box_center_2.png" width="25%"/> <img src="https://d33wubrfki0l68.cloudfront.net/d2690abfd68ec3d3abd3a0d84d79b2ff449f7aac/e0f3d/art/005_genesis/genesis9458_hu00b8f3fe8c7f8351b6b4597d079006d8_4379029_500x500_fill_box_center_2.png" width="25%"/> 
-> 1.
-
-<br>
 
 
 ## :earth_africa: Community projects
 
-> Open to everyone to contribute – that's you!
+> Open to everyone to contribute – especially you!
+
+
+| Project | Team leads | Team leads  | Event link | Group webpage |  
+| ---  | --- | --- | --- | --- |
+
 
 - MPCA / MN R hex sticker <img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/modelr.png" width="20%"> 
     - A porg, or a flyging squirrel, or a porg on a flying squirrel?
