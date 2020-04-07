@@ -124,7 +124,12 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 > 1. [R generative art](https://www.data-imaginist.com/art)
 >    - <img src="https://d33wubrfki0l68.cloudfront.net/68c4238194b9e2a403f144836aeb0dd8dec6cec8/51cfa/art/005_genesis/genesis4563_hu094ca1b1a2a99a63b276daf95703c5da_1678978_500x500_fill_box_center_2.png" width="25%"/> <img src="https://d33wubrfki0l68.cloudfront.net/d2690abfd68ec3d3abd3a0d84d79b2ff449f7aac/e0f3d/art/005_genesis/genesis9458_hu00b8f3fe8c7f8351b6b4597d079006d8_4379029_500x500_fill_box_center_2.png" width="25%"/> 
 
-> **Presented:** Non-detects: `NADA` vs `EnvStats`; Time series forecasting; Books w/ Rmarkdown: `bookdown`
+> **Previous presentations:** 
+> - Non-detects: `NADA` vs `EnvStats`  (Derek)
+> - Time series forecasting  (Barbara)
+> - Create & read shapefiles (Kristie)
+> - Books w/ Rmarkdown: `bookdown`  (Dorian)  
+> - Read data from Microsoft Access database (Barbara)
 
 <br>
 
