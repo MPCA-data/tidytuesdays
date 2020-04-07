@@ -41,7 +41,7 @@
 
 - [ ]  Get the TITAN analysis to run super fast  
     - Data and code here: `X:\Agency_Files\Data_Services\DAU\Data Analytics User Group\Shared\r\tidytuesday\show-n-tell\bug_count`
-- [ ]  Publish an Rmarkdown report as a webpage (*Barbara*)
+- [ ]  Publish an Rmarkdown report as an MPCA webpage (*Barbara*)
 
 <br>
 
