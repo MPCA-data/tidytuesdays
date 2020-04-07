@@ -111,8 +111,7 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 > 1. Intro to Rmarkdown
 > 1. Show-n-tell something you want to replace: Excel tools, Word/PDF report, Access database, 
 > 1. `broom` your modeling results
-> 1. `gganimate`
->     - gifs for mpca tweets
+> 1. `gganimate` Add movement to your charts, make gifs to share
 > 1. Working w/ strings & text
 >     - Find exact words
 >     - Pull data from PDFs  
