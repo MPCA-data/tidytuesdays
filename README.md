@@ -13,7 +13,7 @@
 <br>
 
 
-## Upcoming **tidytuesday** schedule
+## Upcoming schedule
 
 | Date | Presentation <br> (1st half)  | Show-n-tell time <br> **Volunteer!** <br> (2nd half) |  
 | ---  | --- | --- | 
