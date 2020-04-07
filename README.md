@@ -15,7 +15,7 @@
 
 ## Upcoming schedule
 
-| Date | Presentation <br> _1st half_  | Show-n-tell time <br> **Please!** <br> _2nd half_ |  :candy: Bonus :candy: <br> `sugaR pts`  | 
+| Date | Presentation <br> _1st half_  | Show-n-tell time <br> **:pray: Please!** <br> _2nd half_ |  :candy: Bonus :candy: <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |
 | Apr 16 | Get data from PDF's & other text magic _(Derek)_ | You? Me? Everyone? |   +50 `sugaR pts` |
 | Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | You? Me? Everyone? |   +100 `sugaR pts` | 
