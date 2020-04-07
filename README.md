@@ -15,10 +15,10 @@
 
 ## Upcoming schedule
 
-| Date | Presentation <br> _1st half_  | Show-n-tell time <br> **Volunteer!** <br> _2nd half_ |  
-| ---  | --- | --- | 
-| Apr 16 | Get data from PDF's & other text magic _(Derek)_ | You? Me? Everyone? |   
-| Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | You? Me? Everyone? |     
+| Date | Presentation <br> _1st half_  | Show-n-tell time <br> **Please!** <br> _2nd half_ |  :candy: Bonus :candy: <br> `sugaR pts`  | 
+| ---  | --- | --- | --- |
+| Apr 16 | Get data from PDF's & other text magic _(Derek)_ | You? Me? Everyone? |   +50 `sugaR pts` |
+| Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | You? Me? Everyone? |   +100 `sugaR pts` | 
 
 <br>
 
