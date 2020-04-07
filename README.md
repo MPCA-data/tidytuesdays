@@ -12,11 +12,17 @@
 
 <br>
 
-## Anouncements
 
-- Next week timing & location, show-n-tell, share a problem
+## Upcoming **tidytuesday** schedule
+
+| Date | Presentation <br> (1st half)  | Show-n-tell time <br> **Volunteer!** <br> (2nd half) |  
+| ---  | --- | --- | 
+| Apr 16 | Get data from PDF's & other text magic (Derek) | You? Me? Everyone? |   
+| Apr 23 | Prin. Comp. Analysis or multi-variate predictions (Kristie) | You? Me? Everyone? |     
 
 <br>
+
+
 
 ## Upcoming events & recordings
 
