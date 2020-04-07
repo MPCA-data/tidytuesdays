@@ -15,10 +15,10 @@
 
 ## Upcoming schedule
 
-| Date | Presentation <br> (1st half)  | Show-n-tell time <br> **Volunteer!** <br> (2nd half) |  
+| Date | Presentation <br> _1st half_  | Show-n-tell time <br> **Volunteer!** <br> _2nd half_ |  
 | ---  | --- | --- | 
-| Apr 16 | Get data from PDF's & other text magic (Derek) | You? Me? Everyone? |   
-| Apr 23 | Prin. Comp. Analysis or multi-variate predictions (Kristie) | You? Me? Everyone? |     
+| Apr 16 | Get data from PDF's & other text magic _(Derek)_ | You? Me? Everyone? |   
+| Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | You? Me? Everyone? |     
 
 <br>
 
@@ -28,7 +28,7 @@
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
-| Apr 7, 9, 16, 23 | 1-2:30 | Intro to R workshop 4 day series - MARAMA | [Register here](https://register.gotowebinar.com/register/1174221645968434689) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
+| Apr 7, 9, 16, 23 | 1-2:30 | Intro to R workshop: 4 day series - MARAMA | [Register here](https://register.gotowebinar.com/register/1174221645968434689) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
 | March 24, 2020 | 2:30pm | Plot anything w/ ggplot - Online workshop | [ggplot workshop](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) |  | 
 | May 31, 2020 | 8-5 | Cascadia R Conference - :evergreen_tree: Eugene, Oregon | https://cascadiarconf.com/ | https://www.meetup.com/portland-r-user-group/ |  
 | Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Recordings available | [RStudio 2020](https://resources.rstudio.com/rstudio-conf-2020)  |   https://resources.rstudio.com   |
