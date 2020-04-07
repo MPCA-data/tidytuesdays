@@ -8,7 +8,7 @@
 > 
 > **:rocket: Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)**
 > 
-> :eyes: See what people are [sharing](https://twitter.com/hashtag/TidyTuesday)
+> :eyes: See what people are **[sharing](https://twitter.com/hashtag/TidyTuesday)**
 
 <br>
 
