@@ -22,10 +22,9 @@
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
+| Apr 7, 9, 16, 23 | 1-2:30 | Intro to R workshop 4 day series - MARAMA | [Register here](https://register.gotowebinar.com/register/1174221645968434689) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
 | March 24, 2020 | 2:30pm | Plot anything w/ ggplot - Online workshop | [ggplot workshop](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) |  | 
-| July 7, 2020 | -- | R User Conference - St. Louis, MO | [useR 2020](https://user2020.r-project.org/program/tutorials/) | https://user2020.r-project.org/ | 
-| May 31, 2020 | 8-5 | Cascadia R Conference - :evergreen_tree: Eugene, Oregon | https://cascadiarconf.com/ | https://www.meetup.com/portland-r-user-group/ | 
-| Feb 4, 2020 | 1:30-3 | Eco Data Science-Santa Barbara :santa: | [Zoom link](https://ucsb.zoom.us/j/390601568) | https://eco-data-science.github.io/  |    
+| May 31, 2020 | 8-5 | Cascadia R Conference - :evergreen_tree: Eugene, Oregon | https://cascadiarconf.com/ | https://www.meetup.com/portland-r-user-group/ |  
 | Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Recordings available | [RStudio 2020](https://resources.rstudio.com/rstudio-conf-2020)  |   https://resources.rstudio.com   |
 
 
