@@ -1,6 +1,6 @@
 # tidy tuesdays
 
-![](https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=200&h=200)
+![](https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=180&h=180)
 
 #### The R hour
 
@@ -10,15 +10,14 @@
 > 
 > :eyes: See what people are **[sharing](https://twitter.com/hashtag/TidyTuesday)**
 
-<br>
+
+## :steam_locomotive: Our schedule
 
 
-## Upcoming schedule
-
-| Date | Presentation <br> _1st half_  | Show-n-tell time <br> **:pray: Please!** <br> _2nd half_ |  :candy: Bonus :candy: <br> `sugaR pts`  | 
-| ---  | --- | --- | --- |
-| Apr 16 | Get data from PDF's & other text magic _(Derek)_ | You? Me? Everyone? |   +50 `sugaR pts` |
-| Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | You? Me? Everyone? |   +100 `sugaR pts` | 
+> | Date | Presentation <br> _1st half_  | Show-n-tell time <br> **:pray: Please!** <br> _2nd half_ | :candy: Bonus :candy: <br> `sugaR pts`  | 
+> | ---  | --- | --- | --- |
+> | Apr 16 | Topic that wins the survey _(Derek)_ | +You? Me? Everyone? |   +50 `sugaR pts` |
+> | Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | +You? Me? Everyone? |   +100 `sugaR pts` | 
 
 <br>
 
@@ -37,7 +36,7 @@
 <br>
 
 
-## :phone: Calls for **HELP!**
+## :phone: Calls for **help**
 
 - [ ]  Get the TITAN analysis to run super fast  
     - Data and code here: `X:\Agency_Files\Data_Services\DAU\Data Analytics User Group\Shared\r\tidytuesday\show-n-tell\bug_count`
@@ -70,7 +69,7 @@ Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rs
 
 <br><br><br>
 
-## :book: Reading
+## :book: Readings
 
 - Hadley's [R 4 Data Science](https://r4ds.had.co.nz/)
 - Helsel's books at [Practical Stats](http://www.practicalstats.com/info2use/books.html)
