@@ -2,9 +2,11 @@
 
 > <img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=180&h=180" align="left" style="float: left;">
 >
+>
 > Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring your burning questions, new packages, funny graphs, puzzles, and everything else you'd like to discuss.   
 > 
 > **:rocket: Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)**  
+>  
 > :eyes: See what others are **[sharing](https://twitter.com/hashtag/TidyTuesday)**
 
 <br>
