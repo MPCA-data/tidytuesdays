@@ -1,6 +1,6 @@
 # tidy tuesdays
 
-<img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=180&h=180" align="left">
+<img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=190&h=190" align="left">
 
 <br>  
   
