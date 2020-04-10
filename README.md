@@ -1,23 +1,20 @@
 # tidy tuesdays
 
-![](https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=180&h=180)
+> <img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=180&h=180" align="left" style="float: left;">
 
 #### The R hour
 
-> Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring your burning questions, new packages, funny graphs, puzzles, and everything else you'd like to discuss. 
+Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring your burning questions, new packages, funny graphs, puzzles, and everything else you'd like to discuss. **:rocket: Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)**
 > 
-> **:rocket: Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)**
-> 
-> :eyes: See what people are **[sharing](https://twitter.com/hashtag/TidyTuesday)**
+> :eyes: See what others are **[sharing](https://twitter.com/hashtag/TidyTuesday)**
 
 
 ## :steam_locomotive: Our schedule
 
-
-> | Date | Presentation <br> _1st half_  | Show-n-tell time <br> **:pray: Please!** <br> _2nd half_ | :candy: Bonus :candy: <br> `sugaR pts`  | 
-> | ---  | --- | --- | --- |
-> | Apr 16 | Topic that wins the survey _(Derek)_ | +You? Me? Everyone? |   +50 `sugaR pts` |
-> | Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | +You? Me? Everyone? |   +100 `sugaR pts` | 
+| Date | Presentation <br> _1st half_  | Show-n-tell time <br> **:pray: Please!** <br> _2nd half_ | :candy: Bonus :candy: <br> `sugaR pts`  | 
+| ---  | --- | --- | --- |
+| Apr 16 | Topic that wins the survey _(Derek)_ | +You? Me? Everyone? |   +50 `sugaR pts` |
+| Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | +You? Me? Everyone? |   +100 `sugaR pts` | 
 
 <br>
 
