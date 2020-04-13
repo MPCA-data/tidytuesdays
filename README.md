@@ -14,6 +14,8 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ## :steam_locomotive: Our schedule
 
+Ride along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
+
 | Date | Presentation <br> _1st half_  | Show-n-tell time <br> **:pray: Please!** <br> _2nd half_ | :candy: Bonus :candy: <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |
 | Apr 16 | Topic that wins the survey _(Derek)_ | +You? Me? Everyone? |   +50 `sugaR pts` |
@@ -46,8 +48,6 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 
 ## :hatching_chick: Featured functions
-
-Play along! You can remote to your desktop or jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
 - [`dplyr::add_count()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#counting-is-easy-with-add_count)
 - `pmax()` - _Find the max value across 2 columns, row by row._
