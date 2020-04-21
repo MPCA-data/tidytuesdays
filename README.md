@@ -14,12 +14,13 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ## :steam_locomotive: Our schedule
 
-Ride along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
+Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
-| Date | Presentation <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus :candy: <br> `sugaR pts`  | 
+| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus :candy: <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Apr 16 | Topic that wins the survey _(Derek)_ | +You? Me? Everyone? |   +50 `sugaR pts` |
-| Apr 23 | Prin. Comp. Analysis or multi-variate predictions _(Kristie)_ | +You? Me? Everyone? |   +100 `sugaR pts` | 
+| Apr 28 | Downlaoding & using MPCA's EJ shapefiles in R _(Dorian)_ | +You? Me? Everyone? |   +100 `sugaR pts` | 
+| Apr 21 | Princ. Comp. Analysis and multi-variate predictions _(Kristie)_ | +Matthew Lindon on toxic algae |   +100 `sugaR pts` | 
+| Apr 14 | Get 100's of PDFs out of a database and read data from them _(Derek)_ | +You? Me? Everyone? |   +50 `sugaR pts` |
 
 <br>
 
@@ -29,7 +30,7 @@ Ride along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your bro
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
-| Apr 7, 9, 16, 23 | 1-2:30 | Intro to R workshop: 4 day series - MARAMA | [Register here](https://register.gotowebinar.com/register/1174221645968434689) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
+| Apr 7, 9, 16, 23 | 1-2:30 | Intro to R workshop: 4 day series - MARAMA | [Register here](https://register.gotowebinar.com/register/1174221645968434689) (Recordings: [1. Intro to R](https://register.gotowebinar.com/recording/979473951571635467); [2. the tidyverse](https://register.gotowebinar.com/recording/3300678235076032514)) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
 | March 24, 2020 | 2:30pm | Plot anything w/ ggplot - Online workshop | [ggplot workshop](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) |  | 
 | Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Recordings available | [RStudio 2020](https://resources.rstudio.com/rstudio-conf-2020)  |   https://resources.rstudio.com   |
 
