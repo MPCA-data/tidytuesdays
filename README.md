@@ -18,7 +18,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus :candy: <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Apr 28 | Downlaoding & using MPCA's EJ shapefiles in R _(Dorian)_ | +You? Me? Everyone? |   +100 `sugaR pts` | 
+| Apr 28 | Create a Package :package:; Use MPCA's EJ shapefiles in R _(Dorian)_ | +You? Me? Everyone? |   +100 `sugaR pts` | 
 | Apr 21 | Princ. Comp. Analysis and multi-variate predictions _(Kristie)_ | +Matthew Lindon on toxic algae |   +100 `sugaR pts` | 
 | Apr 14 | Get 100's of PDFs out of a database and read data from them _(Derek)_ | +You? Me? Everyone? |   +50 `sugaR pts` |
 
