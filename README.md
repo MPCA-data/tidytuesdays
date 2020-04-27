@@ -30,7 +30,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
-| Apr 7, 9, 16, 23 | 1-2:30 | MARAMA - Intro to R workshops | Recordings: 1.[Intro to R](https://register.gotowebinar.com/recording/979473951571635467); 2.[tidyverse](https://register.gotowebinar.com/recording/3300678235076032514); 3.[ggplot](https://register.gotowebinar.com/register/2580834570751859715) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
+| Apr 7, 9, 16, 23 | 1-2:30 | MARAMA - Intro to R workshops | Recordings: [Intro to R](https://register.gotowebinar.com/recording/979473951571635467); [tidyverse](https://register.gotowebinar.com/recording/3300678235076032514); [ggplot](https://register.gotowebinar.com/register/2580834570751859715) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
 | March 24, 2020 | 2:30pm | Plot anything w/ ggplot - Online workshop | [ggplot workshop](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) |  | 
 | Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Recordings available | [RStudio 2020](https://resources.rstudio.com/rstudio-conf-2020)  |   https://resources.rstudio.com   |
 
