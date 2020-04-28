@@ -128,9 +128,9 @@ Function documentation is written using special comments above your
 function. For example:
 
 ``` r
-#' A Pet Message
+#' A Happy Pet Message
 #'
-#' This function expresses your love for a type of pet.
+#' This function expresses your love of pets.
 #' @param my_fave Your favorite animal. Default = "puppies".
 #' @keywords pets
 #' @export
@@ -150,7 +150,7 @@ Run `document()` in the console.
 > If you get an error concerning the NAMESPACE file, delete the
 > NAMESPACE file from the package folder. Now re-run `document()`.
 
-View the .Rd file in the `man/` folder
+Open the `man/` folder. You should see a `.Rd` file now. That's the help window that will appear for people when they type `?say_msg `.
 
 ## Step 6: Run `install()`
 
