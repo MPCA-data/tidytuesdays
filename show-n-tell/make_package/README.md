@@ -104,8 +104,7 @@ Two options:
 
 1.  If you’re already in the directory where you want your package to
     live, run `create("pets")`
-2.  Otherwise, to start your package somewhere new, go to `File` \> `New
-    project...` \> `New Directory` \> `R Package`
+2.  Otherwise, go to `File` \> `New project...` \> `New Directory` \> `R Package`
       - Name your package
       - Browse to the location you want to save your package
       - Leave the remaining defaults for now
