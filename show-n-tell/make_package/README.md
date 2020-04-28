@@ -192,7 +192,7 @@ Run `document()`. Run `install()`.
 Others can install and use it.
 
 You can install my “pets” package from github using
-`remotes::install\_github("MPCA-data/pets")`.
+`remotes::install_github("MPCA-data/pets")`.
 
 **X-drive**
 
