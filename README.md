@@ -21,7 +21,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | May 5 | Custom colors and palettes _(Barbara)_ | +Outliers? |   +100 `pts` | 
 | Apr 28 | [Create a Package :package:](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | +You? Me? Everyone? |   +100 `pts` | 
 | Apr 21 | [Princ. Comp. Analysis and multi-variate predictions](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/multivariate) _(Kristie)_ | Matt Lindon on toxic algae |   +100 `pts` | 
-| Apr 14 | [Get 100's of PDFs from a database and read their messy data into R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/tempo/Tidy%20Tuesday%20Tempo%20Demo.R) _(Derek)_ | +You? Me? Everyone? |   +50 `pts` |
+| Apr 14 | [Get 100's of PDFs from a database and read their messy data into R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/tempo/Tidy%20Tuesday%20Tempo%20Demo.R) _(Derek)_ |  |   +50 `pts` |
 
 <br>
 
