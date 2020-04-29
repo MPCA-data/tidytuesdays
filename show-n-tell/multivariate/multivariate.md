@@ -177,7 +177,7 @@ ggplot(loadingsmelt, aes(component, water_variables)) +
 
 <br>
 
-##Multiple Linear Regression in R
+## Multiple Linear Regression in R
 
 <br>
 
