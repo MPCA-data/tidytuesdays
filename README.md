@@ -40,6 +40,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 
 ## :phone: Calls for **collaboration**
+Let's team up on this.
 
 - [ ]  Get the TITAN analysis to run super fast  
     - Data and code here: `X:\Agency_Files\Data_Services\DAU\Data Analytics User Group\Shared\r\tidytuesday\show-n-tell\bug_count`
