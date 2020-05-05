@@ -27,7 +27,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 |  | [Summaries of Non-detect data: `EnvStats` & `NADA`](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/non-detects) _(Derek + Barbara)_ | -- | -- |  
 |  | [Build your own package: `devtools`](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | -- | --  |  
 |  | [Multivariate Analysis](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/multivariate/multivariate.md) _(Kristie)_ | -- | --  |  
-|  | Get data from Microsoft Access _(Barbara)_ | -- | --  |   
+|  | Microsoft Access data. Arrrrgghh... _(Barbara)_ | -- | --  |   
 |  | Time series forecasting _(Barbara)_ | -- | -- |  
 
 <br>
