@@ -28,7 +28,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 |  | [Build your own package: `devtools`](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | -- | --  |  
 |  | [Multivariate Analysis](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/multivariate/multivariate.md) _(Kristie)_ | -- | --  |  
 |  | Microsoft Access data. Arrrrgghh... _(Barbara)_ | -- | --  |   
-|  | Time series forecasting _(Barbara)_ | -- | -- |  
+|  | Time series forecasting, with total grabage data _(Barbara)_ | -- | -- |  
 
 <br>
 Multi-variate analysis (Kristie)
