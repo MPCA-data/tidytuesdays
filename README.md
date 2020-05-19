@@ -1,5 +1,11 @@
 # tidy tuesdays
 
+ideas: T-tests (carr pkg), Multi-site Nonparametric or parametric? 
+
+
+
+
+
 <img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=190&h=190" align="left">
 
 <br>  
