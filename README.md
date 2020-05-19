@@ -1,6 +1,6 @@
 # tidy tuesdays
 
-ideas: T-tests (carr pkg), Multi-site Nonparametric or parametric? 
+**ideas:** T-tests (carr pkg), Multi-site Nonparametric or parametric? 
 
 
 
@@ -24,7 +24,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| May 19 | More mapping tools in R: With MPCA's Environmental Justice maps[](https://github.com/MPCA-data/tidytuesdays) _(Dorian)_| Something surprising _(by Mystery guest)_ |  +100 `pts` | 
+| May 19 | [More mapping tools in R: With MPCA's Environmental Justice maps](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/find_hospitals.R) _(Dorian)_| Something surprising _(by Mystery guest)_ |  +100 `pts` | 
 | May 12 | Shiny tools & [widgets](https://shiny.rstudio.com/gallery/widget-gallery.html) _(Barbara_ & _Derek)_; Schedule your R scripts: Daily, Weekly, Monthly _(Barbara)_ | Use [`fill()`](https://tidyr.tidyverse.org/reference/fill.html) to fill gaps in names w/ previous value _(Kristie)_ |  +100 `pts` | 
 | May 5 | Custom colors and palettes _(Barbara)_ | Allison on sulfate outliers  |   +100 `pts` | 
 | Apr 28 | [Create a package :package:](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | +You? Me? Everyone? |   +100 `pts` | 
