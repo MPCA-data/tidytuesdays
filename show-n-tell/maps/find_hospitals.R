@@ -4,7 +4,6 @@ library(sf)
 ## Conver RGB color to Hex #
 rgb(108, 124, 138, maxColorValue = 255)
 # "#8C370C"
-# "#6C7C8A"
 
 ## MN GeoCommons
 - MN GEOCOMMONS: https://gisdata.mn.gov/
@@ -21,26 +20,31 @@ dir.create("EJ_shapefiles")
 
 zip_file <- "EJ_shapefiles/ej_shapefiles.zip"
 
+# Download ZIP file into it
 download.file(ej_url, zip_file)
 
+# View file names
 shapefiles_list <- unzip(zip_file, list = T) %>%
                    filter(str_detect(Name, "shp"), !str_detect(Name, "xml"))
 
 shapefiles_list
 
+# Choose the ones you want by looking for the word "trib"
 ej_file <- shapefiles_list %>%
            filter(!str_detect(Name, "trib")) %>% .$Name
 
 tribe_file <- shapefiles_list %>%
              filter(str_detect(Name, "trib")) %>% .$Name
 
+# Unzip everything
 unzip("EJ_shapefiles/ej_shapefiles.zip", exdir = "EJ_shapefiles")
 
+# Read in the shapefiles with st_read()
 ej_shapes    <- st_read(paste0("EJ_shapefiles/", ej_file))
 
 tribe_shapes <- st_read(paste0("EJ_shapefiles/", tribe_file))
 
-# See attribute information
+# Glimpse the columns or attributes
 glimpse(ej_shapes)
 
 
@@ -119,9 +123,9 @@ leaflet(st_transform(tribe_shapes, 4326)) %>%
               fillOpacity  = 0.2)
 
 
-#-----------------------------#
-# Read from GDB geo-database
-#-----------------------------#
+#-----------------------------------------#
+# Alternative, read from GDB geo-database
+#----------------------------------------#
 if (FALSE) {
 
   library(rgdal)
@@ -146,17 +150,20 @@ if (FALSE) {
                         layer = "census_tribal_areas")
 }
 
-#-------------------#
-# Get Hospitals
-#-------------------#
-hosp <- st_read("Hospitals/hospitals.shp")
+
+#--------------------------#
+# Get Hospitals locations
+#--------------------------#
+hosp <- st_read("X:/Agency_Files/Outcomes/Risk_Eval_Air_Mod/_Air_Risk_Evaluation/R/Packages/mpca_ej/Hospitals/hospitals.shp")
 
 plot(hosp[ , 1])
 
 
-
+#---------------------------------#
+# Get traffic locations and volume
+#---------------------------------#
 # Traffic layer
-traff <- st_read("Traffic/2014_traffic_segments.shp") %>%
+traff <- st_read("X:/Agency_Files/Outcomes/Risk_Eval_Air_Mod/_Air_Risk_Evaluation/R/Packages/mpca_ej/Traffic/2014_traffic_segments.shp") %>%
          clean_names() %>%
          st_zm()
 
@@ -172,10 +179,13 @@ buffer_meters <- 300
 # High traffic roads (busy roads)
 hi_traffic <- filter(traff, curr_vol >= high_volume)
 
-
 plot(hi_traffic[1,1])
 
-# Add buffer around roads
+#--------------------------#
+# Buffers !!!
+#--------------------------#
+
+# Add 300 meter buffer around roads
 hi_traffic <- st_buffer(hi_traffic, dist = as_units(300, "m"))
 
 plot(hi_traffic[1, 1])
@@ -187,7 +197,7 @@ plot(hi_traffic[1, 1])
 results <- data.frame()
 results[1, ] <- NA
 
-# Hospitals near high traffic
+# Find hospitals that overlap the high traffic buffers
 high_hosp <- st_join(hosp, hi_traffic) %>%
               filter(!is.na(curr_vol)) %>%
               group_by(NAME) %>%
@@ -198,7 +208,7 @@ plot(high_hosp[,1])
 nrow(high_hosp) / nrow(hosp)
 #28%
 
-
+# How many hospitals near High Traffic?
 results$"Statewide count"   <- nrow(hosp)
 
 results$"Near high traffic" <- nrow(high_hosp)
