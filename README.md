@@ -18,7 +18,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Jun 01 | Zippity do-da and date joins _(Kristie)_ | R bugs, the good kind _()_ |  +100 `pts` | 
+| Jun 01 | Zippity do-da and date joins _(Kristie)_ | R bugs, the good kind _(:ant::snail:)_ |  +100 `pts` | 
 | May 26 | T-tests and the `carr` pkg; Nonparametric or parametric? _(Barbara)_ |  |   | 
 | May 19 | [More mapping tools in R: With MPCA's Environmental Justice maps](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/find_hospitals.R) _(Dorian)_| |   | 
 | May 12 | Shiny tools & [widgets](https://shiny.rstudio.com/gallery/widget-gallery.html) _(Barbara_ & _Derek)_; Schedule your R scripts: Daily, Weekly, Monthly _(Barbara)_ | Use [`fill()`](https://tidyr.tidyverse.org/reference/fill.html) to fill gaps in names w/ previous value _(Kristie)_ |  +100 `pts` | 
