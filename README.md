@@ -27,7 +27,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Apr 28 | [Create a package :package:](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | +You? Me? Everyone? |   +100 `pts` |   
 
 <details>
-<summary> Even older topics</summary>
+<summary> <b> Older topics </b></summary>
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  |   
 | ---  | --- | --- | --- |  
