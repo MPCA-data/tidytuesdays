@@ -23,7 +23,13 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | May 19 | [More mapping tools in R: With MPCA's Environmental Justice maps](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/find_hospitals.R) _(Dorian)_| |   | 
 | May 12 | Shiny tools & [widgets](https://shiny.rstudio.com/gallery/widget-gallery.html) _(Barbara_ & _Derek)_; Schedule your R scripts: Daily, Weekly, Monthly _(Barbara)_ | Use [`fill()`](https://tidyr.tidyverse.org/reference/fill.html) to fill gaps in names w/ previous value _(Kristie)_ |  +100 `pts` | 
 | May 5 | Custom colors and palettes _(Barbara)_ | Allison on sulfate outliers  |   +100 `pts` | 
-| Apr 28 | [Create a package :package:](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | +You? Me? Everyone? |   +100 `pts` | 
+| Apr 28 | [Create a package :package:](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | +You? Me? Everyone? |   +100 `pts` |   
+
+<details>
+<summary> Even older topics</summary>
+  
+| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  |   
+| ---  | --- | --- | --- |  
 | Apr 21 | [Princ. Comp. Analysis and multi-variate predictions](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/multivariate) _(Kristie)_ | Matt on toxic algae |   +100 `pts` | 
 | Apr 14 | [Get 100's of PDFs from TEMPO and read their messy data into R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/tempo/Tidy%20Tuesday%20Tempo%20Demo.R) _(Derek)_ |  |   +50 `pts` |  
 |  | :earth_asia: [Create & read shapefiles](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_book) _(Kristie)_ |  |   |  
@@ -34,12 +40,14 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 |  | Microsoft Access data. Arrrrgghh... _(Barbara)_ | |   |   
 |  | Time series forecasting, with total grabage data _(Barbara)_ |  |  |  
 
+</details>
 <br>
 
 ## Upcoming events & recordings
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
+| Jul 14-15 | 9:00-1pm | MN's R North Conference| [NoRth 2020](https://rnorthconference.github.io/#about)|  |
 | May 14 | 6:30-8pm | Multi-level Modeilng : Twin Cities RLadies| [Online Meetup](https://www.meetup.com/rladies-tc/events/268384963/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGQ5NTI4ZDA3LTcxYjctNDY4MS04NWEzLWFkZDZkZmZjZWI3OA)| [TC R Ladies](https://www.meetup.com/rladies-tc) |
 | Apr 7, 9, 16, 23 | 1-2:30 | Intro to R workshops : MARAMA | Recordings: [Intro to R](https://register.gotowebinar.com/recording/979473951571635467); [tidyverse](https://register.gotowebinar.com/recording/3300678235076032514); [ggplot](https://register.gotowebinar.com/register/2580834570751859715) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
 | March 24, 2020 | 2:30pm | Plot anything w/ ggplot - Online workshop | [ggplot workshop](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) |  | 
