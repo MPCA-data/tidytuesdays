@@ -8,6 +8,7 @@ rgb(108, 124, 138, maxColorValue = 255)
 ## MN GeoCommons
 - MN GEOCOMMONS: https://gisdata.mn.gov/
 - Enviro Justice areas: https://gisdata.mn.gov/dataset/env-ej-mpca-census
+- Hospitals: https://gisdata.mn.gov/dataset/health-facility-hospitals
 - MPCA EJ Story map
 
 # Download the long way
