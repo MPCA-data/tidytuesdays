@@ -154,6 +154,8 @@ if (FALSE) {
 #--------------------------#
 # Get Hospitals locations
 #--------------------------#
+## Data source
+## Hospitals: https://gisdata.mn.gov/dataset/health-facility-hospitals
 hosp <- st_read("X:/Agency_Files/Outcomes/Risk_Eval_Air_Mod/_Air_Risk_Evaluation/R/Packages/mpca_ej/Hospitals/hospitals.shp")
 
 plot(hosp[ , 1])
