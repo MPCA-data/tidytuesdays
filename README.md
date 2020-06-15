@@ -18,7 +18,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jun 16 | MDH shares some R magic |  |  +100 `pts` |   
+| Jun 16 | MDH shares some R magic | Where's Waldo? The `waldo` pkg. |  +100 `pts` |   
 | Jun 09 | Barbara connects to GIS Rest API services - You can too! | |  +100 `pts` | 
 | Jun 02 | Zipping, factors, date joins and more Kristie tips _(Kristie)_ |  |   | 
 | May 26 | T-tests and the `carr` pkg; Nonparametric or parametric? _(Barbara)_ |  |   | 
