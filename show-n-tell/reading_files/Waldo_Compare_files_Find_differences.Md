@@ -62,39 +62,39 @@ library(palmerpenguins)
 ```
 
 ```r
-penguins <- penguins
+my_penguins <- penguins
 
-glimpse(penguins)
+glimpse(my_penguins)
 
-penguins %>% count(species)
+my_penguins %>% count(species)
 ```
 
 Exciting! Let's share our preliminary data with our Antarctica research partners.
 
 ```r
-shared_penguins <- penguins
+shared_penguins <- my_penguins
 ```
 
 Then you fix some errors in the data.
 
 ```r
-# Wups! Remove a doubled measurement 
-penguins[1, "culmen_length_mm"] <- penguins[1, "culmen_length_mm"] / 2
+## Remove a doubled measurement from a unit conversion error
+my_penguins[1, ]$bill_length_mm <- my_penguins[1, ]$bill_length_mm / 2
 
-# This penguin got recorded twice, drop duplicate entry
-penguins <- filter(penguins, island != "Torgersen" | body_mass_g != 3050)
+## Two entries were entered without their data
+my_penguins <- dplyr::filter(my_penguins, !is.na(body_mass_g))
 ```
 
 Time flies by. A month later you notice a chart your research partner is sharing doesn't align with your results. Hmmm... Do they have the latest data?
 
 ```r
-compare(penguins, shared_penguins)
+compare(my_penguins, shared_penguins)
 
 ```
 
-Try flippering the order.
+Try flippering the order around.
 ```r
-compare(shared_penguins, penguins)
+compare(my_penguins, shared_penguins)
 
 ```
 
