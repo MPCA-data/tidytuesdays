@@ -98,27 +98,5 @@ compare(shared_penguins, penguins)
 
 ```
 
-[Palmer Penguins](https://allisonhorst.github.io/palmerpenguins/)
 
-![](https://allisonhorst.github.io/palmerpenguins/articles/articles/img/lter_penguins.png)
-
-```r
-#install.packages("remotes")
-remotes::install_github("allisonhorst/palmerpenguins")
-library(palmerpenguins)
-```
-
-```r
-penguins <- penguins
-
-glimpse(penguins)
-
-penguins %>% count(species)
-```
-
-
-
-cars[1, 1] <- 33
-
-compare(cars, mtcars)
 
