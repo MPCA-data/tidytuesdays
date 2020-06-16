@@ -9,7 +9,8 @@ library(lubridate)
 
 Skip first row, only read first 4 columns
 ```r
-insur <- read_xlsx("G:/Data/Secure Data/Team Folders/Jennifer/IHVE_analysis/insurance_dates.xlsx", sheet = 1, 
+insur <- read_xlsx("G:/Data/Secure Data/Team Folders/Jennifer/IHVE_analysis/insurance_dates.xlsx", 
+                   sheet = 1, 
                    range = cell_limits(c(2, 1), c(NA, 4)))
 ```
 
