@@ -61,3 +61,46 @@ pengs <- penguins
   
 </details> 
 <br>
+
+
+### Code challenge #2: Caribou Tracks
+
+<b>Read data</b> <i>(For the script writer)</i>
+  
+We'll be working with the caribou traking data at [Tidy Tuesday Caribou](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-06-23/readme.md).
+
+
+```r
+library(readr)
+library(leaflet)
+## Leaflet circle markers: https://rstudio.github.io/leaflet/markers.html
+
+# Get the Data
+#meet_the_caribou <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-06-23/individuals.csv')
+
+tracks <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-06-23/locations.csv')
+
+# Now what? Ask the coach, they will guide you.
+```      
+
+<br>
+
+<details>
+<summary> <b>Coach's :eyes: only! </b> <i> (Click to see the goal) </i> </summary>
+
+<br>
+
+**Starting data**
+
+<img src="../../images/caribou_start.png" width=688 />
+
+<br><br>
+
+**End Goal**
+
+ <img src="../../images/caribou_map.png" width=738 />
+
+  
+</details> 
+<br>
+### For Caribou ID:`"GR_C15"`
