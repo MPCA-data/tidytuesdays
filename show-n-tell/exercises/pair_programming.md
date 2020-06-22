@@ -10,34 +10,46 @@ Let's practice writing R scripts as a team. One partner will convey what you wan
 
 #### Instructions
 
-_Use Teams to call your partner. The person who can open R the quickest should share their screen. They will be the first script doctor. The other person gets to be the coach / fan / moral support for the first go._
+_Use Teams to call your partner. Then tbe person who already has R open should share their screen. They will be the first script doctor. The other person gets to be the visionary coach / fan / moral support for the first go._
 
 1. The script writer will start reading in the data using the given code.
-1. The coach will look at the desired end goal and think about some possible first steps.
-1. Then the coach will do their best to convey the goal and steps to their partner as they start building their script.
+1. The coach will look at the desired end goal and think about possible first steps.
+1. Then the coach will convey the goal and steps to their partner as they start building their script.
+1. Keep working together to get to the end result shown in the **Goal** section.
 
 > **Ta-da!!** After you complete the first one, switch roles and move on to the next challenge.
 
 
 <br>
 
-> :warning: Don't click below until you have assigned roles. 
+> :warning: The code doctor should be sharing their screen. 
 
 
-### Code challenge #1
+### Code challenge #1: Penguin Waddle
 
 <b>Read data</b> <i>(Click here)</i>
   
-We'll be working with penguin data.
+We'll be working with Antarctic penguin data.
 
 ```r
-library(readr)
-    
+remotes::install_github("allisonhorst/palmerpenguins")
+
+library(palmerpenguins)
+
+pengs <- penguins  
 ```      
 
 <br>
 
 <details>
 <summary> <b>Coach's :eyes: only! </b> <i> (The goal) </i> </summary>
+
+**Starting data**
+<img src="../../images/pengu_start.png" width=248 align="right" />
+
+**End Goal**
+ <img src="../../images/pengu_end_an.png" width=248 align="right" />
+
   
+</details> 
 <br>
