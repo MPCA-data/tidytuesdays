@@ -20,10 +20,9 @@ _Use Teams to call your partner. Then tbe person who already has R open should s
 > **Ta-da!!** After you complete the first one, switch roles and move on to the next challenge.
 
 
-<br>
-
 #### :warning: Hold up! Wait until the script writer is sharing their screen to read the challenge. 
 
+<br>
 
 ### Code challenge #1: Penguin Waddle Dreams
 
