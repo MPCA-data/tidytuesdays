@@ -4,7 +4,7 @@
 
 > "Two pears are better than one."  
 
-Let's practice writing R scripts as a team. One partner will convey what you want to accomplish, while the other is in charge of writing the R script. There's no pressure at all, but there might be sugaR :candy: points on the line - just saying.
+Let's practice writing R scripts as a team. One partner will convey what you want to accomplish, while the other writes the R script. There's no pressure, but there might be sugaR :candy: points on the line.
 
 #### Steps
 
