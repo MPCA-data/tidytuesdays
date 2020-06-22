@@ -46,11 +46,16 @@ pengs <- penguins
 <details>
 <summary> <b>Coach's :eyes: only! </b> <i> (Click to see the goal) </i> </summary>
 
+<br>
+
 **Starting data**
-<img src="../../images/pengu_start.png" width=648 />
+
+<img src="../../images/pengu_start.png" width=688 />
+
+<br>
 
 **End Goal**
- <img src="../../images/pengu_end_an.png" width=648 />
+ <img src="../../images/pengu_end_an.png" width=688 />
 
   
 </details> 
