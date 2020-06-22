@@ -52,10 +52,11 @@ pengs <- penguins
 
 <img src="../../images/pengu_start.png" width=688 />
 
-<br>
+<br><br>
 
 **End Goal**
- <img src="../../images/pengu_end_an.png" width=688 />
+
+ <img src="../../images/pengu_end_an.png" width=738 />
 
   
 </details> 
