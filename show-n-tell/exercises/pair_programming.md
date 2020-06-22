@@ -22,12 +22,12 @@ _Use Teams to call your partner. Then tbe person who already has R open should s
 
 <br>
 
-> :warning: The code doctor should be sharing their screen. 
+#### :warning: Hold up! Wait until the script writer is sharing their screen to read the challenge. 
 
 
-### Code challenge #1: Penguin Waddle
+### Code challenge #1: Penguin Waddle Dreams
 
-<b>Read data</b> <i>(Click here)</i>
+<b>Read data</b> <i>(For the script writer)</i>
   
 We'll be working with Antarctic penguin data.
 
@@ -36,19 +36,21 @@ remotes::install_github("allisonhorst/palmerpenguins")
 
 library(palmerpenguins)
 
-pengs <- penguins  
+pengs <- penguins 
+
+# Now what?  The coach will tell you.
 ```      
 
 <br>
 
 <details>
-<summary> <b>Coach's :eyes: only! </b> <i> (The goal) </i> </summary>
+<summary> <b>Coach's :eyes: only! </b> <i> (Click to see the goal) </i> </summary>
 
 **Starting data**
-<img src="../../images/pengu_start.png" width=248 align="right" />
+<img src="../../images/pengu_start.png" width=648 />
 
 **End Goal**
- <img src="../../images/pengu_end_an.png" width=248 align="right" />
+ <img src="../../images/pengu_end_an.png" width=648 />
 
   
 </details> 
