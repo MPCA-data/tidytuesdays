@@ -38,7 +38,7 @@ library(palmerpenguins)
 
 pengs <- penguins 
 
-# Now what?  The coach will tell you.
+# Now what? Ask the coach, they will guide you.
 ```      
 
 <br>
