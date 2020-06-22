@@ -6,9 +6,11 @@
 
 Let's practice writing R scripts as a team. One partner will convey what you want to accomplish, while the other writes the R script. There's no pressure, but there might be sugaR :candy: points on the line.
 
-#### Steps
+**Come back and join the big group at ` 9:35 `**
 
-_Use Teams to "call" your partner. The person who can open R the quickest should share their screen. They will be the first script doctor. The other person gets to be the coach / fan / moral support for the first go._
+#### Instructions
+
+_Use Teams to call your partner. The person who can open R the quickest should share their screen. They will be the first script doctor. The other person gets to be the coach / fan / moral support for the first go._
 
 1. The script writer will start reading in the data using the given code.
 1. The coach will look at the desired end goal and think about some possible first steps.
