@@ -19,6 +19,7 @@ _Use Teams to call your partner. Then tbe person who already has R open should s
 
 > **Ta-da!!** After you complete the first one, switch roles and move on to the next challenge.
 
+<br>
 
 #### :warning: Hold up! Wait until the script writer is sharing their screen to read the challenge. 
 
@@ -97,9 +98,11 @@ tracks <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesda
 
 **End Goal**
 
- <img src="../../images/caribou_map.png" width=738 />
+**Map for Caribou ID:`"GR_C15"`**
+
+<img src="../../images/caribou_map.png" width=738 />
 
   
 </details> 
 <br>
-### For Caribou ID:`"GR_C15"`
+
