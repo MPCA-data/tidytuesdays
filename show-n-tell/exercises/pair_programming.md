@@ -33,7 +33,7 @@ _Use Teams to call your partner. Then the one who already has R open should shar
 
 <br>
 
-### Code challenge #1: Penguin Waddle Dreams
+## Code challenge #1: Penguin Waddle Dreams
 
 <b>Read data</b> <i>(For the script writer)</i>
   
@@ -60,7 +60,7 @@ pengs <- penguins
 
 <img src="../../images/pengu_start.png" width=688 />
 
-<br><br>
+<br>
 
 **End Goal**
 
@@ -73,12 +73,11 @@ pengs <- penguins
 <br>
 
 
-### Code challenge #2: The First of Many
+## Code challenge #2: The First of Many
 
 <b>Read data</b> <i>(For the script writer)</i>
   
 We'll be working with the African American achievement data at [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-06-23/readme.md).
-
 
 ```r
 library(readr)
@@ -103,7 +102,7 @@ View(science)
 
 <img src="../../images/am_achieve_start.png" width=708 />
 
-<br><br>
+<br>
 
 **End Goal**
 
@@ -115,7 +114,51 @@ View(science)
 </details> 
 <br>
 
-### Code challenge #3: Caribou Tracks
+
+## Code challenge #4: Who am I?
+
+<b>Read data</b> <i>(For the script writer)</i>
+  
+We'll be working with the African American achievement data at [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-06-23/readme.md).
+
+```r
+library(readr)
+
+# Get the Data
+firsts <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-06-09/firsts.csv')
+#science <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-06-09/science.csv')
+
+View(firsts)
+
+# Now what? Ask the coach, they will guide you.
+```      
+     
+
+<br>
+
+<details>
+<summary> <b>Coach's :eyes: only! </b> <i> (Click to see the goal) </i> </summary>
+
+<br>
+
+**Starting data**
+
+<img src="../../images/am_firsts_start.png" width=688 />
+
+<br>
+
+**End Goal**
+
+> **Map for Caribou ID:`"GR_C15"`**
+
+> <img src="../../images/am_firsts_end.png" width=738 />
+
+  
+</details> 
+<br>
+
+
+## Code challenge #4: Caribou Tracks
 
 <b>Read data</b> <i>(For the script writer)</i>
   
@@ -146,7 +189,7 @@ tracks <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesda
 
 <img src="../../images/caribou_start.png" width=688 />
 
-<br><br>
+<br>
 
 **End Goal**
 
