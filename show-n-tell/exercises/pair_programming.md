@@ -115,7 +115,7 @@ View(science)
 <br>
 
 
-# Code challenge #3: Women in Education
+# Code challenge #3: Education Firsts
 
 <b>Read data</b> <i>(For the script writer)</i>
   
