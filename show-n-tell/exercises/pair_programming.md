@@ -12,7 +12,7 @@ Let's practice writing R scripts as a team. One partner will convey what you wan
 
 <br>
 
-**Come back and join the big group at ` 9:35 `**
+**Come back and join the big group at ` 9:55 `**
 
 <br>
 
