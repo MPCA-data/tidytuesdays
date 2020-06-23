@@ -33,7 +33,7 @@ _Use Teams to screen-share with your partner. Then the one who already has R ope
 
 <br>
 
-## Code challenge #1: Penguin Waddle Dreams
+## Code challenge #1: Penguins Dream of Palm Trees
 
 <b>Read data</b> <i>(For the script writer)</i>
   
