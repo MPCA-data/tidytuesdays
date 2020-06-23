@@ -18,7 +18,7 @@ Let's practice writing R scripts as a team. One partner will convey what you wan
 
 ### Instructions
 
-_Use Teams to screen-share with your partner. Then the one who already has R open should share their screen. They will be the first script writer. The other person will be the visionary coach / fan / moral support for the first challenge._
+_Use Teams to screen-share with your partner. Then the one who already has R open should share their screen. They will be the first script writer. The other person will be the visionary coach for the first challenge._
 
 1. The script writer will start reading in the data using the given code.
 1. The coach will look at the desired end goal and think about possible first steps.
