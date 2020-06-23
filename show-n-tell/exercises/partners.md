@@ -5,6 +5,6 @@
 1.  Matt Lindon, Derek N
 1.  Sharon Kroening, Min Z
 1.  Jennifer Heins,  Sarah Yost
-1.  Kristie E, Sharon Kroening
+1.  Kristie E, Bruce Monson
 
 
