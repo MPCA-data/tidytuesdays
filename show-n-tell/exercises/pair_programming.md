@@ -10,18 +10,20 @@
 
 Let's practice writing R scripts as a team. One partner will convey what you want to accomplish, while the other writes the R script. There's no pressure, but there might be sugaR :candy: points on the line.
 
+<br>
+
 **Come back and join the big group at ` 9:35 `**
 
 <br>
 
 ### Instructions
 
-_Use Teams to call your partner. Then tbe person who already has R open should share their screen. They will be the first script doctor. The other person gets to be the visionary coach / fan / moral support for the first go._
+_Use Teams to call your partner. Then the one who already has R open should share their screen. They will be the first script writer. The other person will be the visionary coach / fan / moral support for the first challenge._
 
 1. The script writer will start reading in the data using the given code.
 1. The coach will look at the desired end goal and think about possible first steps.
-1. Then the coach will convey the goal and steps to their partner as they start building their script.
-1. Keep working together to get to the end result shown in the **Goal** section.
+1. The coach conveys the goal and steps to their partner as they start building their script.
+1. Keep working together to reach the end result shown in the **Goal** section.
 
 > **Ta-da!!** After you complete the first one, switch roles and move on to the next challenge.
 
@@ -62,9 +64,9 @@ pengs <- penguins
 
 **End Goal**
 
-Then there were four Dreamy penguins.
+> Then there were four Dreamy penguins.
 
- <img src="../../images/pengu_end_an.png" width=738 />
+> <img src="../../images/pengu_end_an.png" width=738 />
 
   
 </details> 
@@ -99,15 +101,15 @@ View(science)
 
 **Starting data**
 
-<img src="../../images/am_achieve_start.png" width=688 />
+<img src="../../images/am_achieve_start.png" width=708 />
 
 <br><br>
 
 **End Goal**
 
-How long did these 14 "chemists" live?
+> What age did the 14 "chemists" live to?
 
-<img src="../../images/am_achieve_end_an.png" width=688 />
+> <img src="../../images/am_achieve_end_an.png" width=708 />
 
   
 </details> 
@@ -148,9 +150,9 @@ tracks <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesda
 
 **End Goal**
 
-**Map for Caribou ID:`"GR_C15"`**
+> **Map for Caribou ID:`"GR_C15"`**
 
-<img src="../../images/caribou_map.png" width=738 />
+> <img src="../../images/caribou_map.png" width=738 />
 
   
 </details> 
