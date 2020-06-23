@@ -93,6 +93,10 @@ View(science)
 
 <br>
 
+_Hint:_ _Try [`str_detect()`](https://stringr.tidyverse.org/reference/str_detect.html) from tidyverse or `grepl()` to detect whether some "text" occurs anywhere in a column._
+
+<br>
+
 <details>
 <summary> <b>Coach's :eyes: only! </b> <i> (Click to see the goal) </i> </summary>
 
@@ -106,7 +110,7 @@ View(science)
 
 **End Goal**
 
-> What `age` did the 14 "chemists" live to?
+> There are 14 "chemists" in the data, to what`age` did they live to? Who is missing age information?
 
 > <img src="../../images/am_achieve_end_an.png" width=708 />
 
