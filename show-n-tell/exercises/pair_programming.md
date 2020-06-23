@@ -8,7 +8,7 @@
 
 <br>
 
-Let's practice writing R scripts as a team. One partner will convey what you want to accomplish, while the other writes the R script. There's no pressure, but there might be sugaR :candy: points on the line.
+Let's practice writing R scripts as a team. One partner will convey what you want to accomplish, while the other writes the R script. There's no pressure, but there may be sugaR :candy: points on the line.
 
 <br>
 
@@ -25,7 +25,7 @@ _Use Teams to screen-share with your partner. Then the one who already has R ope
 1. The coach conveys the goal and steps to their partner as they start building their script.
 1. Keep working together to reach the end result shown in the **Goal** section.
 
-> **Ta-da!!** After you complete the first one, switch roles and move on to the next challenge.
+> **Ta-da!** After completing the first one, switch roles and move on to the next challenge.
 
 <br>
 
@@ -102,11 +102,11 @@ View(science)
 
 <img src="../../images/am_achieve_start.png" width=708 />
 
-<br>
+<br><br>
 
 **End Goal**
 
-> What age did the 14 "chemists" live to?
+> What `age` did the 14 "chemists" live to?
 
 > <img src="../../images/am_achieve_end_an.png" width=708 />
 
@@ -143,15 +143,15 @@ View(firsts)
 
 **Starting data**
 
-<img src="../../images/am_firsts_start.png" width=738 />
+<img src="../../images/am_firsts_start.png" width=758 />
 
 <br> <br>
 
 **End Goal**
 
-> **Pre-1930 women firsts in Education**
+> **Pre-1930 female firsts in Education**
 
-> <img src="../../images/am_first_end.png" width=738 />
+> <img src="../../images/am_first_end.png" width=758 />
 
   
 </details> 
@@ -189,11 +189,11 @@ tracks <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesda
 
 <img src="../../images/caribou_start.png" width=688 />
 
-<br>
+<br><br>
 
 **End Goal**
 
-> **Map for Caribou ID:`"GR_C15"`**
+> **Map of locations for Caribou ID:`"GR_C15"`**
 
 > <img src="../../images/caribou_map.png" width=738 />
 
