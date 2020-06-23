@@ -1,6 +1,6 @@
 # Pair programming
 
-<img src="../../images/pear_program.png" width=248 align="right" />
+<img src="../../images/pear_program.png" width=236 align="left" />
 
 > "Two pears are better than one."  
 
@@ -56,6 +56,8 @@ pengs <- penguins
 
 **End Goal**
 
+Then there were four Dreamy penguins.
+
  <img src="../../images/pengu_end_an.png" width=738 />
 
   
@@ -63,7 +65,47 @@ pengs <- penguins
 <br>
 
 
-### Code challenge #2: Caribou Tracks
+### Code challenge #2: The first of many
+
+<b>Read data</b> <i>(For the script writer)</i>
+  
+We'll be working with the African American achievement data at [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-06-23/readme.md).
+
+
+```r
+library(readr)
+
+# Get the Data
+#firsts <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-06-09/firsts.csv')
+science <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-06-09/science.csv')
+
+View(science)
+
+# Now what? Ask the coach, they will guide you.
+```      
+
+<br>
+
+<details>
+<summary> <b>Coach's :eyes: only! </b> <i> (Click to see the goal) </i> </summary>
+
+<br>
+
+**Starting data**
+
+<img src="../../images/am_achieve_start.png" width=688 />
+
+<br><br>
+
+**End Goal**
+
+<img src="../../images/am_achieve_end.png" width=688 />
+
+  
+</details> 
+<br>
+
+### Code challenge #3: Caribou Tracks
 
 <b>Read data</b> <i>(For the script writer)</i>
   
