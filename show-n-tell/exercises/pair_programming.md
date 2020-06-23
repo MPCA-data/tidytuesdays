@@ -33,7 +33,7 @@ _Use Teams to screen-share with your partner. Then the one who already has R ope
 
 <br>
 
-## Code challenge #1: Penguins Dream of Palm Trees
+# Code challenge #1: Penguins Dream of Palm Trees
 
 <b>Read data</b> <i>(For the script writer)</i>
   
@@ -73,7 +73,7 @@ pengs <- penguins
 <br>
 
 
-## Code challenge #2: The First of Many
+# Code challenge #2: The First of Many
 
 <b>Read data</b> <i>(For the script writer)</i>
   
@@ -115,7 +115,7 @@ View(science)
 <br>
 
 
-## Code challenge #3: Women in Education
+# Code challenge #3: Women in Education
 
 <b>Read data</b> <i>(For the script writer)</i>
   
@@ -158,7 +158,7 @@ View(firsts)
 <br>
 
 
-## Code challenge #4: Caribou Tracks
+# Code challenge #4: Caribou Tracks
 
 <b>Read data</b> <i>(For the script writer)</i>
   
