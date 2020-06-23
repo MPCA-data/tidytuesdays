@@ -1,9 +1,9 @@
 # Partners
 
-1.  name, Kristie E
-1.  name, Barbara M
-1.  name, Derek N
-1.  name, Min Z
-1.  name, 
+1.  Laura Lyons, Carl Stenoien
+1.  Allison Gamble, Barbara M
+1.  Aida Mendez, Derek N
+1.  Sharon Kroening, Min Z
+1.  Jennifer Heins,  Sarah Yost
 
 
