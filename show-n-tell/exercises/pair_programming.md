@@ -110,7 +110,7 @@ _Hint:_ _Try [`str_detect()`](https://stringr.tidyverse.org/reference/str_detect
 
 **End Goal**
 
-> There are 14 "chemists" in the data, to what`age` did they live to? Who is missing age information?
+> There are 14 "chemists" in the data, to what `age` did they live to? Who is missing age information?
 
 > <img src="../../images/am_achieve_end_an.png" width=708 />
 
