@@ -151,7 +151,7 @@ View(firsts)
 
 > **Pre-1930 female firsts in Education**
 
-> <img src="../../images/am_first_end.png" width=758 />
+> <img src="../../images/am_first_end.png" width=778 />
 
   
 </details> 
@@ -195,7 +195,7 @@ tracks <- read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesda
 
 > **Map of locations for Caribou ID:`"GR_C15"`**
 
-> <img src="../../images/caribou_map.png" width=738 />
+> <img src="../../images/caribou_map.png" width=750 />
 
   
 </details> 
