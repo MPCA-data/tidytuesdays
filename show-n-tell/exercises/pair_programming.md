@@ -64,7 +64,7 @@ pengs <- penguins
 
 **End Goal**
 
-> Then there were four Dreamy penguins.
+> Filter the `island`, `bill_length` and `body_mass` to find only these **4** Dreamy penguins.
 
 > <img src="../../images/pengu_end_an.png" width=738 />
 
