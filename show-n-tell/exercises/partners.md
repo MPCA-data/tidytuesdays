@@ -4,7 +4,6 @@
 1.  Allison Gamble, Barbara M
 1.  Sharon Kroening, Min Z
 1.  Jennifer Heins,  Kristie Ellickson
-1.  Derek N, Bruce Monson
-1.  Aida M, D0rian K
+1.  Derek N, Aida M
 
 
