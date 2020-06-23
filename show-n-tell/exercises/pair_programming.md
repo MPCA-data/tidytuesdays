@@ -2,13 +2,19 @@
 
 <img src="../../images/pear_program.png" width=236 align="left" />
 
+<br>
+
 > "Two pears are better than one."  
+
+<br>
 
 Let's practice writing R scripts as a team. One partner will convey what you want to accomplish, while the other writes the R script. There's no pressure, but there might be sugaR :candy: points on the line.
 
 **Come back and join the big group at ` 9:35 `**
 
-#### Instructions
+<br>
+
+### Instructions
 
 _Use Teams to call your partner. Then tbe person who already has R open should share their screen. They will be the first script doctor. The other person gets to be the visionary coach / fan / moral support for the first go._
 
@@ -65,7 +71,7 @@ Then there were four Dreamy penguins.
 <br>
 
 
-### Code challenge #2: The first of many
+### Code challenge #2: The First of Many
 
 <b>Read data</b> <i>(For the script writer)</i>
   
@@ -99,7 +105,9 @@ View(science)
 
 **End Goal**
 
-<img src="../../images/am_achieve_end.png" width=688 />
+How long did these 14 "chemists" live?
+
+<img src="../../images/am_achieve_end_an.png" width=688 />
 
   
 </details> 
