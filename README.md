@@ -18,7 +18,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jun 16 | [Pear programming challenge!](https://github.com/MPCA-data/tidytuesdays/new/master/show-n-tell/exercises) | Where's Waldo? The `waldo` pkg. |  +100 `pts` |  
+| Jun 23 | [Pear programming challenge!](https://github.com/MPCA-data/tidytuesdays/new/master/show-n-tell/exercises) | Where's Waldo? The `waldo` pkg. |  +100 `pts` |  
 | Jun 16 | [MDH shares: Grouping data frames in a list & date intervals](https://github.com/MPCA-data/tidytuesdays/blob/master/help/insurance_data/function_list_to_df.md) _(Jennifer)_ | Mapping HUGE Raster layers _(Min)_ |  +100 `pts` |   
 | Jun 09 | Barbara connects to GIS Rest API services - You can too! | |  +100 `pts` | 
 | Jun 02 | Zipping, factors, date joins and more Kristie tips _(Kristie)_ |  |   | 
