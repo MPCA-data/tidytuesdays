@@ -18,7 +18,7 @@ Let's practice writing R scripts as a team. One partner will convey what you wan
 
 ### Instructions
 
-_Use Teams to call your partner. Then the one who already has R open should share their screen. They will be the first script writer. The other person will be the visionary coach / fan / moral support for the first challenge._
+_Use Teams to screen-share with your partner. Then the one who already has R open should share their screen. They will be the first script writer. The other person will be the visionary coach / fan / moral support for the first challenge._
 
 1. The script writer will start reading in the data using the given code.
 1. The coach will look at the desired end goal and think about possible first steps.
@@ -115,7 +115,7 @@ View(science)
 <br>
 
 
-## Code challenge #4: Who am I?
+## Code challenge #3: Women in Education
 
 <b>Read data</b> <i>(For the script writer)</i>
   
@@ -143,15 +143,15 @@ View(firsts)
 
 **Starting data**
 
-<img src="../../images/am_firsts_start.png" width=688 />
+<img src="../../images/am_firsts_start.png" width=738 />
 
-<br>
+<br> <br>
 
 **End Goal**
 
-> **Map for Caribou ID:`"GR_C15"`**
+> **Pre-1930 women firsts in Education**
 
-> <img src="../../images/am_firsts_end.png" width=738 />
+> <img src="../../images/am_first_end.png" width=738 />
 
   
 </details> 
