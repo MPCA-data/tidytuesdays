@@ -17,28 +17,3 @@ library(plotly)
 data <- read_csv("https://github.com/nytimes/covid-19-data/raw/master/us-counties.csv")
 
 ```
-
-## Results for your state
-
-```r
-i_live_in <- "Minnesota"
-
-# Reshape the data
-data <- pivot_longer(data, -(`Province/State`:Long), "date", values_to = "confirmed")
-
-# Format date column
-data <- rename_at(data, 1:4, ~c("subregion", "region", "lat", "lon")) %>%
-        mutate(date = mdy(date))
-
-# Get latest results for chosen subregion
-total <- filter(data, str_detect(subregion, i_live_in)) %>%
-          group_by(subregion) %>%
-          slice(n()) 
-
-View(total)
-
-#Scary plot of confirmed COVID-19 cases in MN
-filter(data, subregion == "Minnesota", date >= ymd(20200309)) %>%
-  plot_ly(x = ~date, y = ~confirmed) %>%
-  add_lines()
-```
