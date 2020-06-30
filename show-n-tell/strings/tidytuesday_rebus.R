@@ -30,7 +30,7 @@ emit_rates <- str_extract_all(cems_text, "LB/HR" %R% spc(1, Inf) %R% any_char(1,
   #Look for line containing with "THC as Trans-1,2-"
   str_extract_all("THC as Trans-1,2-" %R% any_char(1, Inf)) %>%
   #Extract all numbers including decimal separator
-  str_extract_all(digit(1, Inf) %R% optional(DOT) %R% digit(0, Inf)) %>%
+  str_extract_all(digit(1, Inf) %R% DOT %R% digit(0, Inf)) %>%
   unlist %>%
   as.numeric %>%
   #Keep only values associated with a date and remove average column
