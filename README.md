@@ -109,6 +109,7 @@ Let's team up on this.
 
 | Project | Details | Team contact | Members _join us!_ | Help requests |  
 | ---  | --- | --- | --- | --- | 
+| `library(mncolors)`(https://github.com/MPCA-data/mncolors#minnesota-color-palettes) | Paint your data with colors from the [MN State Brand style Guide](https://mn.gov/portal/brand/style-guide/colors/), plus a few color palettes inspired by local landscapes and creatures. | Dorian | | |
 | `library(mpcadata)` | Database connections to delta, equis, AirVision, tempo, GIS resources, etc...  <br/> - Store common reference data | Derek | | |
 | `library(mpcaggthemes)` | MPCA themes for `ggplot` w/ branded colors, fonts, logos | | | |
 | `library(mpcareports)` | MPCA themes for markdown reports -Templates with logo, header, fonts <img src="images/mpca_template.png" width="40%">  | Dorian | | | 
@@ -126,7 +127,9 @@ Let's team up on this.
 ## Future topics
 
 > 1. Read / send Outlook emails & attachments with `R` _(Derek & Barbara)_
-> 1. Loops: `purrr` package or `for()` loops?
+> 1. Automate report updating on a R server?
+> 1. Download tables of data from websites _(Sarah)_
+> 1. Loops: `purrr` package or `for()` loops or `lapply()`?
 > 1. Find data in TEMPO database _(Aida)_
      - Push data into TEMPO ??? Is this possible?
 > 1. Combine, clean and read output from environmental models such as AERMOD
