@@ -128,6 +128,7 @@ Let's team up on this.
 > 1. Read / send Outlook emails & attachments with `R`
 > 1. Loops: `purrr` package or `for()` loops?
 > 1. Find data in TEMPO database _(Aida)_
+     - Push data into TEMPO ??? Is this possible?
 > 1. Combine, clean and read output from environmental models such as AERMOD
 > 1. Compare large modeling files submitted by consultants: k-diff or `waldo` package
 > 1. Intro to Rmarkdown
