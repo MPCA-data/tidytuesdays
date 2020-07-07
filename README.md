@@ -129,13 +129,15 @@ Let's team up on this.
 > 1. Loops: `purrr` package or `for()` loops?
 > 1. Find data in TEMPO database _(Aida)_
 > 1. Combine, clean and read output from environmental models such as AERMOD
+> 1. Compare large modeling files submitted by consultants: k-diff or `waldo` package
+> 1. Intro to Rmarkdown
+>     - Create a manual for training or methods recording
 > 1. Make website for training _(Min)_
 > 1. Maps and shapefiles
 >     - Kriging / Spatial interpolating between map points
 > 1. Is it an outlier?
 > 1. Conditional probability
 > 1. Python & R: `reticulate`
-> 1. Intro to Rmarkdown
 > 1. Show-n-tell something you want to replace: An Excel tool, Word/PDF report, Access database, 
 > 1. `gganimate` Add movement to your charts, make gifs to share
 > 1. Working w/ strings & text
