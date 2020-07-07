@@ -125,6 +125,9 @@ Let's team up on this.
 
 ## Future topics
 
+> 1. Loops: `purrr` package or `for()` loops?
+> 1. Find data in TEMPO database _(Aida)_
+> 1. Make website for training _(Min)_
 > 1. Maps and shapefiles
 >     - Kriging / Spatial interpolating between map points
 > 1. Is it an outlier?
