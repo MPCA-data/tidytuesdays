@@ -18,6 +18,18 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
+| Sep 29 | sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
+| Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
+| Sep 15 | Making things faster (Derek) | | +300 `pts`|
+| Sep 08 | R Markdown and blogdown (Dorian)| | +55 `pts` |
+| Sep 01 | data validation quality assurance with R | | +140 `pts` | 
+| Aug 25 | landuse and the raster package (Kristie)| | +120 `pts` |
+| Aug 18 | pulling data from TEMPO and OnBase (Derek)| | +1500 `pts` |
+| Aug 11 | servers - how do we make this work? (Barbara)| | +1000 `pts`|
+| Aug 04 | report back on UserR meeting and apply functions looping and purrr (Derek) | | +1264 `pts`|
+| Jul 28 | non-parametric stats with random sulfate data (Barbara)| |  +200 `pts`|
+| Jul 21 | Code peer reviews (Dorian)| | +50 `pts`|
+| Jul 14 | Generalized Linear Models (Carl S) | | +300 `pts` | 
 | Jun 23 | [Checking for differences](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/reading_files/Waldo_Compare_files_Find_differences.Md) The `waldo` pkg. _(Dorian)_ | [Pear programming puzzles](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/pair_programming.md) _(everyone)_ |  +100 `pts` |  
 | Jun 16 | [MDH shares: Grouping data frames in a list & date intervals](https://github.com/MPCA-data/tidytuesdays/blob/master/help/insurance_data/function_list_to_df.md) _(Jennifer)_ | Mapping HUGE Raster layers _(Min)_ |  +100 `pts` |   
 | Jun 09 | Barbara connects to GIS Rest API services - You can too! | |  +100 `pts` | 
@@ -25,8 +37,9 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | May 26 | T-tests and the `carr` pkg; Nonparametric or parametric? _(Barbara)_ |  |   | 
 | May 19 | [More mapping tools in R: With MPCA's Environmental Justice maps](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/find_hospitals.R) _(Dorian)_| |   | 
 | May 12 | Shiny tools & [widgets](https://shiny.rstudio.com/gallery/widget-gallery.html) _(Barbara_ & _Derek)_; Schedule your R scripts: Daily, Weekly, Monthly _(Barbara)_ | Use [`fill()`](https://tidyr.tidyverse.org/reference/fill.html) to fill gaps in names w/ previous value _(Kristie)_ |  +100 `pts` | 
-| May 5 | Custom colors and palettes _(Barbara)_ | Allison on sulfate outliers  |   +100 `pts` | 
+| May 05 | Custom colors and palettes _(Barbara)_ | Allison on sulfate outliers  |   +100 `pts` | 
 | Apr 28 | [Create a package :package:](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | +You? Me? Everyone? |   +100 `pts` |   
+
 
 <details>
 <summary> <b> Older topics </b></summary>
