@@ -29,7 +29,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Aug 04 | Code peer reviews (Dorian)| | +50 `pts`|
 | Jul 28 | Non-parametric stats with random sulfate data (Barbara)| |  +200 `pts`|
 | Jul 21 | Report back on UserR meeting and apply functions looping and purrr (Derek) | | +1264 `pts`|
-| Jul 14 | Bugs! :beetle: Generalized Linear Models (Carl S) | Swirl time | +300 `pts` | 
+| Jul 14 | Introduction to Biological Monitoring program (Joel C) | Bugs! :beetle: Generalized Linear Models (Carl S)| +300 `pts` | 
 | Jun 23 | [Checking for differences](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/reading_files/Waldo_Compare_files_Find_differences.Md) The `waldo` pkg. _(Dorian)_ | [Pear programming puzzles](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/pair_programming.md) _(everyone)_ |  +100 `pts` |  
 | Jun 16 | [MDH shares: Grouping data frames in a list & date intervals](https://github.com/MPCA-data/tidytuesdays/blob/master/help/insurance_data/function_list_to_df.md) _(Jennifer)_ | Mapping HUGE Raster layers _(Min)_ |  +100 `pts` |   
 | Jun 09 | Barbara connects to GIS Rest API services - You can too! | |  +100 `pts` | 
@@ -54,7 +54,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 |  | [Build your own package: `devtools`](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ |  |   |  
 |  | [Multivariate Analysis](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/multivariate/multivariate.md) _(Kristie)_ |  |   |  
 |  | Microsoft Access data. Arrrrgghh... _(Barbara)_ | |   |   
-|  | Time series forecasting, with total grabage data _(Barbara)_ |  |  |  
+|  | Time series forecasting, with total garbage data _(Barbara)_ |  |  |  
 
 </details>
 <br>
@@ -102,6 +102,8 @@ Let's team up on this.
 
 - [Cute giraffe stats](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
 - [Intro to modeling & predictions](https://supervised-ml-course.netlify.com/chapter1)
+- [Mixed model tutorial](https://ourcodingclub.github.io/tutorials/mixed-models/)
+- [lme4 package vignette](https://cran.r-project.org/web/packages/lme4/vignettes/lmer.pdf) 
 
 <br><br><br>
 
