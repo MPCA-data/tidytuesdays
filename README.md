@@ -94,21 +94,7 @@ Let's team up on this.
 
 <br>
 
-
-## :hatching_chick: Featured functions
-
-- [`tidyr::fill()`](https://tidyr.tidyverse.org/reference/fill.html)   
-- [`dplyr::add_count()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#counting-is-easy-with-add_count)
-- `pmax()` - _Find the max value across 2 columns, row by row._
-- [`EnvStats::elnormAltCensored()`](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/non-detects/EnvStats%20Tutorial.md) 
-- [`tidylog::filter()`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#librarytidylog)
-- [`beepr::beep("mario")`](https://github.com/MPCA-data/tidytuesdays/blob/master/featured_functions.md#beep-beepnotes)
-
-<br>
-
-
-
-## What we're learning
+## :hatching_chick: What we're learning
 
 <a href="https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html"><img src="https://tinystats.github.io/teacups-giraffes-and-statistics/images/Landing_page/singleGiraffe-clickme-hover.jpg" width="11%" align="left" /></a>
 <br><br>
