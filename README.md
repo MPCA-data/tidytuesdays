@@ -129,7 +129,6 @@ Let's team up on this.
 | `library(mpcareports)` | MPCA themes for markdown reports -Templates with logo, header, fonts <img src="images/mpca_template.png" width="40%">  | Dorian | | | 
 |[MPCA Data Guide](https://mpca-data.github.io/Data-Guide/) | A guide to data locations and instructions for water, land, air, and more | | | Add data publishing/sharing tips  |
 | [Analysis Methods Guide](https://mpca-air.github.io/air-methods/) | How we analyze monitoring data in R _(currently air focused)_ | | | | 
-| `library(chemicalnames)` | My data has "`Methyl Bromide`" and you have "`Bromomethane`", but we all want the CAS# `74-83-9` | | | | 
 | R training | - [Star Wars training](https://itep-r.netlify.com/)  <br/> - [Workshops](https://mpca-air.github.io/RTrain/#workshops) (Maps, Connecting to databases, messy data)  <br/> - [Cat training](https://mpca-air.github.io/RCamp/) (the original)  | | | | 
 
 <br>
