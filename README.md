@@ -96,7 +96,7 @@ Let's team up on this.
 
 ## :hatching_chick: What we're learning
 
-<a href="https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html"><img src="https://tinystats.github.io/teacups-giraffes-and-statistics/images/Landing_page/singleGiraffe-clickme-hover.jpg" width="11%" align="left" /></a>
+<a href="https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html"><img src="https://tinystats.github.io/teacups-giraffes-and-statistics/images/Landing_page/singleGiraffe-clickme-hover.jpg" width="12%" align="left" /></a>
 <br><br>
 
 - [Cute giraffe stats](https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html)
