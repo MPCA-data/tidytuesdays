@@ -12,17 +12,21 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 <br>
 
-## :steam_locomotive: Our schedule
+## :steam_locomotive: Tuesday schedule
 
 Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
+
+> | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
+> | ---  | --- | --- | --- |  
+> | Sep 29 | Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
+> | Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
+> | Sep 15 | Making things faster (Derek) | | +300 `pts`|
+> | Sep 08 | R Markdown and blogdown (Dorian)| | +55 `pts` |
+> | Sep 01 | Data validation quality assurance with R | | +140 `pts` | 
+
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Sep 29 | Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
-| Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
-| Sep 15 | Making things faster (Derek) | | +300 `pts`|
-| Sep 08 | R Markdown and blogdown (Dorian)| | +55 `pts` |
-| Sep 01 | Data validation quality assurance with R | | +140 `pts` | 
 | Aug 25 | Landuse and the raster package (Kristie)| | +120 `pts` |
 | Aug 18 | Pulling data from TEMPO and OnBase (Derek)| | +1500 `pts` |
 | Aug 11 | Servers - how do we make this work? (Barbara)| | +1000 `pts`|
@@ -31,6 +35,13 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Jul 21 | Report back on UserR meeting and apply functions looping and purrr (Derek) | | +1264 `pts`|
 | Jul 14 | Introduction to Biological Monitoring program (Joel C) | Bugs! :beetle: Generalized Linear Models (Carl S)| +300 `pts` | 
 | Jun 23 | [Checking for differences](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/reading_files/Waldo_Compare_files_Find_differences.Md) The `waldo` pkg. _(Dorian)_ | [Pear programming puzzles](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/pair_programming.md) _(everyone)_ |  +100 `pts` |  
+
+
+<details>
+<summary> <b> Older topics </b></summary>
+  
+| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  |   
+| ---  | --- | --- | --- |  
 | Jun 16 | [MDH shares: Grouping data frames in a list & date intervals](https://github.com/MPCA-data/tidytuesdays/blob/master/help/insurance_data/function_list_to_df.md) _(Jennifer)_ | Mapping HUGE Raster layers _(Min)_ |  +100 `pts` |   
 | Jun 09 | Barbara connects to GIS Rest API services - You can too! | |  +100 `pts` | 
 | Jun 02 | Zipping, factors, date joins and more Kristie tips _(Kristie)_ |  |   | 
@@ -39,13 +50,6 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | May 12 | Shiny tools & [widgets](https://shiny.rstudio.com/gallery/widget-gallery.html) _(Barbara_ & _Derek)_; Schedule your R scripts: Daily, Weekly, Monthly _(Barbara)_ | Use [`fill()`](https://tidyr.tidyverse.org/reference/fill.html) to fill gaps in names w/ previous value _(Kristie)_ |  +100 `pts` | 
 | May 05 | Custom colors and palettes _(Barbara)_ | Allison on sulfate outliers  |   +100 `pts` | 
 | Apr 28 | [Create a package :package:](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_package#package-take-home-your-very-own-package) _(Dorian)_ | +You? Me? Everyone? |   +100 `pts` |   
-
-
-<details>
-<summary> <b> Older topics </b></summary>
-  
-| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  |   
-| ---  | --- | --- | --- |  
 | Apr 21 | [Princ. Comp. Analysis and multi-variate predictions](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/multivariate) _(Kristie)_ | Matt on toxic algae |   +100 `pts` | 
 | Apr 14 | [Get 100's of PDFs from TEMPO and read their messy data into R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/tempo/Tidy%20Tuesday%20Tempo%20Demo.R) _(Derek)_ |  |   +50 `pts` |  
 |  | :earth_asia: [Create & read shapefiles](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/make_book) _(Kristie)_ |  |   |  
@@ -63,6 +67,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
+| Jul 07-17 | Recordings | useR! 2020: Intl. R user conference | [useR 2020](https://user2020.r-project.org/program/agenda/)|  |
 | Jul 14-15 | 9:00-1pm | MN's R North Conference| [noRth 2020](https://rnorthconference.github.io/#about)|  |
 | May 14 | 6:30-8pm | Multi-level Modeilng : Twin Cities RLadies| [Online Meetup](https://www.meetup.com/rladies-tc/events/268384963/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGQ5NTI4ZDA3LTcxYjctNDY4MS04NWEzLWFkZDZkZmZjZWI3OA)| [TC R Ladies](https://www.meetup.com/rladies-tc) |
 | Apr 7, 9, 16, 23 | 1-2:30 | Intro to R workshops : MARAMA | Recordings: [Intro to R](https://register.gotowebinar.com/recording/979473951571635467); [tidyverse](https://register.gotowebinar.com/recording/3300678235076032514); [ggplot](https://register.gotowebinar.com/register/2580834570751859715) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
@@ -124,7 +129,7 @@ Let's team up on this.
 
 | Project | Details | Team contact |  |   |  
 | ---  | --- | --- | --- | --- | 
-| `library(mncolors)`(https://github.com/MPCA-data/mncolors#minnesota-color-palettes) | Paint your data with colors from the [MN State Brand style Guide](https://mn.gov/portal/brand/style-guide/colors/), plus a few color palettes inspired by local landscapes and creatures. | Dorian | | |
+| [`library(mncolors)`](https://github.com/MPCA-data/mncolors#minnesota-color-palettes) | Paint your data with colors from the [MN State Brand style Guide](https://mn.gov/portal/brand/style-guide/colors/), plus a few color palettes inspired by local landscapes and creatures. | Dorian | | |
 | `library(mpcadata)` | Database connections to delta, equis, AirVision, tempo, GIS resources, etc...  <br/> - Store common reference data | Derek | | |
 | `library(mpcareports)` | MPCA themes for markdown reports -Templates with logo, header, fonts <img src="images/mpca_template.png" width="40%">  | Dorian | | | 
 |[MPCA Data Guide](https://mpca-data.github.io/Data-Guide/) | A guide to data locations and instructions for water, land, air, and more | | | Add data publishing/sharing tips  |
