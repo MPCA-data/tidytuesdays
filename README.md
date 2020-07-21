@@ -122,7 +122,7 @@ Let's team up on this.
 
 <br>
 
-| Project | Details | Team contact | Members _join us!_ | Help requests |  
+| Project | Details | Team contact |  |   |  
 | ---  | --- | --- | --- | --- | 
 | `library(mncolors)`(https://github.com/MPCA-data/mncolors#minnesota-color-palettes) | Paint your data with colors from the [MN State Brand style Guide](https://mn.gov/portal/brand/style-guide/colors/), plus a few color palettes inspired by local landscapes and creatures. | Dorian | | |
 | `library(mpcadata)` | Database connections to delta, equis, AirVision, tempo, GIS resources, etc...  <br/> - Store common reference data | Derek | | |
