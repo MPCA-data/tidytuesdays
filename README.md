@@ -16,13 +16,20 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
-
-| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
-| ---  | --- | --- | --- |  
-| * Sep 29 | Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
+<details>
+<summary> <b> Future topics </b></summary>
+ 
+| Sep 29 | *Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
 | Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
 | Sep 15 | Making things faster (Derek) | | +300 `pts`|
 | Sep 08 | R Markdown and blogdown (Dorian)| | +55 `pts` |
+
+</details>
+<br>
+
+
+| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Please!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
+| ---  | --- | --- | --- |  
 | Sep 01 | Data validation quality assurance with R | | +140 `pts` |  
 | Aug 25 | Landuse and the raster package (Kristie)| | +120 `pts` |
 | Aug 18 | Pulling data from TEMPO and OnBase (Derek)| | +1500 `pts` |
@@ -59,6 +66,8 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 </details>
 <br>
+
+
 
 ## Upcoming events & recordings
 
