@@ -38,7 +38,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Aug 11 | Servers - how do we make this work? (Barbara)| | +1000 `pts`|
 | Aug 04 | RMarkdown report templates & Peer coding puzzles (Dorian)| | +50 `pts`|
 | Jul 28 | **:star: Non-parametric stats with random Sulfate data (Barbara)** | |  +200 `pts` * |
-| Jul 21 | Pull data from TEMPO and OnBase & Compare names (Derek)  [`stringdist()`](https://github.com/markvanderloo/stringdist) | | +1264 `pts`|
+| Jul 21 | [Get data from TEMPO or OnBase and Compare names](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/tidytuesday_stringdist.R) (Derek)  [`stringdist()`](https://github.com/markvanderloo/stringdist) | | +1264 `pts`|
 | Jul 14 | Introduction to Biological Monitoring program (Joel C) | Bugs! :beetle: Generalized Linear Models (Carl S)| +300 `pts` | 
 | Jun 23 | [Checking for differences](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/reading_files/Waldo_Compare_files_Find_differences.Md) The `waldo` pkg. _(Dorian)_ | [Pear programming puzzles](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/pair_programming.md) _(everyone)_ |  +100 `pts` |  
 
