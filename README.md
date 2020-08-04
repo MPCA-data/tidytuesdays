@@ -18,6 +18,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Yes!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
+| ?? | Servers - how do we make this work? (Barbara)| | +1000 `pts`|
 | Sep 29 | *Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
 | Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
 | Sep 15 | Making things faster (Derek) | | +300 `pts`|
@@ -25,9 +26,9 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Sep 01 | Data validation & Quality assurance with R | | +140 `pts` |  
 | Aug 25 | Landuse and the raster package (Kristie)| | +120 `pts` |
 | Aug 18 | apply() functions looping and purrr (Derek)| | +1500 `pts` |
-| Aug 11 | Servers - how do we make this work? (Barbara)| | +1000 `pts`|
-| Aug 04 | **:star: R Markdown [`mpcareports`](https://github.com/MPCA-data/mpcareports/blob/master/README.md#mpcareports) templates & easier databases: [`mpcadb`](https://github.com/MPCA-data/mpcadb#mpcadb) (Dorian)** | | +50 `pts`|
-| Jul 28 | Non-parametric stats with random Sulfate data (Barbara) | |  +200 `pts` * |
+| Aug 11 | **:star: Non-parametric stats with water Sulfate data ** | | +1000 `pts`|
+| Aug 04 |  R Markdown [`mpcareports`](https://github.com/MPCA-data/mpcareports/blob/master/README.md#mpcareports) templates & easier databases: [`mpcadb`](https://github.com/MPCA-data/mpcadb#mpcadb) (Dorian)** | | +50 `pts`|
+| Jul 28 |  (Barbara improvises) | |  +200 `pts` * |
 | Jul 21 | [Get data from TEMPO or OnBase and score the similarity of names](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/tidytuesday_stringdist.R): [`stringdist()`](https://github.com/markvanderloo/stringdist)  (Derek)  | | +1264 `pts`|
 | Jul 14 | Introduction to Biological Monitoring program (Joel C) | Bugs! :beetle: Generalized Linear Models (Carl S)| +300 `pts` | 
 | Jun 23 | [Checking for differences](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/reading_files/Waldo_Compare_files_Find_differences.Md) w/ the `waldo` pkg: [`compare()`](https://github.com/r-lib/waldo#installation) _(Dorian)_| [Pear programming puzzles](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/pair_programming.md) _(everyone)_ |  +100 `pts` |  
