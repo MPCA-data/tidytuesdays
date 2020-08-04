@@ -26,7 +26,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Sep 01 | Data validation & Quality assurance with R | | +140 `pts` |  
 | Aug 25 | Landuse and the raster package (Kristie)| | +120 `pts` |
 | Aug 18 | apply() functions looping and purrr (Derek)| | +1500 `pts` |
-| Aug 11 | **:star: Non-parametric stats with water Sulfate data ** | | +1000 `pts`|
+| Aug 11 | **:star: Non-parametric stats with water Sulfate data** | | +1000 `pts`|
 | Aug 04 |  R Markdown [`mpcareports`](https://github.com/MPCA-data/mpcareports/blob/master/README.md#mpcareports) templates & easier databases: [`mpcadb`](https://github.com/MPCA-data/mpcadb#mpcadb) (Dorian)** | | +50 `pts`|
 | Jul 28 |  (Barbara improvises) | |  +200 `pts` * |
 | Jul 21 | [Get data from TEMPO or OnBase and score the similarity of names](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/tidytuesday_stringdist.R): [`stringdist()`](https://github.com/markvanderloo/stringdist)  (Derek)  | | +1264 `pts`|
