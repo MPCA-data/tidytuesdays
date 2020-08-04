@@ -55,8 +55,6 @@ leaflet(sites) %>%
   addCircleMarkers(color = ~pal(state)) 
 
 
-
-  
   
 ```
 
