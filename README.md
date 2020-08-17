@@ -19,7 +19,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Yes!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | ?? | Servers - how do we make this work? (Barbara)| | +1000 `pts`|
-| Sep 29 | *Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
+| Sep 29 | Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
 | Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
 | Sep 15 | Making things faster (Derek) | | +300 `pts`|
 | Sep 08 | R websites with Blogdown (Dorian)| | +55 `pts` |
