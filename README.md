@@ -24,8 +24,8 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Sep 15 | Making things faster (Derek) | | +300 `pts`|
 | Sep 08 | R websites with Blogdown (Dorian)| | +55 `pts` |
 | Sep 01 | Data validation & Quality assurance with R | | +140 `pts` |  
-| Aug 25 | Landuse and the raster package (Kristie)| | +120 `pts` |
-| Aug 18 | **:star: for() loop alternatives: apply() functions & looping w/ purrr** (Derek)| | +1500 `pts` |
+| Aug 25 | **:star: Finish for() loops, and Landuse analysis w/ the raster package** (Kristie)| | +120 `pts` |
+| Aug 18 | for() loop alternatives: apply() functions & looping w/ purrr (Derek)| | +1500 `pts` |
 | Aug 11 | Non-parametric stats with water Sulfate data | | +1000 `pts`|
 | Aug 04 |  R Markdown [`mpcareports`](https://github.com/MPCA-data/mpcareports/blob/master/README.md#mpcareports) templates & easier databases: [`mpcadb`](https://github.com/MPCA-data/mpcadb#mpcadb) (Dorian)** | | +50 `pts`|
 | Jul 28 |  (Barbara improvises) | |  +200 `pts` * |
