@@ -12,7 +12,7 @@ library(tidyr)
 two_years <- seq(as.Date("2018-09-02"), 
                  as.Date("2020-08-01"), 1)
 
-wildfires <- tibble(erupt_id   = 1:10,
+wildfires <- tibble(erupt_id   = 1:20,
                     erupt_date = sample(two_years, 20))
 
 monitor_times <- tibble(mon_id     = rep(1:3, 4),
