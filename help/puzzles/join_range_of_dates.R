@@ -9,7 +9,7 @@ library(tidyr)
 
 
 # Some demo data
-two_years <- seq(as.Date("2018-09-02"), 
+two_years <- seq(as.Date("2018-08-01"), 
                  as.Date("2020-08-01"), 1)
 
 wildfires <- tibble(erupt_id   = 1:20,
