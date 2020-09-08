@@ -24,7 +24,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Sep 29 | Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
 | Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
 | Sep 15 | Making things faster (Derek) | | +300 `pts`|
-| Sep 08 | **:star: [Puzzle: Join by date range or fuzzy join or non-equal join](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/join_range_of_dates.R); `data.table`**  |  | +55 `pts` |
+| Sep 08 | **:star: [Puzzle: Join by date range or fuzzy join or non-equal join](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/join_range_of_dates.R); `library(data.table)`**  |  | +55 `pts` |
 | Sep 01 | Landuse analysis w/ the raster package (Kristie) | | +140 `pts` |  
 | Aug 25 | Finish for() loops, and apply() functions | | +120 `pts` |
 | Aug 18 | for() loop alternatives: apply() functions & looping w/ purrr (Derek)| | +1500 `pts` |
