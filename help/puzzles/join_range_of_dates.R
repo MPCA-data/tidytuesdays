@@ -37,7 +37,7 @@ monitor_times$date_window[1]
 
 
 ## OPTION 1
-## dplyr and unnest() solution
+## tidyr and unnest() solution
 
 # Expand the monitor_table to have 1 row for every date in the window
 monitor_times_exp <- monitor_times %>% 
