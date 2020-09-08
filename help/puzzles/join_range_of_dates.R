@@ -32,3 +32,25 @@ monitor_times <- monitor_times %>%
                  rowwise() %>%
                  mutate(date_window = seq(start_date, end_date, 1) %>% list())
 
+## Check the first row
+monitor_times$date_window[1]
+
+
+## OPTION 1
+## dplyr and unnest() solution
+
+# Expand the monitor_table to have 1 row for every date in the window
+monitor_times_exp <- monitor_times %>% 
+                     unnest(date_window)
+
+# Join wildfires to monitoring times
+monitor_times_exp <- left_join(monitor_times_exp, wildfires,
+                               by = c("date_window" = "fire_date"))
+
+# Collapse table back-down to single row per monitoring event
+monitor_times <- monitor_times_exp %>%
+                 group_by(mon_id, start_date, end_date) %>%
+                 summarize(fire_id = unique(fire_id))
+
+
+
