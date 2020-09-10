@@ -18,12 +18,13 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Yes!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| ?? | Servers - how do we make this work? (Barbara)| | +1000 `pts`|
-| ?? | Data validation in R | | +1000 `pts`|
-| ?? | R websites with Blogdown (Dorian)  |  |   
-| Sep 29 | Sending emails and pulling data from emails with R (Derek and Barbara)| | 1024 `pts`|
+| Oct 27 | Text mining scary movie data| Everyone | +1031 `pts`|
+| Oct 20 | Time series forecasting| Barbara | +2050 `pts`|
+| Oct 13 | Group show and tell | Dorian | +1000 `pts`|
+| Oct 6 | Andrea's Shiny tool | Andrea | +2000 `pts` |   
+| Sep 29 | Group exercise Data Validation | Kristie | 1024 `pts`|
 | Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
-| Sep 15 | Making things faster (Derek) | | +300 `pts`|
+| Sep 15 | Group swirl `Back to Basics` | Barbara | +300 `pts`|
 | Sep 08 | **:star: Q: How to join by date range or fuzzy join or non-equal join**; Options: Use [`unnest()`](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/join_range_of_dates.R) or [`library(data.table)`](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/non_equal_join_example.R)  |  | +55 `pts` |
 | Sep 01 | Landuse analysis w/ the raster package (Kristie) | | +140 `pts` |  
 | Aug 25 | Finish for() loops, and apply() functions | | +120 `pts` |
