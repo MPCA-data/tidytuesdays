@@ -19,7 +19,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | ---  | --- | --- | --- |  
 | Oct 27 | :ghost: Text mining scary movie data  | Everyone | +1031 `pts`|
 | Oct 20 | Time series forecasting | Barbara | +2050 `pts`|
-| Oct 13 | Group TidyTuesday - Show and tell *(Dorian)* | Everyone | +1000 `pts`|
+| Oct 13 | Group TidyTuesday data explore - for reals | Everyone | +1000 `pts`|
 | Oct 6 | Andrea's Shiny tool | Andrea | +2000 `pts` |   
 | Sep 29 | Group exercise Data Validation | Kristie | 1024 `pts`|
 | Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
