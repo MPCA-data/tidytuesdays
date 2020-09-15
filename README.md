@@ -1,6 +1,6 @@
 # tidy tuesdays
 
-<img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=190&h=190" align="left">
+<img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=170&h=170" align="left">
 
 <br>  
   
@@ -24,8 +24,8 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Oct 6 | Andrea's Shiny tool | Andrea | +2000 `pts` |   
 | Sep 29 | Group exercise Data Validation | Kristie | 1024 `pts`|
 | Sep 22 | USGS R packages (Emily B. and Aida and Dorian)| | +2000 `pts`|
-| Sep 15 | Group swirl `Back to Basics` | Barbara | +300 `pts`|
-| Sep 08 | **:star: Q: How to join by date range or fuzzy join or non-equal join**; Options: Use [`unnest()`](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/join_range_of_dates.R) or [`library(data.table)`](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/non_equal_join_example.R)  |  | +55 `pts` |
+| Sep 15 | **:star: Group [`swirl`](https://github.com/swirldev/swirl#installing-swirl-from-cran) `Back to Basics`** | Barbara | +300 `pts`|
+| Sep 08 | Q: How to join by date range or fuzzy join or non-equal join; Options: Use [`unnest()`](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/join_range_of_dates.R) or [`library(data.table)`](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/non_equal_join_example.R)  |  | +55 `pts` |
 | Sep 01 | Landuse analysis w/ the raster package (Kristie) | | +140 `pts` |  
 | Aug 25 | Finish for() loops, and apply() functions | | +120 `pts` |
 | Aug 18 | for() loop alternatives: apply() functions & looping w/ purrr (Derek)| | +1500 `pts` |
