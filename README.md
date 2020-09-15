@@ -1,8 +1,7 @@
 # tidy tuesdays
 
-<img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=170&h=170" align="left">
+<img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=173&h=173" align="left">
 
-<br>  
   
 Each week features a new data set to explore. Come see examples of how others clean, analyze, and visualize data. Learn new methods and share your own. Bring your burning questions, new packages, funny graphs, puzzles, and everything else you'd like to discuss about environmental data.  
 
