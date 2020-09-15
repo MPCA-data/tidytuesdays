@@ -1,7 +1,7 @@
 # Swirl Setup
 
 
-### 1. Open RStudio and install `swirl`:
+## 1. Open RStudio and install `swirl`:
 
 ```r
 install.packages("swirl")
@@ -9,10 +9,10 @@ install.packages("swirl")
 library(swirl)
 ```
 
-### 2. Download the collection of swirl courses from: https://github.com/swirldev/swirl_courses/archive/master.zip
+## 2. Download the collection of swirl courses from: https://github.com/swirldev/swirl_courses/archive/master.zip
 
 
-### 3. Install a course:
+## 3. Load a course into R:
 
 ```r    
 install_course_zip("swirl_courses-master.zip", 
@@ -24,7 +24,7 @@ install_course_zip("swirl_courses-master.zip",
 ## > install_course("Getting and Cleaning Data")
 ```
 
-### 4. :penguin: Run swirl in the RStudio Console:
+## 4. :penguin: Run swirl in the RStudio Console:
 
 ```r  
 swirl()
