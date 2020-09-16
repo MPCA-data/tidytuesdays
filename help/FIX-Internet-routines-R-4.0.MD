@@ -12,7 +12,7 @@ It should be here:
 
 ## 3. Go to your `Documents` folder
 
-It should be here (replace your username ex.HSolo):
+It should be here *(replace your username ex.HSolo)*:
 
 > `C:\Users\**yourusername**\Documents\`
 
