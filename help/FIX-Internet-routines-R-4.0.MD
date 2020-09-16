@@ -30,5 +30,5 @@ Click a file in that directory and then **`CTRL+V`** to paste the folder.
 - Select `OK` at the bottom of the menu
 - Close RStudio
 
-## :cake: You did it! :cake:
+## :clap::cake: You did it! :cake::clap:
 
