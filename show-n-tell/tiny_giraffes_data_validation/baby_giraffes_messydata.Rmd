@@ -208,3 +208,22 @@ Run the code above to create some giraffe ids. And, then modify the identifiers 
 
 head(tiny_giraffes)
 ```
+
+But, in order to report your tiny giraffe data, you must have at least 80% non-missing height counts in a month.
+1. load the lubridate package
+2. find the month for each of your dates
+3. group_by month, type, and count your data using n()
+4. group_by month and type and count your non-missing data. You can use a combination of !is.na() [is not NA] and sum().
+
+```{r completeness, eval = F}
+
+library(lubridate)
+
+tiny_giraffes <- tiny_giraffes %>%
+  rowwise() %>%
+  mutate(month = month(sample_date)) %>%
+  group_by(type, month) %>%
+  mutate(total_count = n(),
+         complete_count = sum(!is.na(height)))
+
+```
