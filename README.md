@@ -22,7 +22,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Oct 20 | Time series forecasting | Barbara | +2050 `pts`|
 | Oct 13 | Group exercise: TidyTuesday data explore  | Everyone | +1000 `pts`|
 | Oct 6 | Andrea's Shiny tool | Andrea | +2000 `pts` |   
-| Sep 29 | **:star: Group exercise fun: Data Validation** | Kristie | 1024 `pts`|
+| Sep 29 | **:star: [Group exercise fun: Data Validation](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/tiny_giraffes_data_validation)** | Kristie | 1024 `pts`|
 | Sep 22 | [USGS R community](https://owi.usgs.gov/R/) & packages** (Emily B. and Aida and Dorian) | | +2000 `pts`|
 | Sep 15| Group [`swirl`](https://github.com/swirldev/swirl_courses#install-and-run-a-course-automatically-from-swirl) `Back to Basics` :: [Quick Start](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/swirl.MD#swirl-setup) | Barbara | +300 `pts`|
 | Sep 08 | Q: How to join by date range or fuzzy join or non-equal join? A: Use [`unnest()`](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/join_range_of_dates.R) or [`library(data.table)`](https://github.com/MPCA-data/tidytuesdays/blob/master/help/puzzles/non_equal_join_example.R)  |  | +55 `pts` |
