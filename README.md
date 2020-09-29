@@ -17,7 +17,10 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Yes!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Nov 5 | regular expressions `regex` 101 | Derek | +novemdecillion `pts` |
+| Nov 24 | Embrassing day - errors, mistakes, and hurdles | Kristie | 4 `pts` |
+| Nov 17 | MNIT attendees/R server discussion | Carl S and Barbara | 160 `pts` |
+| Nov 10 | Day of the Dates | Dorian | 1 `pt` |
+| Nov 3 | regular expressions `regex` 101 | Derek | +novemdecillion `pts` |
 | Oct 27 | :ghost: Group exercise: Text mining scary movie data  | Everyone | +1031 `pts`|
 | Oct 20 | Time series forecasting | Barbara | +2050 `pts`|
 | Oct 13 | Group exercise: TidyTuesday data explore  | Everyone | +1000 `pts`|
