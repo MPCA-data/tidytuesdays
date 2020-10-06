@@ -119,7 +119,7 @@ Let's team up on this.
 
 <br>
 
-| Project | Details | Team contact |  |   |  
+| Project | Details | Team contact |  | Wishlist  |  
 | ---  | --- | --- | --- | --- | 
 | [`library(mpcaej)`](https://github.com/MPCA-data/mpcaej#mpcaej) | Shapefiles with MPCA’s criteria for areas of concern for environmental justice | Dorian | | |
 | [`library(mncolors)`](https://github.com/MPCA-data/mncolors#minnesota-color-palettes) | Paint your data with colors from the [MN State Brand style Guide](https://mn.gov/portal/brand/style-guide/colors/), plus a few palettes inspired by local landscapes and wildlife. | Dorian | | |
