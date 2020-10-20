@@ -1,3 +1,3 @@
 # Show-n-tell
 
-Drop your tidytuesday examples to share in here.
+A place to share your tidytuesday examples with the group.
