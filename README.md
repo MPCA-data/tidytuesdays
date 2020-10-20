@@ -22,7 +22,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | Nov 10 | Day of the Dates / timezones | Dorian | 1.1 `pts` |
 | Nov 3 | Regular expressions `regex` 101 | Derek | +novemdecillion `pts` |
 | Oct 27 | :ghost: Halloween exercise: Text mining candy / scary movie data  | Everyone | +1031 `pts`|
-| Oct 20 | **:star::star::chart_with_downwards_trend: Time series forecasting** | Barbara | +2050 `pts`|
+| Oct 20 | **:star: Time series forecasting** :chart_with_downwards_trend:  | Barbara | +2050 `pts`|
 | Oct 13 | Group exercise: TidyTuesday data dive [Warmup with Porgs](https://itep-r.netlify.app/page/day2_am.html#porg-review).    Data at `read_csv("https://itep-r.netlify.com/data/porg_data.csv")`  | Everyone | +1000 `pts`|
 | Oct 6 | Questions and Andrea's Shiny tool | Andrea | +2000 `pts` |   
 | Sep 29 |  [Group exercise fun: Data Validation](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/tiny_giraffes_data_validation) | Kristie | 1024 `pts`|
