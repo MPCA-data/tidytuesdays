@@ -25,7 +25,7 @@ library(tidyverse)
 
 all_films <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018/2018-10-23/movie_profit.csv")
 
-scary <- filter(all_films, genre == "Horror")
+scary <- filter(all_films, genre == "Horror") ##But, did you get all the horror genre? The genre has lists. Use grepl to filter all movies that could possiblt be considered horror.
 ```
 
 <br>
@@ -71,6 +71,20 @@ Use `lubridate`.
 
 <br>
 
-## Extras
+## BUT CANDY! DONT FORGET THE CANDY
+
+1. Load the data
+
+```{r load candy}
+
+candy_data <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/exercises/candy-data.csv")
+
+```
+
+2. Process
+
+- Use mutate and some algebra to create a candy index. You can weight each candy descriptor according to your/your group's proferences.
+- Chart your rankings.
+- Share your screen and show us your favorite candy. Have you tried that one?
 
 
