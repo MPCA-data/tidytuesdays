@@ -66,7 +66,7 @@ Use `lubridate`.
 - Create a title that includes those 3 words   
  
 ## Forecast 
-- Predict how much money will we make?
+- Predict how much money we'll make.
 
 
 <br>
