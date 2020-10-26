@@ -1,8 +1,3 @@
----
-title: "ROLL CAMERA"
-output: html_document
----
-
 # Camera... Action!
 
 <br>
