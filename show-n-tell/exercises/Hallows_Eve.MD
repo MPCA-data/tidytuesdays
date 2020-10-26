@@ -81,7 +81,7 @@ candy_data <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays
 
 ```
 
-2. Process
+2. Process the data
 
 - Use mutate and some algebra to create a candy index. You can weight each candy descriptor according to your/your group's proferences.
 - Chart your rankings.
