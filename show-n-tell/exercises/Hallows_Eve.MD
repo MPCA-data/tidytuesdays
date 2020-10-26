@@ -2,18 +2,11 @@
 
 <br>
 
->
 > **Grab the ketchup folks, we're making a scary movie.**
 >
 
 
 <img src="https://i.pinimg.com/564x/fe/9c/32/fe9c3239eb69dbc16ee4e78bd386ebc5.jpg" align="left" width="70%">
-
-<br style="clear: both;">
-<br>
-
-<div style="clear: both;">
-</div>
 
 ## Boo!
 
@@ -43,10 +36,14 @@ scary <- filter(all_films, genre == "Horror")
 
 ### Inspiration
 
+Use `ggplot2` or `plotly`.
+
 - Which film grossed the most $$$?  
 - Which film made the most profit?
 
 ### Timing
+
+Use `lubridate`.
 
 - Which `month` is best to release our film?
 - Which `day` of the month is best to release our film?
