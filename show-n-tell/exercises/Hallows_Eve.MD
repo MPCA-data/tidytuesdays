@@ -25,7 +25,8 @@ library(tidyverse)
 
 all_films <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018/2018-10-23/movie_profit.csv")
 
-scary <- filter(all_films, genre == "Horror") ##But, did you get all the horror genre? The genre has lists. Use grepl to filter all movies that could possiblt be considered horror.
+scary <- filter(all_films, genre == "Horror") 
+
 ```
 
 <br>
