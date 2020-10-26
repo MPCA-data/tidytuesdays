@@ -7,7 +7,7 @@
 >
 
 
-<img src="https://i.pinimg.com/564x/fe/9c/32/fe9c3239eb69dbc16ee4e78bd386ebc5.jpg" align="left" width="66%">
+<img src="https://i.pinimg.com/564x/fe/9c/32/fe9c3239eb69dbc16ee4e78bd386ebc5.jpg" align="left" width="70%">
 
 <br style="clear: both;">
 <br>
@@ -17,7 +17,7 @@
 
 ## Boo!
 
-<img src="https://i.pinimg.com/originals/5b/4d/6b/5b4d6be9dbe61d57eacf3e467fbb4ea8.png" width="30%" align="left" >
+<img src="https://i.pinimg.com/originals/5b/4d/6b/5b4d6be9dbe61d57eacf3e467fbb4ea8.png" width="25%" align="left" >
 
 
 ## The DATA
