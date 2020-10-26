@@ -64,8 +64,9 @@ Use `lubridate`.
     - More than 5 words?
 - What 3 words would most likely help our film make money?
 - Create a title that includes those 3 words   
-   
-## How much money will we make?
+ 
+## Forecast 
+- Predict how much money will we make?
 
 
 <br>
