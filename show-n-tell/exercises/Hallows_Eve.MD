@@ -142,7 +142,7 @@ plots <- read_csv("https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-
 - What movies were filmed in Finland - the scariest country in the Universe.
 - Sample 2 movies randomly. Swap the villains in the 2 movie's plot lines.
     - Share your favorite version with the group.
-    - :warning: WARNING: This probably doesn't need to be said, but clowns are too scary. Please drop any movies involving or referencing clowns.
+    - :warning: WARNING: This probably doesn't need to be said, but clowns are too scary. Please drop all movies referencing clowns.
 
 <br>
 <br>
