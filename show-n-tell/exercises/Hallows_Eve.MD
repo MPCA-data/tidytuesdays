@@ -15,7 +15,7 @@ library(hrbrthemes)
 starwars <- starwars
 
 ggplot(starwars, aes(height, log10(mass))) + 
-  geom_point(aes(size = 0.02*log10(mass)), color = "#962e1a", alpha = 0.25, show.legend = F) +
+  geom_point(aes(size = 0.02*log10(mass)), color = "#FF7518", alpha = 0.25, show.legend = F) +
   labs(title = "STARWARS", subtitle = "Alien heights and mass", y = "mass") +
   theme_modern_rc(base_size = 19) 
 ```
@@ -24,8 +24,8 @@ ggplot(starwars, aes(height, log10(mass))) +
 
 > Can you make this spookier?
 
-- Try pumpkin orange: `#FF7518`
-- Or slime toad green: `#B0C569`
+- Try clown nose red: `#962e1a`
+- Or toad slime green: `#B0C569`
 - Or Zombie color: `???`
 
 <br><br>
