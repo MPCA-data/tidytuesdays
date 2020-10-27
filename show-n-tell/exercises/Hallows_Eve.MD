@@ -20,7 +20,13 @@ ggplot(starwars, aes(height, log10(mass))) +
   theme_modern_rc(base_size = 19) 
 ```
 
+<br>
+
 > Can you make this spookier?
+
+- Try pumpkin orange: `#FF7518`
+- Or toad green: `#B0C569`
+- Or Zombie color: `???`
 
 <br><br>
 
@@ -144,6 +150,7 @@ plots <- read_csv("https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-
     - Share your favorite version with the group.
     - :warning: WARNING: This probably doesn't need to be said, but clowns are too scary. Please drop all movies referencing clowns.
 
+<br>
 
 > *Movie ratings by budget example*
 
