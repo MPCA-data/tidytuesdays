@@ -144,6 +144,11 @@ plots <- read_csv("https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-
     - Share your favorite version with the group.
     - :warning: WARNING: This probably doesn't need to be said, but clowns are too scary. Please drop all movies referencing clowns.
 
+
+> *Movie ratings by budget example*
+
+[![](https://pbs.twimg.com/media/EH7OJQOXUAArcJh?format=jpg&name=small)](https://github.com/jennadv/TidyTuesday/blob/master/Horror%20Movies/Horror%20Movies.R)
+
 <br>
 <br>
 
