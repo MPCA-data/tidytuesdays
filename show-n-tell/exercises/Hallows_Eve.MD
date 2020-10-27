@@ -1,9 +1,70 @@
-# Action!
+# Trick or Treat? 2020
+
+<br><br>
+
+## Night theme
+
+> The fun starts when it gets dark. Let's make our charts ready for night time.
+
+![](https://github.com/MPCA-data/tidytuesdays/blob/master/images/starwars_dark.png?raw=true)
+
+```{r}
+library(tidyverse)
+library(hrbrthemes)
+
+starwars <- starwars
+
+ggplot(starwars, aes(height, log10(mass))) + 
+  geom_point(aes(size = 0.02*log10(mass)), color = "#962e1a", alpha = 0.25, show.legend = F) +
+  labs(title = "STARWARS", subtitle = "Alien heights and mass", y = "mass") +
+  theme_modern_rc(base_size = 19) 
+```
+
+> Can you make this spookier?
+
+<br><br>
+
+## BUT CANDY!
+
+The trick to treating is having enough people to trade with to get what you want. But how do you ever agree on the value of different candies. How many Smarties is my box of Nerds worth? And could I get a 100 Tootsie Rolls for my 1 Reeses Peanut Butter Cup - is that not even enough?
+
+![](https://github.com/MPCA-data/tidytuesdays/blob/master/images/candy.png?raw=true)
+
+
+> Well have no fear, the answer is here. 
+
+
+The 538 team provides us with candy rankings for 85 Halloween candies. Now you can use survey results to weight your candy trading appropriately.
+
+1. Load the data
+
+```{r load-candy, cache=TRUE}
+
+candy_data <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/exercises/candy-data.csv")
+
+```
+
+## Can there be too much sugar? Ever? Really?
+
+- Is their relationship between sugar content and win percentage?
+
+## My friends say my best quality is chocolate
+
+- What candy quality best predicts winning?
+- Why isn't there a `sour` category? *(Seriously. Did these people even like candy?)*
+
+## Your personal ranking
+
+- Use mutate and some algebra to create a candy index. You can weight each candy descriptor according to you or your group's preferences.
+- Chart your rankings
+
+<br><br>
+
+# And... Action!
 
 <br>
 
-> **Grab the ketchup folks, we're making a scary movie.**
->
+> **Grab the ketchup folks we're making a scary movie.**
 
 
 <img src="https://i.pinimg.com/564x/fe/9c/32/fe9c3239eb69dbc16ee4e78bd386ebc5.jpg" align="left" width="70%">
@@ -17,10 +78,7 @@
 
 > Before we get too far, let's look at past films for clues about what makes a good spooky movie.
 
-
-1. Load the data
-
-```{r}
+```{r, cache=T}
 library(tidyverse)
 
 all_films <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018/2018-10-23/movie_profit.csv")
@@ -33,21 +91,30 @@ scary <- filter(all_films, genre == "Horror")
 
 ## Explore
 
-> **We need answers. Can you find them?**
+> **We need answers. Can you find them, before they find you?**
 
-### Inspiration
+### Genre
 
 Use `ggplot2` or `plotly`.
+
+- Is Horror a good genre for making money?
+
+### Lofty goals
 
 - Which film grossed the most $$$?  
 - Which film made the most profit?
 
 ### Timing
 
-Use `lubridate`.
+Use `lubridate`
 
 - Which `month` is best to release our film?
-- Which `day` of the month is best to release our film?
+- Which `day` of the month is best to release our film? *(Psst... You might be cursed if you get this wrong.)*
+
+> *Heat map calendar example*
+
+[![](https://pbs.twimg.com/media/EIGYfi3UEAADuWX?format=png&name=small)](https://github.com/alysonla/tidy-tuesday)
+
 
 ### Budget
 
@@ -57,35 +124,25 @@ Use `lubridate`.
     - more than 10 million
     - or more than 100 million?
 
-## Title
+<br><br>
 
-- How long should our title be?
-    - Less than 3 words?
-    - Between 3 and 5 words?
-    - More than 5 words?
-- What 3 words would most likely help our film make money?
-- Create a title that includes those 3 words   
- 
-## Forecast 
-- Predict how much money we'll make.
+# Ghost story time
 
+> Our movie needs a plot, or at least a semblance of one. Here's a data set with a short summary of recent horror movie story lines.
 
-<br>
+```{r, cache=T}
+plots <- read_csv("https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/IMDB%20Horror%20movies.csv?raw=true")
 
-## BUT CANDY! DONT FORGET THE CANDY
-
-1. Load the data
-
-```{r load candy}
-
-candy_data <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/exercises/candy-data.csv")
-
+## Data from https://www.kaggle.com/PromptCloudHQ/imdb-horror-movie-dataset
 ```
 
-2. Process the data
+## Questions, I have a few...
 
-- Use mutate and some algebra to create a candy index. You can weight each candy descriptor according to your/your group's proferences.
-- Chart your rankings.
-- Share your screen and show us your favorite candy. Have you tried that one?
+- How many horror movies involve mutant penguins or a scary bunny?
+- What movies were filmed in Finland - the scariest country in the Universe.
+- Clowns are too scary. Please drop any movies involving clowns.
+
+<br>
+<br>
 
 
