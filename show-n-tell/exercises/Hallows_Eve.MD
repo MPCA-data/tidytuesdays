@@ -25,7 +25,7 @@ ggplot(starwars, aes(height, log10(mass))) +
 > Can you make this spookier?
 
 - Try pumpkin orange: `#FF7518`
-- Or toad green: `#B0C569`
+- Or slime toad green: `#B0C569`
 - Or Zombie color: `???`
 
 <br><br>
