@@ -1,4 +1,4 @@
-# Camera... Action!
+# Action!
 
 <br>
 
