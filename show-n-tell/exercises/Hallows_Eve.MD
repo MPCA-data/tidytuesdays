@@ -45,6 +45,7 @@ The 538 team provides us with candy rankings for 85 Halloween candies. Now you c
 1. Load the data
 
 ```{r load-candy, cache=TRUE}
+library(tidyverse)
 
 candy_data <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/exercises/candy-data.csv")
 
