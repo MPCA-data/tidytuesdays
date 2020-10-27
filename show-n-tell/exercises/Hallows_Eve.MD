@@ -9,6 +9,8 @@
 ![](https://github.com/MPCA-data/tidytuesdays/blob/master/images/starwars_dark.png?raw=true)
 
 ```{r}
+remotes::install_github("hrbrmstr/hrbrthemes")
+
 library(tidyverse)
 library(hrbrthemes)
 
