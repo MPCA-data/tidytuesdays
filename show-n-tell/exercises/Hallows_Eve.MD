@@ -126,7 +126,7 @@ Use `lubridate`
 
 <br><br>
 
-# Ghost story time
+# Ghost stories
 
 > Our movie needs a plot, or at least a semblance of one. Here's a data set with a short summary of recent horror movie story lines.
 
