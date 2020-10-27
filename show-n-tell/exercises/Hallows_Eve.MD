@@ -2,7 +2,7 @@
 
 <br>
 
-## Night theme
+## Night theme :moon:
 
 > The fun starts when it gets dark. Let's make our charts ready for night time.
 
@@ -140,7 +140,9 @@ plots <- read_csv("https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-
 
 - How many horror movies involve mutant penguins or a scary bunny?
 - What movies were filmed in Finland - the scariest country in the Universe.
-- Clowns are too scary. Please drop any movies involving clowns.
+- Sample 2 movies randomly. Swap the villains in the 2 movie's plot lines.
+    - Share your favorite version with the group.
+    - :warning: WARNING: I probably don't need to say this, but clowns are too scary. Please drop any movies involving or referencing clowns.
 
 <br>
 <br>
