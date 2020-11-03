@@ -13,6 +13,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ## Morning warmup
 
+Take today's [Tuesday Quizlet](https://forms.gle/bDVjCnwwcQZQB92H8)!
 
 <br>
 
@@ -20,14 +21,14 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
-| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada: Yes!** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  | 
+| Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Nov 17 | MNIT attendees/R server discussion | Carl S and Barbara | 160 `pts` |
-| Dec 1 | ggplot for publication ready | Someone amazing | 4 `pts` |
-| Nov 24 | Embarassing day - errors, mistakes, and hurdles | Kristie | 4 `pts` |
-| Nov 10 | Day of the Dates / timezones | Dorian | 1.1 `pts` |
-| Nov 3 | Regular expressions `regex` 101 | Derek | +novemdecillion `pts` |
-| Oct 27 | **:ghost: [Halloween exercise](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Hallows_Eve.MD#2020--trick-or-treat): Text mining candy / scary movie data**  | Everyone | +1031 `pts`|
+| Dec 1 | MNIT attendees/R server discussion -  | -- | 160 `pts` |
+| Nov 24 | ggplot for publication ready - Someone named Z | -- | 4 `pts` |
+| Nov 17 | Fabulous day - errors, mistakes, and hurdles - Kristie | -- | 4 `pts` |
+| Nov 10 | Day of the Dates & Timezones - Dorian | -- | 1.1 `pts` |
+| Nov 3 | **Regular expressions `regex` 101** - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8) _(quiz)_ | +novemdecillion `pts` |
+| Oct 27 | :ghost: [Halloween exercise](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Hallows_Eve.MD#2020--trick-or-treat): Text mining candy / scary movie data  | Everyone | +1031 `pts`|
 | Oct 20 | Time series forecasting :chart_with_downwards_trend:  | Barbara | +2050 `pts`|
 | Oct 13 | Group exercise: TidyTuesday data dive [Warmup with Porgs](https://itep-r.netlify.app/page/day2_am.html#porg-review).    Data at `read_csv("https://itep-r.netlify.com/data/porg_data.csv")`  | Everyone | +1000 `pts`|
 | Oct 6 | Questions and Andrea's Shiny tool | Andrea | +2000 `pts` |   
