@@ -10,7 +10,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 <br>
 
-## Morning warmup
+## :coffee: Morning warmup
 
 Try today's [Tuesday Quizzlet](https://forms.gle/bDVjCnwwcQZQB92H8)!
 
