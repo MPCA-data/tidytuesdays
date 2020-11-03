@@ -21,8 +21,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 
 | Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:Bonus <br> `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 1 | MNIT attendees/R server discussion -  | -- | 160 `pts` |
-| Nov 24 | ggplot for publication ready - Someone named Z | -- | 4 `pts` |
+| Nov 24 | ggplot for publications - Someone named Z | -- | 4 `pts` |
 | Nov 17 | Fabulous day - errors, mistakes, and hurdles - Kristie | -- | 4 `pts` |
 | Nov 10 | Day of the Dates & Timezones - Dorian | -- | 1.1 `pts` |
 | Nov 3 | **Regular expressions `regex` 101** - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8) _(quiz)_ | +novemdecillion `pts` |
