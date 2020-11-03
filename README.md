@@ -12,7 +12,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ## Morning warmup
 
-Take today's [Tuesday Quizlet](https://forms.gle/bDVjCnwwcQZQB92H8)!
+Try today's [Tuesday Quizzlet](https://forms.gle/bDVjCnwwcQZQB92H8)!
 
 <br>
 
