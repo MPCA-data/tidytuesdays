@@ -7,13 +7,25 @@ Loon survey 2021
 
 <br>
 
-> **Objective**
+### lubridate
+
+![](https://github.com/rstudio/hex-stickers/raw/master/thumbs/lubridate.png)
+
+For easier date and time processing we'll be using the `lubridate` package. View the big cheatsheet [here](https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf). It's a great reference for any time you are trying to manipulate dates or timezones in your data.
+
+<br><br>
+
+
+#### **Objective**
 > 
-> Great news. The DNR has invited us to help put on a statewide loon
+> Great news. 
+> 
+> The DNR has invited us to help put on a statewide loon
 > survey. There will be 3 survey locations: Bemidji, Minneapolis, and
 > Ely. Good luck!
 
 <br>
+
 
 We want to perform a loon count once a week from the months of May to
 October for the year 2021. You can generate the full list of dates
@@ -24,8 +36,7 @@ during this time span using the sequence function `seq()`.
 > Try running the code below and store the result to `survey_window`.
 
 ``` r
-library(tidyverse)
-library(lubridate)
+library(tidyverse)  #lubridate is included in the great tidyverse
 
 start_date <- ymd("2021-05-01")
 
