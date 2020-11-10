@@ -77,7 +77,20 @@ survey results.
 
 ## 2. A missing site
 
-Oh no. We have a data problem.
+<br>
+
+> **Load the loon data.**
+
+``` r
+loons <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_data.csv")   
+```
+<br>
+
+*Explore a bit.*
+
+<br>
+
+It looks like we have a slight missing data problem.
 
 There’s a data point in the results that wasn’t labeled with the site
 location. We do know the date however. On `2021-06-11` there were a
@@ -93,11 +106,12 @@ mystery_site_date <- "2021-06-11"
 
 <br>
 
-> Load the loon data below and use `ifelse()` to update the missing site name for the
+> Use `ifelse()` to update the missing site name for the
 > survey date `2021-06-11`.
 
 ``` r
-loonies <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_data.csv")   
+loons <- loons %>%
+         mutate(...)  
 ```
 
 
