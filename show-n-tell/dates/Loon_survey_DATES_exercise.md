@@ -58,7 +58,7 @@ To kick things off - the first Tuesday in May of 2021 is `'2021-05-04'`.
 ``` r
 first_tuesday <- ymd('2021-05-04')  # StarWars day
 
-bemidji_tuesdays <- #seq(...
+bemidji_tuesdays <- seq(...
 ```
 
 <br>
@@ -108,8 +108,8 @@ loonies <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/ma
 > **Add a `month` column to the data.**
 
 ``` r
-loonies <- loonies %>%
-           #mutate(month = ...)
+loons <- loons %>%
+         mutate(month = ...)
 ```
 
 <br>
@@ -138,16 +138,28 @@ left_join(...)
 > **Use `force_tz()` to assign all times to the designated time zone in the `time_zone` column.**
 
 ``` r
-loonies <- loonies %>%
-           rowwise() %>%
-           mutate(time_cdt = force_tz(...) )
+loons <- loons %>%
+         rowwise() %>%
+         mutate(time_cdt = force_tz(...) )
 ```
-
 
 <br>
 
+> **Did the GMT times change?**
+> 
+> All times should now be shown in local CDT time.
+
+
+<br><br>
+
 > **Add an hour column to the data. Which hour of the day saw the most
 > loons across all of the sites?**
+
+``` r
+loons <- loons %>%
+         mutate(hour = ...)
+```
+
 
 <br><br>
 
