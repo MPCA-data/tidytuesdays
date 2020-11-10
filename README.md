@@ -24,7 +24,7 @@ Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your b
 | ---  | --- | --- | --- |  
 | Nov 24 | ggplot for publications - Someone named Z | -- | 4 `pts` |
 | Nov 17 | Fabulous day - errors, mistakes, and hurdles - Kristie | -- | 4 `pts` |
-| Nov 10 | :star: [**Day of Dates & Timezones**](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) - Dorian | [Dates & Time](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
+| Nov 10 | :star: [**Day of Dates & Timezones**](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
 | Nov 3 | Regular expressions `regex` 101 - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8) _(quizzlet)_ | +novemdecillion `pts` |
 | Oct 27 | :ghost: [Halloween exercise](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Hallows_Eve.MD#2020--trick-or-treat): Text mining candy / scary movie data  | Everyone | +1031 `pts`|
 | Oct 20 | Time series forecasting :chart_with_downwards_trend:  | Barbara | +2050 `pts`|
