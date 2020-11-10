@@ -165,7 +165,7 @@ loons <- loons %>%
 
 > All times should now be shown in local CDT time.
 >
-> **View one of the specific `time` values again with `count_times$time_cdt[1]`.**
+> **View one of the new specific time values with `count_times$time_cdt[1]`.**
 
 <br>
 
