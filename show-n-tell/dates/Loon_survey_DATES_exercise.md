@@ -177,7 +177,7 @@ loons <- loons %>%
 
 <br><br>
 
-## :star: Bonus :star:
+## :star: Bonus 
 
 Use the tiny function `am()` to determine whether it was
 better to look for loons in the first half or the second half of the day.
