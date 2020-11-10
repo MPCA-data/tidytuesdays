@@ -12,7 +12,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ## :coffee: Morning warmup
 
-> [Try today's Tuesday Quizzlet](https://forms.gle/YutRu6RfnVGJRo3y9)!
+> Try today's [Tuesday Quizzlet](https://forms.gle/YutRu6RfnVGJRo3y9)
 
 <br>
 
