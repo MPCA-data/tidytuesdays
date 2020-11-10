@@ -9,9 +9,9 @@ Loon survey 2021
 
 > **Objective**
 > 
-> Great news\! The DNR invited us to help put on a statewide loon
+> Great news. The DNR has invited us to help put on a statewide loon
 > survey. There will be 3 survey locations: Bemidji, Minneapolis, and
-> Ely. Good luck.
+> Ely. Good luck!
 
 <br>
 
@@ -80,8 +80,8 @@ survey results.
 Oh no. We have a data problem.
 
 There’s a data point in the results that wasn’t labeled with the site
-location. We do know the date however. On `2021-06-12` there were a
-whopping 12 loons counted - we just don’t know where.
+location. We do know the date however. On `2021-06-11` there were a
+whopping 4 loons counted - we just don’t know where.
 
 <br>
 
@@ -120,7 +120,7 @@ loonies <- loonies %>%
 
 ## Best time of day?
 
-The time _(hour:minutes:seconds)_ denoting the start of each loon count was stored in 
+The time _(hour:minutes:seconds)_ for the start of each loon count was stored in 
 a separate table. Load the survey times and join it to the loon counts by using `left_join()`.
 
 > **Join the times to the dates.**
@@ -131,9 +131,10 @@ count_times <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesday
 
 <br>
 
-> **Darn. Some people recorded times using local Central time, but
-> others used GMT time. Use `with_tz()` to convert all times to local
-> Central Time (“America/Chicago”).**
+> Darn. Most times were recorded using local Central time, but some
+> are in GMT time. 
+> 
+> **Use `with_tz()` to convert all times to local Central Time (“America/Chicago”).**
 
 ``` r
 loonies <- loonies %>%
@@ -145,13 +146,12 @@ loonies <- loonies %>%
 > **Add an hour column to the data. Which hour of the day saw the most
 > loons across all of the sites?**
 
-<br>
+<br><br>
 
 ## :star: Bonus :star:
 
-> **Use the tiny functions `am()` or `pm()` to determine whether it is
-> better to look for loons in the first half or the second half of the
-> day.**
+Use the tiny functions `am()` or `pm()` to determine whether it is
+better to look for loons in the first half or the second half of the day.
 
 <br><br>
 
