@@ -127,19 +127,22 @@ a separate table. Load the survey times and join it to the loon counts by using 
 
 ``` r
 count_times <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_times.csv")
+
+left_join(...)
 ```
 
 <br>
 
-> Darn. Most times were recorded using local Central time, but some
-> are in GMT time. 
+> Wups! By default, R assigned the times to UTC time. Plus, if we scroll down in the data table we see that most of the times were recorded using local Central time, but a few are in GMT time. We can fix this all up with one use of `force_tz()`.
 > 
-> **Use `with_tz()` to convert all times to local Central Time (“America/Chicago”).**
+> **Use `force_tz()` to assign all times to the designated time zone in the `time_zone` column.**
 
 ``` r
 loonies <- loonies %>%
-           #mutate(time_fix = ...)
+           rowwise() %>%
+           mutate(time_cdt = force_tz(...) )
 ```
+
 
 <br>
 
@@ -150,7 +153,7 @@ loonies <- loonies %>%
 
 ## :star: Bonus :star:
 
-Use the tiny functions `am()` or `pm()` to determine whether it is
+Use the tiny function `am()` to determine whether it was
 better to look for loons in the first half or the second half of the day.
 
 <br><br>
