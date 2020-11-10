@@ -36,7 +36,7 @@ seq(start_date, end_date, by = 1) # Sequence from start to end by 1 day
 
 <br>
 
-## Challenge 1
+## 1. Scheduling weekdays
 
 ![](https://cdn.iconscout.com/icon/free/png-128/calendar-1562-518053.png)
 
@@ -61,14 +61,14 @@ first_tues <- ymd('2021-05-04')  # StarWars day
 all_bemidji_tues <- #seq(...
 ```
 
-# Results
+<br>
 
-Congrats\! Your schedule worked perfectly. Now let’s take a look at the
+> Congrats\! Your schedule worked perfectly. Now let’s take a look at the
 survey results.
 
 <br>
 
-## Challenge 2
+## 2. A missing site
 
 Oh no. We have a data problem.
 
@@ -96,7 +96,7 @@ loonies <- read_csv("loon_survey_fake_data.csv")  # Not the Canadian coin
 
 <br>
 
-## Challenge 3
+## The best loon month?
 
 > **Add a `month` column to the data.**
 
@@ -111,7 +111,7 @@ loonies <- loonies %>%
 
 <br>
 
-## Challenge 4
+## Best time of day?
 
 The time of each loon count was stored in a separate table. Load the
 time data and join it to the loon counts using `left_join()`.
