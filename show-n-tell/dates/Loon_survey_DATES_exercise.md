@@ -172,6 +172,6 @@ better to look for loons in the first half or the second half of the day.
 
 # Great work
 
-You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*. Stay tuned.
+You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*.
 
 ##
