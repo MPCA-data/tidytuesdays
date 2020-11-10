@@ -56,14 +56,21 @@ generate the survey dates for each site. You will want to use a new
 To kick things off - the first Tuesday in May of 2021 is `'2021-05-04'`.
 
 ``` r
-first_tues <- ymd('2021-05-04')  # StarWars day
+first_tuesday <- ymd('2021-05-04')  # StarWars day
 
-all_bemidji_tues <- #seq(...
+bemidji_tuesdays <- #seq(...
 ```
 
 <br>
 
-> Congrats\! Your schedule worked perfectly. Now let’s take a look at the
+> **How many survey dates are at each site?**
+> 
+> *Hint: It should be more than 20.*
+
+<br>
+<br>
+
+Congrats\! Your schedule worked perfectly. Now let’s take a look at the
 survey results.
 
 <br>
@@ -86,13 +93,13 @@ mystery_site_date <- "2021-06-11"
 
 <br>
 
-> Load the loon data below and update the missing site name for the
-> result recorded on
-`2021-06-11`.
+> Load the loon data below and use `ifelse()` to update the missing site name for the
+> survey date `2021-06-11`.
 
 ``` r
-loonies <- read_csv("loon_survey_fake_data.csv")  # Not the Canadian coin
+loonies <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_data.csv")   
 ```
+
 
 <br>
 
@@ -113,13 +120,13 @@ loonies <- loonies %>%
 
 ## Best time of day?
 
-The time of each loon count was stored in a separate table. Load the
-time data and join it to the loon counts using `left_join()`.
+The time _(hour:minutes:seconds)_ denoting the start of each loon count was stored in 
+a separate table. Load the survey times and join it to the loon counts by using `left_join()`.
 
 > **Join the times to the dates.**
 
 ``` r
-count_times <- read_csv("loon_survey_fake_times.csv")
+count_times <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_times.csv")
 ```
 
 <br>
