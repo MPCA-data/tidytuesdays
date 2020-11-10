@@ -150,7 +150,6 @@ loonies <- loonies %>%
 
 # Great work\!
 
-You showed some impressive data skills today. We’ll be in touch when we
-receive funding for loon survey 2021. Stay tuned\!
+You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*. Stay tuned\!
 
 ##
