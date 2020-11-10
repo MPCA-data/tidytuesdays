@@ -146,7 +146,7 @@ left_join(...)
 ```
 <br>
 
-> **View one of the specific `time` values with `count_times$time[1]`. What do you notice?
+> **View one of the specific `time` values with `count_times$time[1]`. What do you notice?**
 
 <br>
 
@@ -165,7 +165,7 @@ loons <- loons %>%
 
 > All times should now be shown in local CDT time.
 >
-> **View one of the specific `time` values again with `count_times$time_cdt[1]`. 
+> **View one of the specific `time` values again with `count_times$time_cdt[1]`.**
 
 <br>
 
