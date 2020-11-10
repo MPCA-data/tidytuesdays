@@ -148,8 +148,8 @@ loonies <- loonies %>%
 
 <br><br>
 
-# Great work\!
+# Great work
 
-You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*. Stay tuned\!
+You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*. Stay tuned.
 
 ##
