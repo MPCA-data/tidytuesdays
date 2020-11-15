@@ -18,11 +18,8 @@ For easier date and time processing we'll be using the `lubridate` package. View
 
 #### **Objective**
 > 
-> Great news. 
-> 
-> The DNR has invited us to help put on a statewide loon
-> survey. There will be 3 survey locations: Bemidji, Minneapolis, and
-> Ely. Good luck!
+> The DNR has invited you to help organize a statewide loon
+> survey next season. 
 
 <br>
 
@@ -51,6 +48,7 @@ seq(start_date, end_date, by = 1) # Sequence from start to end by 1 day
 
 ![](https://cdn.iconscout.com/icon/free/png-128/calendar-1562-518053.png)
 
+There will be 3 survey locations: Bemidji, Minneapolis, and Ely. 
 You are in charge of creating a schedule for each location. Here are the
 weekdays the volunteers are available at each of the locations:
 
