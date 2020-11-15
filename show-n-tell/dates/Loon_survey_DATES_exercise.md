@@ -48,6 +48,17 @@ survey_window <- seq.Date(from = start_date, to = end_date, by = "day) # Sequenc
 
 <br>
 
+## :question: How many days will the survey run?
+
+<br>
+
+<details>
+<summary>Show answer</summary>
+*184 days*
+</details>
+
+<br>
+
 ## 1. Scheduling weekdays
 
 ![](https://cdn.iconscout.com/icon/free/png-128/calendar-1562-518053.png)
