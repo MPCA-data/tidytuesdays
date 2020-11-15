@@ -34,7 +34,7 @@ seq.Date()
 
 <br>
 
-Try running the code below and store the result to.
+Try running the code below.
 
 ``` r
 library(tidyverse)  #lubridate is included in the great tidyverse
@@ -48,7 +48,7 @@ survey_window <- seq.Date(from = start_date, to = end_date, by = "day) # Sequenc
 
 <br>
 
-## :question: How many days will the survey run?
+## :penguin: How many days will the survey run?
 
 <br>
 
@@ -156,7 +156,7 @@ loons <- loons %>%
 
 <br>
 
-> **Which month saw the most loons across all of the sites?**
+:penguin: **Which month saw the most loons across all of the sites?**
 
 <br>
 
@@ -209,18 +209,21 @@ loons <- loons %>%
          mutate(hour = ...)
 ```
 
-
-<br><br>
-
-## :star: Bonus 
-
-Use the tiny function `am()` to determine whether it was
-better to look for loons in the first half or the second half of the day.
-
 <br><br>
 
 # Great work
 
 You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*.
+
+
+<br><br>
+
+## Extra 
+
+Use the tiny function `am()` to determine whether it was
+better to look for loons in the first half or the second half of the day.
+
+
+
 
 ##
