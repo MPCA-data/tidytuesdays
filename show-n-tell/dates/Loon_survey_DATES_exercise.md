@@ -1,23 +1,22 @@
 Loon survey 2021
 ================
 
-### *Working with dates and times*
-
-
 ![](https://abcbirds.org/wp-content/uploads/2020/03/common-loon-for-blog.jpg)
 
 <br>
 
-### lubridate
+## lubridate
+### *Working with dates and times*
+
 
 ![](https://github.com/rstudio/hex-stickers/raw/master/thumbs/lubridate.png)
 
 For easier date and time processing we'll be using the `lubridate` package. View the big cheatsheet [here](https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf). It's a great reference for any time you are trying to manipulate dates or timezones in your data.
 
-<br><br>
+<br>
 
 
-#### **Objective**
+### **Objective**
 > 
 > The DNR has invited you to help organize a statewide loon
 > survey next season. 
@@ -55,7 +54,9 @@ survey_window <- seq.Date(from = start_date, to = end_date, by = "day) # Sequenc
 
 <details>
 <summary>Show answer</summary>
+  
 *184 days*
+
 </details>
 
 <br>
