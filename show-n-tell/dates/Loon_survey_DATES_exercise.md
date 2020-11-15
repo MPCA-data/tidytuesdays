@@ -106,8 +106,8 @@ That's a good start, but before you send off the schedules we need to update the
 The regions have the following preferred date formats:
 
 - Bemidji: ` May-12-2021`
-- Minneapolis: ` The 12th of May of the year 2021`
-- Ely: ` 5.12.21`
+- Minneapolis: ` 08.12.21`  
+- Ely: ` 12 of August of year 2021`
 
 <br>
 
@@ -124,6 +124,12 @@ For example, `format(date, "%b, %Y")` would print the date as "May, 2021".
 | `%b`          | Month (abbreviated)               | Dec      |
 | `%m`          | Month (decimal number)            | 12       |
 | `%d`          | Day of the month (decimal number) | 12       |
+
+
+**Time**
+
+| Expression    | Description                       | Example  |
+| :------------ | :-------------------------------- | :------- |
 | %H            | Hour                              | 8        |
 | %M            | Minute                            | 5        |
 | %S            | Second                            | 3        |
