@@ -58,9 +58,9 @@ weekdays the volunteers are available at each of the locations:
   - Minneapolis: `Fridays`
   - Ely: `Thursdays`
 
-Use the `seq()` function and the assumption that each week has 7 days to
-generate the survey dates for each site. You will want to use a new
-`seq()` function for each site.
+Use the `seq.date()` function and the option to step by 1 "week" to
+generate the survey dates for each site. You can use a new
+`seq.date()` function for each site.
 
 <br>
 
