@@ -194,7 +194,7 @@ loons <- loons %>%
 
 ## What is the best month to see loons?
 
-> **Add a `month` column to the data.**
+> **First, add a `month` column to the data.**
 
 ``` r
 loons <- loons %>%
@@ -203,7 +203,14 @@ loons <- loons %>%
 
 <br>
 
-:penguin: **Which month saw the most loons across all of the sites?**
+:penguin: **Next, use `group_by()` and `summarize()` to find the month with the most loon sightings across all of the sites.**
+
+``` r
+loons <- loons %>%
+         group_by(...) %>%
+         summarize(total_loons = ...)
+```
+
 
 <br><br>
 
