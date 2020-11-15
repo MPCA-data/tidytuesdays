@@ -69,9 +69,9 @@ There will be 3 survey locations: Bemidji, Minneapolis, and Ely.
 You are in charge of creating a schedule for each location. Here is the
 one weekday when the volunteers are available at each location:
 
-  - Bemidji: ` Tuesdays`
-  - Minneapolis: ` Fridays`
-  - Ely: ` Thursdays`
+- Bemidji: ` Tuesdays`
+- Minneapolis: ` Fridays`
+- Ely: ` Thursdays`
 
 <br>
 
@@ -95,6 +95,37 @@ bemidji_tuesdays <- seq.Date(...
 > 
 > *Hint: It should be more than 20.*
 
+
+<br>
+
+## 2. Particular date formats
+
+That's a good start, but before you send off the schedules we need to update the format of the dates. Each survey region has a very particular Assistant to the Regional Manager that demands a very specific date format for their work schedules. 
+
+
+The regions have the following preferred date formats:
+
+- Bemidji: ` May-12-2021`
+- Minneapolis: ` The 12th of May of the year 2021`
+- Ely: ` 5.12.21`
+
+<br>
+
+Use `format(date, ...)` and the format expressions below to format the schedule for each region accordingly. For example, `format(date, "%b, %Y")` would print the. You've got this!
+
+| Expression    | Description                       | Example  |
+| :------------ | :-------------------------------- | :------- |
+| `%y`          | Year (2 digit)                    | 19       |
+| `%Y`          | Year (4 digit)                    | 2019     |
+| `%B`          | Month (full name)                 | December |
+| `%b`          | Month (abbreviated)               | Dec      |
+| `%m`          | Month (decimal number)            | 12       |
+| `%d`          | Day of the month (decimal number) | 12       |
+| %H            | Hour                              | 8        |
+| %M            | Minute                            | 5        |
+| %S            | Second                            | 3        |
+
+
 <br>
 <br>
 
@@ -103,7 +134,7 @@ survey results.
 
 <br>
 
-## 2. A missing site
+## 3. A missing site
 
 <br>
 
@@ -114,7 +145,7 @@ loons <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/mast
 ```
 <br>
 
-*Explore a bit.*
+*Explore a bit. Are there any missing values?*
 
 <br>
 
@@ -143,9 +174,15 @@ loons <- loons %>%
 ```
 
 
+
 <br>
 
-## The best loon month?
+
+## 4. The best time for loons
+
+<br>
+
+## What is the best month to see loons?
 
 > **Add a `month` column to the data.**
 
@@ -158,7 +195,9 @@ loons <- loons %>%
 
 :penguin: **Which month saw the most loons across all of the sites?**
 
-<br>
+<br><br>
+
+
 
 ## Best time of day?
 
@@ -175,6 +214,14 @@ left_join(...)
 <br>
 
 > **View one of the specific `time` values with `count_times$time[1]`. What do you notice?**
+
+<br>
+
+> **You can check the timezones of the entire time column with `tz()`. Try:**
+> 
+> ```r
+> tz(count_times$time) %>% unique()`.
+> ```
 
 <br>
 
