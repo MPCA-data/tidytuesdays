@@ -115,8 +115,8 @@ Use `format(date, ...)` and the format expressions below to format the schedule 
 
 | Expression    | Description                       | Example  |
 | :------------ | :-------------------------------- | :------- |
-| `%y`          | Year (2 digit)                    | 19       |
 | `%Y`          | Year (4 digit)                    | 2019     |
+| `%y`          | Year (2 digit)                    | 19       |
 | `%B`          | Month (full name)                 | December |
 | `%b`          | Month (abbreviated)               | Dec      |
 | `%m`          | Month (decimal number)            | 12       |
