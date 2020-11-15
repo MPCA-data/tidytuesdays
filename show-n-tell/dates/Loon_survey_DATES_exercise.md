@@ -211,7 +211,7 @@ loons <- loons %>%
 
 <br><br>
 
-# Great work
+# :tada: Great work
 
 You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*.
 
@@ -222,7 +222,6 @@ You showed some impressive data skills today. We’ll be in touch for *Loon Surv
 
 Use the tiny function `am()` to determine whether it was
 better to look for loons in the first half or the second half of the day.
-
 
 
 
