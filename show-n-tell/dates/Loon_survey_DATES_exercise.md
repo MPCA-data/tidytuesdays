@@ -52,11 +52,11 @@ seq.date(from = start_date, to = end_date, by = "day) # Sequence from start to e
 
 There will be 3 survey locations: Bemidji, Minneapolis, and Ely. 
 You are in charge of creating a schedule for each location. Here are the
-weekdays the volunteers are available at each of the locations:
+weekdays the volunteers are available at each location:
 
-  - Bemidji: `Tuesdays`
-  - Minneapolis: `Fridays`
-  - Ely: `Thursdays`
+  - Bemidji: Only on `Tuesdays`
+  - Minneapolis: Only on `Fridays`
+  - Ely: Only on `Thursdays`
 
 Use the `seq.date()` function and the option to step by 1 "week" to
 generate the survey dates for each site. You can use a new
