@@ -29,7 +29,7 @@ For easier date and time processing we'll be using the `lubridate` package. View
 You can generate the full list of dates during this time span using the sequence function: 
 
 ```
-seq.date()
+seq.Date()
 ``` 
 
 <br>
@@ -43,7 +43,7 @@ start_date <- ymd("2021-05-01")
 
 end_date   <- ymd("2021-10-31")
 
-survey_window <- seq.date(from = start_date, to = end_date, by = "day) # Sequence from start to end by 1 day
+survey_window <- seq.Date(from = start_date, to = end_date, by = "day) # Sequence from start to end by 1 day
 ```
 
 <br>
@@ -62,9 +62,9 @@ one weekday when the volunteers are available at each location:
 
 <br>
 
-Use the `seq.date()` function and the option to step by 1 "week" to
+Use the `seq.Date()` function and the option to step by 1 "week" to
 generate the survey dates for each site. You can use a new
-`seq.date()` function for each site.
+`seq.Date()` function for each site.
 
 <br>
 
@@ -73,7 +73,7 @@ To kick things off - the first Tuesday in May of 2021 is `'2021-05-04'`.
 ``` r
 first_tuesday <- ymd('2021-05-04')  # StarWars day
 
-bemidji_tuesdays <- seq(...
+bemidji_tuesdays <- seq.Date(...
 ```
 
 <br>
