@@ -79,7 +79,7 @@ generate the survey dates for each site. You can use a new
 
 <br>
 
-To kick things off - the first Tuesday in May of 2021 is `'2021-05-04'`.
+To get you started, the first Tuesday in May of 2021 is `'2021-05-04'`.
 
 ``` r
 first_tuesday <- ymd('2021-05-04')  # StarWars day
