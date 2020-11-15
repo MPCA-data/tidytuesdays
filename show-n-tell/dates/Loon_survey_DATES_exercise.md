@@ -20,17 +20,19 @@ For easier date and time processing we'll be using the `lubridate` package. View
 > 
 > The DNR has invited you to help organize a statewide loon
 > survey next season. 
+> 
+> They want to perform a loon count once a week from the months of May to
+> October for the year 2021. 
 
 <br>
 
+You can generate the full list of dates during this time span using the sequence function: 
 
-We want to perform a loon count once a week from the months of May to
-October for the year 2021. You can generate the full list of dates
-during this time span using the sequence function `seq()`.
+```
+seq.date()
+``` 
 
-<br>
-
-> Try running the code below and store the result to `survey_window`.
+Try running the code below and store the result to `survey_window`.
 
 ``` r
 library(tidyverse)  #lubridate is included in the great tidyverse
@@ -39,7 +41,7 @@ start_date <- ymd("2021-05-01")
 
 end_date   <- ymd("2021-10-31")
 
-seq(start_date, end_date, by = 1) # Sequence from start to end by 1 day
+seq.date(from = start_date, to = end_date, by = "day) # Sequence from start to end by 1 day
 ```
 
 <br>
