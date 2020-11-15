@@ -32,7 +32,9 @@ You can generate the full list of dates during this time span using the sequence
 seq.date()
 ``` 
 
-Try running the code below and store the result to `survey_window`.
+<br>
+
+Try running the code below and store the result to.
 
 ``` r
 library(tidyverse)  #lubridate is included in the great tidyverse
@@ -41,7 +43,7 @@ start_date <- ymd("2021-05-01")
 
 end_date   <- ymd("2021-10-31")
 
-seq.date(from = start_date, to = end_date, by = "day) # Sequence from start to end by 1 day
+survey_window <- seq.date(from = start_date, to = end_date, by = "day) # Sequence from start to end by 1 day
 ```
 
 <br>
