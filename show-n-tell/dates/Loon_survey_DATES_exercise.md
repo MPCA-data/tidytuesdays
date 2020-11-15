@@ -53,12 +53,14 @@ survey_window <- seq.date(from = start_date, to = end_date, by = "day) # Sequenc
 ![](https://cdn.iconscout.com/icon/free/png-128/calendar-1562-518053.png)
 
 There will be 3 survey locations: Bemidji, Minneapolis, and Ely. 
-You are in charge of creating a schedule for each location. Here are the
-weekdays the volunteers are available at each location:
+You are in charge of creating a schedule for each location. Here is the
+one weekday when the volunteers are available at each location:
 
-  - Bemidji: Only on `Tuesdays`
-  - Minneapolis: Only on `Fridays`
-  - Ely: Only on `Thursdays`
+  - Bemidji: ` Tuesdays`
+  - Minneapolis: ` Fridays`
+  - Ely: ` Thursdays`
+
+<br>
 
 Use the `seq.date()` function and the option to step by 1 "week" to
 generate the survey dates for each site. You can use a new
