@@ -106,8 +106,8 @@ That's a good start, but before you send off the schedules we need to update the
 The regions have the following preferred date formats:
 
 - Bemidji: ` May-12-2021`
-- Minneapolis: ` 08.12.21`  
-- Ely: ` 12 of August of year 2021`
+- Minneapolis: ` 06.24.21`  
+- Ely: ` August 14 of Year 2021`
 
 <br>
 
