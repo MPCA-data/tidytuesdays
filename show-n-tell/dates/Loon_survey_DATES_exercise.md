@@ -111,7 +111,10 @@ The regions have the following preferred date formats:
 
 <br>
 
-Use `format(date, ...)` and the format expressions below to format the schedule for each region accordingly. For example, `format(date, "%b, %Y")` would print the. You've got this!
+Use `format(date, ...)` and the format expressions below to format the schedule for each region accordingly. 
+
+For example, `format(date, "%b, %Y")` would print the date as "May, 2021". 
+
 
 | Expression    | Description                       | Example  |
 | :------------ | :-------------------------------- | :------- |
