@@ -115,6 +115,7 @@ Use `format(date, ...)` and the format expressions below to format the schedule 
 
 For example, `format(date, "%b, %Y")` would print the date as "May, 2021". 
 
+**Date**
 
 | Expression    | Description                       | Example  |
 | :------------ | :-------------------------------- | :------- |
