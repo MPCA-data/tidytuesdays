@@ -21,8 +21,8 @@ For easier date and time processing we'll be using the `lubridate` package. View
 > The DNR has invited you to help organize a statewide loon
 > survey next season. 
 > 
-> They want to perform a loon count once a week from the months of May to
-> October for the year 2021. 
+> In 2021, they would like to perform a loon count once a week from May to
+> October at three sites across Minnesota. 
 
 <br>
 
