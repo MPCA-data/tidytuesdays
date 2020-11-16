@@ -205,7 +205,7 @@ loons <- loons %>%
 
 ## What is the best month to see loons?
 
-**First, add a `month` column to the data.**
+:penguin: **First, add a `month` column to the data.**
 
 ``` r
 loons <- loons %>%
