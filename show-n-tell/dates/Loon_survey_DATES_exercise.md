@@ -185,6 +185,8 @@ whopping 4 loons counted - but we just don’t know where.
 mystery_site_date <- "2021-06-11"
 ```
 
+> *Hint: What weekday is this?*
+
 <br>
 
 > Use `ifelse()` to update the missing site name for the
