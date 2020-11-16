@@ -55,7 +55,7 @@ survey_window <- seq.Date(from = start_date, to = end_date, by = "day) # Sequenc
 <details>
 <summary>Show answer</summary>
   
-*184 days*
+> *184 days*
 
 </details>
 
@@ -101,7 +101,7 @@ bemidji_tuesdays <- seq.Date(...)
 <details>
 <summary>Show answer</summary>
   
-*26 survey days*
+> *26 survey days*
 
 </details>
 
