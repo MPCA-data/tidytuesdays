@@ -241,7 +241,7 @@ left_join(...)
 > **You can check the timezones of the entire time column with `tz()`. Try:**
 > 
 > ```r
-> tz(count_times$time) %>% unique()`.
+> tz(count_times$time) %>% unique() 
 > ```
 
 <br>
