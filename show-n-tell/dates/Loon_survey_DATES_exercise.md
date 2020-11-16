@@ -26,11 +26,7 @@ For easier date and time processing we'll be using the `lubridate` package. View
 
 <br>
 
-Let's generate the full list of dates during this time span using the sequence function: 
-
-```
-seq.Date()
-``` 
+Let's generate the full list of dates during this time span using the sequence date function: `seq.Date()`.
 
 <br>
 
