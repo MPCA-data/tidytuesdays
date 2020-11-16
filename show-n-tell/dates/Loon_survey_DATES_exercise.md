@@ -285,7 +285,7 @@ loons <- loons %>%
 
 # :tada: Great work
 
-You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*.
+> You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*.
 
 
 <br><br>
