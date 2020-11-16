@@ -149,12 +149,12 @@ For example, `format(date, "%b, %Y")` would print the date as "May, 2021".
 <br>
 <br>
 
-Congrats\! Your schedule worked perfectly. Now let’s take a look at the
+Congrats\! Your fine tuned schedule worked perfectly. Now let’s jump ahead in time and take a look at the
 survey results.
 
 <br>
 
-## 3. A missing site
+## 3. Results
 
 <br>
 
@@ -169,11 +169,13 @@ loons <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/mast
 
 <br>
 
+### A missing site
+
 It looks like we have a slight missing data problem.
 
 There’s a data point in the results that wasn’t labeled with the site
 location. We do know the date however. On `2021-06-11` there were a
-whopping 4 loons counted - we just don’t know where.
+whopping 4 loons counted - but we just don’t know where.
 
 <br>
 
@@ -192,7 +194,6 @@ mystery_site_date <- "2021-06-11"
 loons <- loons %>%
          mutate(site = ...)  
 ```
-
 
 
 <br>
