@@ -227,7 +227,7 @@ loons <- loons %>%
 ## Best time of day?
 
 The time _(hour:minutes:seconds)_ for the start of each loon count was stored in 
-a separate table. Load the survey times and join it to the loon counts by using `left_join()`.
+a separate table. Load the survey times and join it to the loon counts with `left_join()`.
 
 > **Join the times to the dates.**
 
