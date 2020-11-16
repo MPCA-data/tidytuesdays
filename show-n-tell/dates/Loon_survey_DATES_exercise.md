@@ -26,7 +26,7 @@ For easier date and time processing we'll be using the `lubridate` package. View
 
 <br>
 
-You can generate the full list of dates during this time span using the sequence function: 
+Let's generate the full list of dates during this time span using the sequence function: 
 
 ```
 seq.Date()
@@ -34,7 +34,7 @@ seq.Date()
 
 <br>
 
-Try running the code below.
+Try running the code below to create a date for every possible day of the survey.
 
 ``` r
 library(tidyverse)  #lubridate is included in the great tidyverse
