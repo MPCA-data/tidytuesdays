@@ -179,7 +179,7 @@ whopping 4 loons counted - but we just don’t know where.
 
 <br>
 
-> **Can you determine the site based on the date of the loon count?**
+**Can you determine the site based on the date of the loon count?**
 
 ``` r
 mystery_site_date <- "2021-06-11"
@@ -189,8 +189,7 @@ mystery_site_date <- "2021-06-11"
 
 <br>
 
-> Use `ifelse()` to update the missing site name for the
-> survey date `2021-06-11`.
+**Use `ifelse()` to update the missing site name for the survey date `2021-06-11`.**
 
 ``` r
 loons <- loons %>%
