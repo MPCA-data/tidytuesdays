@@ -91,8 +91,7 @@ bemidji_tuesdays <- seq.Date(...)
 
 <br>
 
-> **How many survey dates are at each site?**
-
+**How many survey dates are at each site?**
 
 > *Hint: It is more than 20.*
 
@@ -105,8 +104,8 @@ bemidji_tuesdays <- seq.Date(...)
 
 </details>
 
-
 <br>
+
 
 ## 2. Particular date formats
 
@@ -158,7 +157,7 @@ survey results.
 
 <br>
 
-> **Load the loon data.**
+**Load the loon data.**
 
 ``` r
 loons <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_data.csv")   
@@ -206,7 +205,7 @@ loons <- loons %>%
 
 ## What is the best month to see loons?
 
-> **First, add a `month` column to the data.**
+**First, add a `month` column to the data.**
 
 ``` r
 loons <- loons %>%
@@ -223,10 +222,7 @@ loons <- loons %>%
          summarize(total_loons = ...)
 ```
 
-
 <br><br>
-
-
 
 ## Best time of day?
 
@@ -242,7 +238,7 @@ left_join(...)
 ```
 <br>
 
-> **View one of the specific `time` values with `count_times$time[1]`. What do you notice?**
+**View one of the specific `time` values with `count_times$time[1]`. What do you notice?**
 
 <br>
 
