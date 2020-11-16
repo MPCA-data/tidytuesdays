@@ -92,8 +92,18 @@ bemidji_tuesdays <- seq.Date(...)
 <br>
 
 > **How many survey dates are at each site?**
-> 
-> *Hint: It should be more than 20.*
+
+
+> *Hint: It is more than 20.*
+
+<br>
+
+<details>
+<summary>Show answer</summary>
+  
+*26 survey days*
+
+</details>
 
 
 <br>
