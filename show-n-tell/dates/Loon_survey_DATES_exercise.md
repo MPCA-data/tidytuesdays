@@ -30,7 +30,7 @@ Let's generate the full list of dates during this time span using the sequence d
 
 <br>
 
-Try running the code below to create a date for every possible day of the survey.
+Run the code below to create a date for every possible day of the survey.
 
 ``` r
 library(tidyverse)  #lubridate is included in the great tidyverse
