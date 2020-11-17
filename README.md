@@ -92,7 +92,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 
 
-## Events & recordings _(world wide)_
+## Events & Recordings _(around the world)_
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
