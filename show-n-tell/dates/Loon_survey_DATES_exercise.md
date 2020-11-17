@@ -230,11 +230,11 @@ a separate table. Load the survey times and join it to the loon counts with `lef
 ``` r
 count_times <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_times.csv")
 
-left_join(...)
+loons <- left_join(...)
 ```
 <br>
 
-**View one of the specific `time` values with `count_times$time[1]`.**
+**View one of the specific `time` values with `loons$time[1]`.**
 
 **What do you notice?**
 
@@ -245,7 +245,7 @@ left_join(...)
 **Try:**
 
 ```r
-tz(count_times$time) %>% unique() 
+tz(loons$time) %>% unique() 
 ```
 
 <br>
@@ -272,7 +272,7 @@ loons <- loons %>%
 **View one of the new time values with:**
 
 ```r
-count_times$time_cdt[1]
+loons$time_cdt[1]
 ```
 
 <br>
@@ -292,6 +292,12 @@ loons <- loons %>%
 <br>
 
 **Use `group_by()` and `summarize()` to find the hour with the most loons.**
+
+``` r
+loons <- loons %>%
+         group_by(...) %>%
+         summarize(total_loons = ...)
+```
 
 <br><br><br>
 
