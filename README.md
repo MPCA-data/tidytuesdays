@@ -8,9 +8,9 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 :rocket: **Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets) and see what others are [[ Sharing ]](https://twitter.com/hashtag/TidyTuesday)**
 
-<br>
+<br><br>
 
-## :coffee: Morning warmup
+## :coffee: The Morning warmup
 
 > Try today's [Tuesday Team Quizzlet](https://forms.gle/YutRu6RfnVGJRo3y9)
 
