@@ -267,11 +267,17 @@ loons <- loons %>%
 > All times should now be shown in local CDT time.
 >
 
-**View one of the new time values with `count_times$time_cdt[1]`.**
+<br>
+
+**View one of the new time values with:
+
+```r
+count_times$time_cdt[1]
+```
 
 <br>
 
-> **Did the GMT times change?**
+> Did the GMT times change?
 
 <br><br>
 
