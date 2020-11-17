@@ -281,12 +281,17 @@ count_times$time_cdt[1]
 
 <br><br>
 
-**Add an hour column to the data. Which hour of the day saw the most loons across all of the sites?**
+**So, Which hour of the day saw the most loons?**
 
+**Add an hour column to the data.** 
 ``` r
 loons <- loons %>%
          mutate(hour = ...)
 ```
+
+<br>
+
+**Use `group_by()` and `summarize()` to find the hour with the most loon sightings.**
 
 <br><br><br>
 
