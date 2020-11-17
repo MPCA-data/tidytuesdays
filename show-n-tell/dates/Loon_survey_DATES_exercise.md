@@ -234,11 +234,15 @@ left_join(...)
 ```
 <br>
 
-**View one of the specific `time` values with `count_times$time[1]`. What do you notice?**
+**View one of the specific `time` values with `count_times$time[1]`.**
+
+**What do you notice?**
 
 <br>
 
-> **You can check the timezones of the entire time column with `tz()`. Try:**
+**You can also check the timezones of the entire time column with `tz()`.**
+
+**Try:**
 > 
 > ```r
 > tz(count_times$time) %>% unique() 
