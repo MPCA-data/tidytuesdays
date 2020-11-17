@@ -18,9 +18,10 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
-<br>
 
 ## Schedule
+
+<br>
 
 | **Today**  | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
