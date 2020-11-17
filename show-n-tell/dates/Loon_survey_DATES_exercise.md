@@ -181,6 +181,8 @@ mystery_site_date <- "2021-06-11"
 ```
 
 > *Hint: What weekday is this?*
+>
+> Try the `wday(date)` function.
 
 <br>
 
