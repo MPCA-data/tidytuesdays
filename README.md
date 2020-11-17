@@ -1,4 +1,4 @@
-# tidy tuesdays
+# tidy Tuesdays
 
 <img src="https://cdn-images.threadless.com/threadless-shop/products/5979/1272x920design_01.jpg?w=183&h=183" align="left">
 
@@ -18,8 +18,9 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
+<br>
 
-## Schedule
+## R Schedule
 
 <br>
 
