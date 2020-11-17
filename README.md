@@ -34,10 +34,10 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Nov 24 | -POSTPONED- Turkey week :rooster:  | -- | -- |
+| Nov 24 | POSTPONED - Turkey week :rooster:  | -- | -- |
 | Dec 01 | Fabulous day of errors, mistakes, and Gotcha's - Kristie | -- | 4 `pts` |
-| Dec 08 | Plots & Tables for reports and publications - Group effort | -- | 14 `pts` |
-| Dec 15 | ??? | -- | 250 `pts` |
+| Dec 08 | Plots & Tables for reports and publications -  | -- | 14 `pts` |
+| Dec 15 | Free - Share something? | -- | 250 `pts` |
 
 <br>
 
