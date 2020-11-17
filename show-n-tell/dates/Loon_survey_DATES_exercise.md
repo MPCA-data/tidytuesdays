@@ -300,9 +300,9 @@ loons <- loons %>%
 **Use `group_by()` and `summarize()` to find the hour with the most loons.**
 
 ``` r
-loons <- loons %>%
-         group_by(...) %>%
-         summarize(total_loons = ...)
+loons_hour <- loons %>%
+              group_by(...) %>%
+              summarize(total_loons = ...)
 ```
 
 <br><br>
