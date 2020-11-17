@@ -20,12 +20,23 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 Follow along! Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
-| Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:Bonus <br> `sugaR pts`  | 
+### Today
+| Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 08 | Plots & Tables for reports and publications - Group effort | -- | 14 `pts` |
-| Dec 01 | Fabulous day of errors, mistakes, and hurdles - Kristie | -- | 4 `pts` |
-| Nov 24 | Turkey week :rooster:  | -- | -- |
 | Nov 17 | :star: **More Dates & Times** - [A Loon Survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
+
+### Upcoming 
+| Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
+| ---  | --- | --- | --- |  
+| Nov 24 | Turkey week :rooster:  | -- | -- |
+| Dec 01 | Fabulous day of errors, mistakes, and hurdles - Kristie | -- | 4 `pts` |
+| Dec 08 | Plots & Tables for reports and publications - Group effort | -- | 14 `pts` |
+
+<br>
+
+### Recent
+| Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:`sugaR pts`  | 
+| ---  | --- | --- | --- |  
 | Nov 10 | [Day of Dates & Timezones](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
 | Nov 3 | [Regular expressions `regex` 101](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/stringr_regex_tutorial.md) - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8) _(quizzlet)_ | +novemdecillion `pts` |
 | Oct 27 | :ghost: [Halloween exercise](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Hallows_Eve.MD#2020--trick-or-treat): Text mining candy / scary movie data  | Everyone | +1031 `pts`|
