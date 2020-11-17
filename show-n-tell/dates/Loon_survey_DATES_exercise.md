@@ -243,16 +243,17 @@ left_join(...)
 **You can also check the timezones of the entire time column with `tz()`.**
 
 **Try:**
-> 
-> ```r
-> tz(count_times$time) %>% unique() 
-> ```
+
+```r
+tz(count_times$time) %>% unique() 
+```
 
 <br>
 
-> Wups! By default, R assigned the times to UTC time. Plus, if we scroll down in the data table we see that most of the times were recorded using local Central time, but a few are in GMT time. We can fix this all up with one use of `force_tz()`.
-> 
-> **Use `force_tz()` to assign all times to the designated time zone in the `time_zone` column.**
+Wups! By default, R assigned the times to UTC time. Plus, if we scroll down in the data table we see that most of the times were recorded using local Central time, but a few are in GMT time. We can fix this all up with one use of `force_tz()`.
+
+
+**Use `force_tz()` to assign all times to the designated time zone in the `time_zone` column.**
 
 ``` r
 loons <- loons %>%
@@ -265,7 +266,8 @@ loons <- loons %>%
 
 > All times should now be shown in local CDT time.
 >
-> **View one of the new specific time values with `count_times$time_cdt[1]`.**
+
+**View one of the new time values with `count_times$time_cdt[1]`.**
 
 <br>
 
@@ -273,15 +275,14 @@ loons <- loons %>%
 
 <br><br>
 
-> **Add an hour column to the data. Which hour of the day saw the most
-> loons across all of the sites?**
+**Add an hour column to the data. Which hour of the day saw the most loons across all of the sites?**
 
 ``` r
 loons <- loons %>%
          mutate(hour = ...)
 ```
 
-<br><br>
+<br><br><br>
 
 # :tada: Great work
 
@@ -294,7 +295,6 @@ loons <- loons %>%
 
 Use the tiny function `am()` to determine whether it was
 better to look for loons in the first half or the second half of the day.
-
 
 
 ##
