@@ -43,7 +43,7 @@ start_date <- ymd("2021-05-01")
 
 end_date   <- ymd("2021-10-31")
 
-survey_window <- seq.Date(from = start_date, to = end_date, by = "day) # Sequence from start to end by 1 day
+survey_window <- seq.Date(from = start_date, to = end_date, by = "day") # Sequence from start to end by 1 day
 ```
 
 <br>
