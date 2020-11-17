@@ -269,7 +269,7 @@ loons <- loons %>%
 
 <br>
 
-**View one of the new time values with:
+**View one of the new time values with:**
 
 ```r
 count_times$time_cdt[1]
@@ -277,7 +277,7 @@ count_times$time_cdt[1]
 
 <br>
 
-> Did the GMT times change?
+> Did the time zone change?
 
 <br><br>
 
