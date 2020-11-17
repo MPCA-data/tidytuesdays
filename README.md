@@ -22,10 +22,11 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 ## Schedule
 
-### Today
-|      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
+| **Today**  | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Nov 17 | :star: **More Dates & Times** - [A Loon Survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
+
+<br>
 
 ### Upcoming 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
