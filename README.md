@@ -37,6 +37,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | Nov 24 | -POSTPONED- Turkey week :rooster:  | -- | -- |
 | Dec 01 | Fabulous day of errors, mistakes, and Gotcha's - Kristie | -- | 4 `pts` |
 | Dec 08 | Plots & Tables for reports and publications - Group effort | -- | 14 `pts` |
+| Dec 15 | ??? | -- | 250 `pts` |
 
 <br>
 
