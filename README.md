@@ -20,7 +20,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 <br>
 
-## R Schedule
+## Schedule
 
 <br>
 
