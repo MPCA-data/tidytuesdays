@@ -128,12 +128,12 @@ For example, `format(date, "%b, %Y")` would print the date as "May, 2021".
 
 | Expression    | Description                       | Example  |
 | :------------ | :-------------------------------- | :------- |
-| `%Y`          | Year (4 digit)                    | 2019     |
-| `%y`          | Year (2 digit)                    | 19       |
+| `%Y`          | Year (4 digit)                    | 2021     |
+| `%y`          | Year (2 digit)                    | 21       |
 | `%B`          | Month (full name)                 | December |
 | `%b`          | Month (abbreviated)               | Dec      |
 | `%m`          | Month (decimal number)            | 12       |
-| `%d`          | Day of the month (decimal number) | 12       |
+| `%d`          | Day of the month (decimal number) | 30       |
 
 
 **Time**
@@ -141,8 +141,8 @@ For example, `format(date, "%b, %Y")` would print the date as "May, 2021".
 | Expression    | Description                       | Example  |
 | :------------ | :-------------------------------- | :------- |
 | %H            | Hour                              | 8        |
-| %M            | Minute                            | 5        |
-| %S            | Second                            | 3        |
+| %M            | Minute                            | 13        |
+| %S            | Second                            | 35        |
 
 
 <br>
