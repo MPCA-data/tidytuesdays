@@ -219,9 +219,9 @@ loons <- loons %>%
 :penguin: **Next, use `group_by()` and `summarize()` to find the month with the most loon sightings across all of the sites.**
 
 ``` r
-loons <- loons %>%
-         group_by(...) %>%
-         summarize(total_loons = ...)
+loon_months <- loons %>%
+               group_by(...) %>%
+               summarize(total_loons = ...)
 ```
 
 <br><br>
