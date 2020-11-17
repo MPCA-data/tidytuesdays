@@ -156,7 +156,7 @@ survey results.
 **Load the loon data.**
 
 ``` r
-loons <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_data.csv")   
+loons <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_data.csv")   
 ```
 <br>
 
@@ -228,7 +228,7 @@ a separate table. Load the survey times and join it to the loon counts with `lef
 > **Join the times to the dates.**
 
 ``` r
-count_times <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_fake_times.csv")
+count_times <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/dates/loon_survey_times.csv")
 
 loons <- left_join(...)
 ```
