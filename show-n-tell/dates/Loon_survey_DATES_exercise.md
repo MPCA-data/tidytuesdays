@@ -194,7 +194,7 @@ mystery_site_date <- "2021-06-11"
 
 ``` r
 loons <- loons %>%
-         mutate(site = ifelse(date == ...)  
+         mutate(site = ifelse(count_date == ...)  
 ```
 
 
