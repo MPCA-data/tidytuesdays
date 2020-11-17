@@ -281,7 +281,7 @@ count_times$time_cdt[1]
 
 <br><br>
 
-**So, Which hour of the day saw the most loons?**
+**So, which hour of the day saw the most loons?**
 
 **Add an hour column to the data.** 
 ``` r
@@ -291,7 +291,7 @@ loons <- loons %>%
 
 <br>
 
-**Use `group_by()` and `summarize()` to find the hour with the most loon sightings.**
+**Use `group_by()` and `summarize()` to find the hour with the most loons.**
 
 <br><br><br>
 
@@ -302,10 +302,10 @@ loons <- loons %>%
 
 <br><br>
 
-## Extra 
-
-Use the tiny function `am()` to determine whether it was
-better to look for loons in the first half or the second half of the day.
+> ## Extra 
+>
+> Use the tiny function `am()` to determine whether it was
+> better to look for loons in the first half or the second half of the day.
 
 
 ##
