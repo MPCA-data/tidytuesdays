@@ -8,7 +8,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 :rocket: **Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets)**
 
-**See what others are [[ Sharing ]](https://twitter.com/hashtag/TidyTuesday).**
+**See what others are [[ Sharing ]](https://twitter.com/hashtag/TidyTuesday)**
 
 <br>
 
@@ -40,7 +40,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 <br>
 
-### Recent
+### Past
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Nov 10 | [Day of Dates & Timezones](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
