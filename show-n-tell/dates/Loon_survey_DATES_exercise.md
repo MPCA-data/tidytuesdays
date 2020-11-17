@@ -13,7 +13,7 @@ Loon survey 2021
 
 For easier date and time processing we'll be using the `lubridate` package. 
 
-View the big cheatsheet **[HERE](https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf)**. 
+**View the big cheatsheet [HERE](https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf)**. 
 
 It's a great reference when you are trying to manipulate dates or timezones in your data.
 
