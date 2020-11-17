@@ -240,7 +240,7 @@ loons <- left_join(...)
 
 <br>
 
-**You can also check the timezones of the entire time column with `tz()`.**
+**You can also check the timezones of an entire time column with `tz()`.**
 
 **Try:**
 
@@ -299,11 +299,11 @@ loons <- loons %>%
          summarize(total_loons = ...)
 ```
 
-<br><br><br>
+<br><br>
 
 # :tada: Great work
 
-> You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*.
+You showed some impressive data skills today. We’ll be in touch for *Loon Survey 2022*.
 
 
 <br><br>
