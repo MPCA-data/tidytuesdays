@@ -23,12 +23,12 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ## Schedule
 
 ### Today
-| Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
+|      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Nov 17 | :star: **More Dates & Times** - [A Loon Survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
 
 ### Upcoming 
-| Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
+|      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Nov 24 | Turkey week :rooster:  | -- | -- |
 | Dec 01 | Fabulous day of errors, mistakes, and hurdles - Kristie | -- | 4 `pts` |
@@ -37,7 +37,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 <br>
 
 ### Recent
-| Date | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:`sugaR pts`  | 
+|      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Nov 10 | [Day of Dates & Timezones](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
 | Nov 3 | [Regular expressions `regex` 101](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/stringr_regex_tutorial.md) - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8) _(quizzlet)_ | +novemdecillion `pts` |
@@ -88,7 +88,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 
 
-## Upcoming events & recordings
+## Events & recordings _(world wide)_
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
