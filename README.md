@@ -22,9 +22,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 ## Schedule
 
-<br>
-
-### Today
+## Up Next
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Nov 24 | *POSTPONED - Turkey week* :rooster:  |  |  |
