@@ -26,7 +26,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Nov 24 | :star: *POSTPONED - Turkey week* :rooster:  |  |  |
+| Nov 24 | :rooster:  *POSTPONED - Turkey week*  |  |  |
 
 <br>
 
