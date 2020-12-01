@@ -119,7 +119,7 @@ Unfortunately, each survey region has a very particular Assistant to the Regiona
 
 Before you send off the schedules you'll need to adjust the format of the dates to match the formats below. 
 
-<br>
+<br><br>
 
 The regions have the following preferred date formats:
 
@@ -131,7 +131,7 @@ The regions have the following preferred date formats:
 
 Use `format(date, ...)` and the format expressions below to format the schedule for each region accordingly. 
 
-For example, `format(date, "%b, %Y")` would print the date as "May, 2021". 
+For example, since `%b` stands for abbreviated month and `%Y%` stands for the full 4 digit year, `format(date, "%b, %Y")` will print the date as `Aug, 2021`. 
 
 **Date**
 
