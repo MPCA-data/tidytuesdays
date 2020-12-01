@@ -117,7 +117,7 @@ bemidji_tuesdays <- seq.Date(...)
 Unfortunately, each survey region has a very particular Assistant to the Regional Manager that demands a very specific date format for their work schedules. 
 
 
-Before you send off the schedules you'll need to adjust the format of the dates to match the formats below. 
+Before you send off the schedules you'll need to adjust the dates to match the requested specifications below. 
 
 <br><br>
 
