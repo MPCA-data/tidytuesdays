@@ -362,8 +362,7 @@ You showed some impressive data skills today. We’ll be in touch for *Loon Surv
 
 ## Extras 
 
-> Use the tiny function `am()` to determine whether it was
-> better to look for loons in the first half or the second half of the day.
+Use the tiny function `am()` to determine whether it was better to look for loons in the first half or the second half of the day.
 
 
 ##
