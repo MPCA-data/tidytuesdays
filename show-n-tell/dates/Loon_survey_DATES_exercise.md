@@ -156,7 +156,7 @@ For example, since `%b` stands for abbreviated month and `%Y%` stands for the fu
 
 <br>
 
-> **ALTERNATIVE** - *Using `stamp()`*
+> :bulb: **ALTERNATIVE** - *Using `stamp()`*
 
 <details>
 <summary>Show the stamp() method</summary>
