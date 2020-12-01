@@ -26,22 +26,24 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Nov 24 | :rooster:  *POSTPONED - Turkey week*  |  |  |
+| Dec 01 | :star: **Fabulous day of errors, mistakes, and Gotcha's** - Kristie | -- | 42 `pts` |
 
 <br>
 
 ### Upcoming 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 01 | Fabulous day of errors, mistakes, and Gotcha's - Kristie | -- | 4 `pts` |
 | Dec 08 | Plots & Tables for reports and publications -  | -- | 14 `pts` |
 | Dec 15 | **Free - Share something?** | -- | 250 `pts` |
+| Dec 22 | Survey data analysis: MPCA Travel survery - Barbara & Laura | -- | 650 `pts` |
+| Jan ** | Bootstrapping | -- | 8 `pts` |
 
 <br>
 
 ### Past
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |  
+| Nov 24 | :rooster:  *POSTPONED - Turkey week*  |  |  |
 | Nov 17 | [More Dates & Times - A Loon Survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
 | Nov 10 | Day of Dates and Timezones - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9)  | 1.1 `pts` |
 | Nov 3 | [Regular expressions `regex` 101](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/stringr_regex_tutorial.md) - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8)  | +novemdecillion `pts` |
