@@ -158,7 +158,7 @@ For example, since `%b` stands for abbreviated month and `%Y%` stands for the fu
 
 <br>
 
-> :bulb: **ALTERNATIVE** - *Using `stamp()`*
+> :bulb: **ALTERNATIVE** - Try `stamp()`
 
 <details>
 <summary>Show the stamp() method</summary>
@@ -361,6 +361,8 @@ You showed some impressive data skills today. We’ll be in touch for *Loon Surv
 
 
 <br><br><br>
+
+<hr>
 
 ## Extras 
 
