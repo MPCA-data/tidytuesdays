@@ -33,7 +33,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 08 | Plots & Tables for reports and publications -  | -- | 14 `pts` |
+| Dec 08 | Publication ready Plots & Tables -  | -- | 14 `pts` |
 | Dec 15 | **Free and open. Share something?** | -- | 250 `pts` |
 | Dec 22 | Survey data analysis: MPCA Travel survery - Barbara & Laura | -- | 650 `pts` |
 | Jan ** | :boot: Bootstrapping | -- | 8 `pts` |
