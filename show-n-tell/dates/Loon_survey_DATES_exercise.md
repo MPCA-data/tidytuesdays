@@ -38,6 +38,7 @@ Run the code below to create a date for every possible day of the survey.
 
 ``` r
 library(tidyverse)  #lubridate is included in the great tidyverse
+library(lubridate)
 
 start_date <- ymd("2021-05-01")
 
@@ -109,8 +110,16 @@ bemidji_tuesdays <- seq.Date(...)
 
 ## 2. Particular date formats
 
-That's a good start, but before you send off the schedules we need to update the format of the dates. Each survey region has a very particular Assistant to the Regional Manager that demands a very specific date format for their work schedules. 
+<img align="left" src="../../images/dwight.png" style="margin-right: 14px;">
 
+<br>
+
+Unfortunately, each survey region has a very particular Assistant to the Regional Manager that demands a very specific date format for their work schedules. 
+
+
+Before you send off the schedules you'll need to adjust the format of the dates to match the formats below. 
+
+<br>
 
 The regions have the following preferred date formats:
 
@@ -140,18 +149,55 @@ For example, `format(date, "%b, %Y")` would print the date as "May, 2021".
 
 | Expression    | Description                       | Example  |
 | :------------ | :-------------------------------- | :------- |
-| %H            | Hour                              | 8        |
-| %M            | Minute                            | 13        |
-| %S            | Second                            | 35        |
+| `%H`          | Hour                              | 8        |
+| `%M`          | Minute                            | 13       |
+| `%S`          | Second                            | 35       |
 
 
 <br>
+
+> **ALTERNATIVE** - *Using `stamp()`*
+
+<details>
+<summary>Show the stamp() method</summary>
+ 
+---
+
+Now that you've got the basics, here's a nice formatting method using the function `stamp()`. 
+
+To use `stamp`, first create a custom stamp by entering a specific example of how you want the dates formatted, and the order of the date elements.
+
+For example, if you want the Ely dates formatted as "June 22nd, 2021", then the order of the date is `Month-Day-Year` or "mdy". 
+
+**So we write:** 
+
+``` r 
+ely_stamp <- stamp("June 22, 2021", orders = "mdy")  
+```
+
 <br>
 
-Congrats\! Your fine tuned schedule worked perfectly. Now let’s jump ahead in time and take a look at the
+Now we can apply our custom stamp to any dates by using it like a function: ` ely_stamp(...) ` 
+
+**For example:**
+
+``` r
+ely_stamp(ely_dates) 
+```
+
+---
+
+</details>
+
+<br><br>
+
+**Congrats\!**
+
+Your fine-tuned schedule worked perfectly. Now let’s jump ahead and take a look at the
 survey results.
 
 <br>
+
 
 ## 3. Results
 
