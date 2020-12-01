@@ -8,10 +8,9 @@ Loon survey 2021
 ## lubridate
 ### *Working with dates and times*
 
+For easier date and time processing we'll be using the `lubridate` package. 
 
 ![](https://github.com/rstudio/hex-stickers/raw/master/thumbs/lubridate.png)
-
-For easier date and time processing we'll be using the `lubridate` package. 
 
 **View the big cheatsheet [HERE](https://rawgit.com/rstudio/cheatsheets/master/lubridate.pdf)**. 
 
