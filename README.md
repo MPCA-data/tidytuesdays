@@ -36,7 +36,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | Dec 08 | Plots & Tables for reports and publications -  | -- | 14 `pts` |
 | Dec 15 | **Free - Share something?** | -- | 250 `pts` |
 | Dec 22 | Survey data analysis: MPCA Travel survery - Barbara & Laura | -- | 650 `pts` |
-| Jan ** | Bootstrapping | -- | 8 `pts` |
+| Jan ** | :boot: Bootstrapping | -- | 8 `pts` |
 
 <br>
 
