@@ -43,7 +43,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Past
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Nov 24 | :rooster:  *POSTPONED - Turkey week*  |  |  |
+| Nov 24 | *POSTPONED - Turkey week*  |  |  |
 | Nov 17 | [More Dates & Times - A Loon Survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/dates/Loon_survey_DATES_exercise.md#loon-survey-2021) | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9) _(quizzlet)_  | 1.1 `pts` |
 | Nov 10 | Day of Dates and Timezones - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9)  | 1.1 `pts` |
 | Nov 3 | [Regular expressions `regex` 101](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/stringr_regex_tutorial.md) - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8)  | +novemdecillion `pts` |
