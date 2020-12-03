@@ -1,4 +1,4 @@
-# A map of art
+# Is it *MAP* or **`ART`**?
 
 ### Making a map poster *(or fun holiday card)*
 
@@ -21,7 +21,7 @@ bbx <- getbb("Bemidji, MN")
 
 <br>
 
-Alternatively, you can define your own specific boundary box:
+Alternatively, you can be more specific and define your own boundary box:
 
 ``` r
 if(FALSE) {
