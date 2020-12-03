@@ -144,7 +144,7 @@ ggplot() +
   theme_void()
 ```
 
-### Land Ahoy
+### Land Hoy
 
 We need some land to ground ourselves. For that we can use `tigris`.
 
