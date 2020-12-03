@@ -1,4 +1,4 @@
-# Is it *MAP* or **`ART`**?
+# Is it *MAP* or *ART*?
 
 ### Making a map poster *(or fun card)*
 
@@ -141,7 +141,8 @@ ggplot() +
            ylim = c(min_lat,max_lat),
          expand = FALSE)+
   theme(legend.position = F) + 
-  theme_void()
+  theme_void() +
+  labs(title = "It's not 2020!")
 ```
 
 ### Land Hoy
