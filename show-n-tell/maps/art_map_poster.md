@@ -1,6 +1,6 @@
 # Is it *MAP* or **`ART`**?
 
-### Making a map poster *(or fun holiday card)*
+### Making a map poster *(or fun card)*
 
 
 <br>
