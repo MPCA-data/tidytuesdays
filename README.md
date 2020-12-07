@@ -26,15 +26,15 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 08 | :star: **Publication ready Plots & Tables** -  | -- | 14 `pts` |
+| Dec 08 | :art::earth_africa: **Group Exercise: The ART of Maps** - Dorian  | -- | 14 `pts` |
 
 <br>
 
 ### Upcoming 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 15 | **Free and open. Share something?** | -- | 250 `pts` |
-| Dec 22 | Survey data analysis: MPCA Travel survery - Barbara & Laura | -- | 650 `pts` |
+| Dec 15 | Publication ready Plots & Tables -  | -- | 144 `pts` |
+| Dec 22 | Survey Analysis w/ MPCA's Travel survery - Barbara & Laura | -- | 650 `pts` |
 | Dec 29 | :boot: Bootstrapping | -- | 8 `pts` |
 
 <br>
