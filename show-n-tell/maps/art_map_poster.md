@@ -5,11 +5,12 @@
 
 <br>
 
-> Reference:
-> <http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/>
+*Reference: <http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/>*
 
 <br>
 <br>
+
+---
 
 ## Setup
 
@@ -21,6 +22,8 @@ library(sf)
 library(tidyverse)
 ```
 ---
+
+<br>
 
 ## A place
 
