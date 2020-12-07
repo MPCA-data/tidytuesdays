@@ -1,6 +1,6 @@
-# Is it *MAP* or *ART*?
+# MAP is ART
 
-### Making a map poster *(or fun card)*
+### Making a map painting/poster 
 
 
 <br>
@@ -11,7 +11,23 @@
 <br>
 <br>
 
-To start, we need to choose an area of the world. I'm going to pick the wonderful city of Bemidji.
+## Setup
+
+### Required packages
+
+``` r
+library(osmdata)
+library(sf)
+library(tidyverse)
+```
+---
+
+## A place
+
+To start off, let's choose an area of the world to highlight. 
+
+I'm going to pick the wonderful river city of Bemidji.
+
 ``` r
 library(osmdata)
 
@@ -21,25 +37,34 @@ bbx <- getbb("Bemidji, MN")
 
 <br>
 
-Alternatively, you can be more specific and define your own boundary box:
+``` r
+# Lat/Long boundary box for city coordinates
+bbx <- getbb("Bemidji, MN")
+
+## You can also use capital's like "Tokyo"
+```
+
+<br>
+
+Alternatively, you can be more specific and define the coordinates of your boundary box:
 
 ``` r
 if(FALSE) {
   
-min_lon <- -71.28735; max_lon <- -70.900578
-min_lat <- 42.245838; max_lat <- 42.453673
+min_lon <- -71.28; max_lon <- -70.90
+min_lat <-  42.24; max_lat <-  42.453
 
-bbx <- rbind(x=c(min_lon,max_lon), y=c(min_lat,max_lat))
+bbx <- rbind(x = c(min_lon, max_lon), 
+             y = c(min_lat, max_lat))
 
-colnames(bbx) <- c("min","max")
+colnames(bbx) <- c("min", "max")
 
 }
 ```
 
 <br>
 
-Let’s see what type of data is available related to “highway” or
-“railway”:
+Let’s see what type of open data is available related to the tags `highway` or `railway`:
 
 ``` r
 available_tags("highway")
@@ -49,7 +74,7 @@ available_tags("railway")
 
 <br>
 
-I’ll start with mapping **“bus\_stop”** locations.
+I’ll start with **“bus\_stop”** locations.
 
 ``` r
 stops <- bbx %>%
@@ -61,7 +86,9 @@ stops <- bbx %>%
 
 <br>
 
-We can use `ggplot` to map **sf** objects. Another great plus of using
+## `ggplot` a map
+
+It's true. We can use `ggplot` to map **sf** objects. Another great plus of using
 `sf`.
 
 ``` r
