@@ -172,9 +172,9 @@ ggplot() +
   labs(title = "It's not 2020!")
 ```
 
-### Land Hoy
+### Land Ho!
 
-We need some land to ground ourselves. For that we can use `tigris`.
+We need some land to ground ourselves. For that we'll use `tigris`.
 
 ``` r
 require(tigris)
