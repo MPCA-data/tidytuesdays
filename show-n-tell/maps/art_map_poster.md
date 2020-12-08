@@ -2,7 +2,9 @@
 
 ### Making a map painting/poster 
 
-<img src="http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r_files/figure-html/unnamed-chunk-19-1.png" alt="yellow and black map of Boston" width="640">
+<p align="center">
+<img src="http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r_files/figure-html/unnamed-chunk-19-1.png" alt="yellow and black map of Boston" width="740">
+</p>
 
 *Reference: <http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/>*
 
