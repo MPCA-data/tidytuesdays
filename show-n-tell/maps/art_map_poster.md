@@ -1,4 +1,4 @@
-# MAP is ART
+# MAP ART
 
 ### Making a map painting/poster 
 
@@ -31,12 +31,13 @@ I'm going to pick the wonderful river city of Bemidji.
 # Lat/Long boundary box for city coordinates
 bbx <- getbb("Bemidji, MN")
 
+# bbx <- getbb("Minneapolis, MN")
 ## You can also use capital's like "Tokyo"
 ```
 
 <br>
 
-Alternatively, you can be more specific and define the coordinates of your boundary box:
+Alternatively, you can be specific and set the exact coordinates of your boundary box:
 
 ``` r
 if(FALSE) {
@@ -57,7 +58,7 @@ colnames(bbx) <- c("min", "max")
 
 You can view the map features available in OSM at https://wiki.openstreetmap.org/wiki/Map_Features.
 
-Let’s see what type of open data is available related to the tags `highway` or `railway`:
+Let’s see what type of open data is available related to the tags `highway` and `railway`:
 
 ``` r
 # FYI
@@ -69,11 +70,13 @@ available_tags("railway")
 
 
 
-# Alternative, without the internet test 
+# Alternative, skip the internet test 
 
 get_features <- function(feature) {
 
      osm_features <- "https://wiki.openstreetmap.org/wiki/Map_Features"
+     
+     pg <- xml2::read_html(httr::GET(osm_features))
      
      tags <- rvest::html_nodes(pg, 
                                sprintf("a[title^='Tag:%s']", 
@@ -86,8 +89,8 @@ get_features <- function(feature) {
      return(unique(sort(tags)))
 }
 
-
 get_features("highway")
+
 get_features("railway")
 
 ```
@@ -97,25 +100,26 @@ get_features("railway")
 I’ll start with **“bus\_stop”** locations.
 
 ``` r
-stops <- bbx %>%
-         opq() %>%
-         add_osm_feature(key   = "highway", 
-                         value = c("bus_stop")) %>%
-         osmdata_sf()
+crossings <- bbx$boundingbox %>%
+             opq() %>%
+             add_osm_feature(key   = "railway", 
+                             value = c("crossing")) %>%
+             osmdata_sf()
 ```
 
 <br>
 
 ## `ggplot` a map
 
-It is true. We can use `ggplot` to map **sf** map objects. Another great plus of using `sf`.
+It is true. We can use `ggplot` to map **sf** map objects. 
+Another great plus of using `sf`.
 
 ``` r
 ggplot() +
-        geom_sf(data      = stops$osm_points,
-                aes(color = stops),
-                size      = .4,
-                alpha     = .65) +
+        geom_sf(data = crossings$osm_points,
+                aes(color = railway),
+                size      = 3,
+                alpha     = 0.65) +
         theme_void()
 ```
 
@@ -124,18 +128,20 @@ ggplot() +
 We can do the same for major highways:
 
 ``` r
+road_types <- c("motorway", "motorway_link", "trunk", "primary")
+
 hwys <- bbx %>%
         opq()%>%
         add_osm_feature(key   = "highway", 
-                        value = c("motorway", "motorway_link", "trunk", "primary")) %>%
-         osmdata_sf()
+                        value = road_types) %>%
+        osmdata_sf()
 
 
 ggplot() +
-        geom_sf(data      = highways$osm_lines,
+        geom_sf(data      = hwys$osm_lines,
                 aes(color = highway),
-                size      = .4,
-                alpha     = .65) +
+                size      = 0.4,
+                alpha     = 0.65) +
         theme_void()
 ```
 
@@ -154,42 +160,66 @@ paths <- bbx %>%
 
 ggplot() +
         geom_sf(data      = paths$osm_lines,
-                aes(color = paths),
-                size      = .4,
-                alpha     = .65) +
+                aes(color = highway),
+                size      = 0.4,
+                alpha     = 0.65) +
         theme_void()
 ```
 
 <br>
 
-### ALL TOGETHER
+### ALL Together
 
-Now we can put them together. We’ll make the major roads larger to stand
-out with `size = 0.6`
+Let's put everything together. 
+
+> We’ll make the major roads larger to stand out with `size = 0.8`.
 
 ``` r
-color_roads <- rgb(0.42, 0.449, 0.488)
+road_color <-  "darkgray" #rgb(0.42,0.449,0.488)
 
-ggplot() +
-  geom_sf(data  = streets$osm_lines,
-          col   = color_roads,
-          size  = .4,
-          alpha = .65) +
-  geom_sf(data  = highways$osm_lines,
-          col   = color_roads,
-          size  = .6,
-          alpha = .8)+
-  coord_sf(xlim = c(min_lon,max_lon),
-           ylim = c(min_lat,max_lat),
-         expand = FALSE)+
-  theme(legend.position = F) + 
-  theme_void() +
-  labs(title = "It's not 2020!")
+# Add small roads
+map <- ggplot() +
+       geom_sf(data  = paths$osm_lines,
+               col   = road_color,
+               size  = 0.4,
+               alpha = 0.65) 
+map
+
+# Add big roads                
+map <- map + geom_sf(data  = hwys$osm_lines,
+                     col   = road_color,
+                     size  = 0.8,
+                     alpha = 0.8) 
+
+map
+
+# Add train X             
+map <- map + geom_sf(data  = crossings$osm_points,
+                     col   = "plum",
+                     size  = 4,
+                     alpha = 0.8) 
+                     
+map
+
+# Trim the edges and drop legend              
+map <- map + 
+       coord_sf(xlim = c(bbx["x", "min"], bbx["x", "max"]),
+                ylim = c(bbx["y", "min"], bbx["y", "max"]),
+                expand = FALSE) +
+       theme(legend.position = "none") 
+  
+map  
+
+# Drop coordinates  
+map <- map + theme_void() 
+  
+map 
+
 ```
 
 ### Land Ho!
 
-We need some land to ground ourselves. For that we'll use `tigris`.
+We need some land to ground ourselves. For that we use `tigris`.
 
 ``` r
 require(tigris)
@@ -197,14 +227,14 @@ require(tigris)
 counties <- counties(state = "MN", cb = T, class = "sf")
 
 counties <- st_crop(counties,
-                    xmin=min_lon, xmax=max_lon,
-                    ymin=min_lat, ymax=max_lat)
+                    xmin = min_lon, xmax = max_lon,
+                    ymin = min_lat, ymax = max_lat)
 
 ggplot() + 
-  geom_sf(data=counties,fill="gray", lwd=0)+
+  geom_sf(data = counties, fill = "gray", lwd = 0)+
   coord_sf(xlim = c(min(bbx[1,]), max(bbx[1,])), 
-         ylim = c(min(bbx[2,]), max(bbx[2,])),
-         expand = FALSE)+
+           ylim = c(min(bbx[2,]), max(bbx[2,])),
+           expand = FALSE)+
   theme(legend.position = F) +
   theme_void()
 ```
@@ -242,7 +272,7 @@ ggplot() +
   theme_void()
 ```
 
-### :scissors: Cut-cut
+### :scissors: - - - - Cut - - - - along the - - - dotted-line - - - - -
 
 Now for some crafting. Let’s cut out the more detailed water from the
 County land layer.
@@ -269,3 +299,5 @@ ggplot() +
   theme(legend.position = F) + 
   theme_void()
 ```
+
+#
