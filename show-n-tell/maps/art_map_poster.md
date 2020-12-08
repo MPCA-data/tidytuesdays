@@ -177,9 +177,9 @@ ggplot() +
 
 <br>
 
-### ALL Together
+### ALL together
 
-Let's put everything together. 
+We can build the full map one layer at a time to catch any problems. 
 
 > We’ll make the major roads larger to stand out with `size = 0.8`.
 
@@ -381,32 +381,39 @@ map
 
 > If you want to be on brand, here's the hex codes for MN colors: https://github.com/MPCA-data/mncolors#the-palettes.
 
+<br>
 
 ## Titles
 
-Our maps need a name. We can add a title on top of the map with `geom_text()`.
+Our maps need a title. We can layer a title on top of the map with `geom_text()`.
 
 ``` r
-font_col <- "white"
+font_col <- "#ffffff"  #white
 
 center_x <- mean(bbx[1,])
 
+bottom_y <- min(bbx[2,])
+
 map + 
-  geom_text(aes(x = center_x, y = 1.0001 * min(bbx[2,])), label = "- 2021 -", size = 13, family = "Palatino", color = font_col) +
-  geom_text(aes(x = center_x, y = 1.00021 * min(bbx[2,])), label = "Year of the Blue Ox", size = 11, family = "Palatino", , color = font_col)
+  geom_text(aes(x = center_x, y = 1.0001 * bottom_y), 
+            label = "- 2021 -", 
+            size = 13, family = "Palatino", color = font_col, fontface = "bold") +
+  geom_text(aes(x = center_x, y = 1.00021 *bottom_y), 
+            label = "Year of the Blue Ox", 
+            size = 11, family = "Palatino", color = font_col)
 ```
 
+<br>
 
-## Go BIG
+## Save it Huge
 
 ```r
-ggsave(filename = "art_by_me2.png",
+ggsave(filename = "art_by_me.png",
        scale = 1, 
        width = 14,
        height = 12,
        units = "in",
-       dpi   = 500)
-       
+       dpi   = 500)  
 ```
 
 <br>
