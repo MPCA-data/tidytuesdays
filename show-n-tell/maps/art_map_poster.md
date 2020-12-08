@@ -406,6 +406,11 @@ ggsave(filename = "art_by_me2.png",
        
 ```
 
+<br>
+<br>
+
+---  
+
 ## Color theme inspiration
 
 <img src="https://media.wnyc.org/i/1500/900/c/80/1/1537_Pandemic_main.jpg" width="550">
