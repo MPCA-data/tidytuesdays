@@ -17,7 +17,7 @@
 ### Required packages
 
 ``` r
-library(osmdata)
+library(osmdata)  # install.packages("osmdata")
 library(sf)
 library(tidyverse)
 ```
