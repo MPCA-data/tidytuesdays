@@ -52,14 +52,44 @@ colnames(bbx) <- c("min", "max")
 }
 ```
 
+
 <br>
+
+You can view the map features available in OSM at https://wiki.openstreetmap.org/wiki/Map_Features.
 
 Let’s see what type of open data is available related to the tags `highway` or `railway`:
 
 ``` r
+# FYI
+# If these don't work, skip to get_features() below
+
 available_tags("highway")
 
 available_tags("railway")
+
+
+
+# Alternative, without the internet test 
+
+get_features <- function(feature) {
+
+     osm_features <- "https://wiki.openstreetmap.org/wiki/Map_Features"
+     
+     tags <- rvest::html_nodes(pg, 
+                               sprintf("a[title^='Tag:%s']", 
+                               feature))
+                               
+     tags <- vapply(strsplit(xml2::xml_attr(tags, "href"), 
+                    "%3D"), 
+                    function(i) i[2], character(1))
+                
+     return(unique(sort(tags)))
+}
+
+
+get_features("highway")
+get_features("railway")
+
 ```
 
 <br>
@@ -68,7 +98,7 @@ I’ll start with **“bus\_stop”** locations.
 
 ``` r
 stops <- bbx %>%
-         opq()%>%
+         opq() %>%
          add_osm_feature(key   = "highway", 
                          value = c("bus_stop")) %>%
          osmdata_sf()
@@ -78,13 +108,9 @@ stops <- bbx %>%
 
 ## `ggplot` a map
 
-It's true. We can use `ggplot` to map **sf** objects. Another great plus of using
-`sf`.
+It is true. We can use `ggplot` to map **sf** map objects. Another great plus of using `sf`.
 
 ``` r
-library(ggplot2)
-library(sf)
-
 ggplot() +
         geom_sf(data      = stops$osm_points,
                 aes(color = stops),
@@ -99,10 +125,11 @@ We can do the same for major highways:
 
 ``` r
 hwys <- bbx %>%
-         opq()%>%
-         add_osm_feature(key   = "highway", 
-                         value = c("motorway", "motorway_link", "trunk", "primary")) %>%
+        opq()%>%
+        add_osm_feature(key   = "highway", 
+                        value = c("motorway", "motorway_link", "trunk", "primary")) %>%
          osmdata_sf()
+
 
 ggplot() +
         geom_sf(data      = highways$osm_lines,
@@ -112,10 +139,8 @@ ggplot() +
         theme_void()
 ```
 
-<br>
-
 For the backdrop of our map, let’s get all the smaller roads and
-pathways that really give shape of our city.
+pathways that give shape to our city.
 
 ``` r
 paths <- bbx %>%
