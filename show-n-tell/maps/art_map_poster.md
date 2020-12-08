@@ -379,7 +379,7 @@ map
 
 <br>
 
-> If you want to be on brand, here's the hex codes for MN colors: https://github.com/MPCA-data/mncolors#the-palettes.
+> **MN Colors**: If you want to be on brand here are codes for MN state colors: https://github.com/MPCA-data/mncolors#the-palettes.
 
 <br>
 
@@ -405,7 +405,7 @@ map +
 
 <br>
 
-## Save it Huge
+## SAVE it Huge
 
 ```r
 ggsave(filename = "art_by_me.png",
