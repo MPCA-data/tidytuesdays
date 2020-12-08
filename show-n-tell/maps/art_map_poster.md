@@ -135,7 +135,7 @@ We can do the same for major highways:
 road_types <- c("motorway", "motorway_link",
                 "trunk", "trunk_link",
                 "primary", "primary_link",
-                "secondary", "secondary_link")
+                "secondary")
 
 hwys <- bbx %>%
         opq()%>%
@@ -160,6 +160,7 @@ paths <- bbx %>%
           opq()%>%
           add_osm_feature(key   = "highway", 
                           value = c("residential", "living_street",
+                                    "secondary_link",
                                     "tertiary", "tertiary_link",
                                     "service", "unclassified",
                                     "pedestrian", "footway",
@@ -305,12 +306,12 @@ ggplot() +
 ```
 
 
-## Colors
+## :art: Colors
 
-Get out the wild crayons, we're going to be advante-garde.
+Time to get out the wild crayons. 
 
 
-Let's set our map colors:
+Let's set our map colors ahead of time:
 
 ``` r
 water_col <-  "#EBAD1B" # mustard #rgb(0.92, 0.679, 0.105)  
@@ -340,8 +341,8 @@ map
 
 # Add train X             
 map <- map + geom_sf(data  = crossings$osm_points,
-                     col   = "plum",
-                     size  = 5,
+                     col   = "#ab0f4a",
+                     size  = 6,
                      alpha = 0.7) 
      
 map 
@@ -349,7 +350,7 @@ map
 # Add big roads                
 map <- map + geom_sf(data  = hwys$osm_lines,
                      col   = hwy_col,
-                     size  = 0.8,
+                     size  = 0.7,
                      alpha = 0.7) 
 
 map
@@ -371,35 +372,47 @@ map <- map +
        theme(panel.background = element_rect(fill = water_col))
 
 map
-
 ```
 
+<br>
 
-## Title
+> If you want to be on brand, here's the hex codes for MN colors: https://github.com/MPCA-data/mncolors#the-palettes.
+
+
+## Titles
 
 Our maps need a name. We can add a title on top of the map with `geom_text()`.
 
 ``` r
 font_col <- "white"
 
+center_x <- mean(bbx[1,])
+
 map + 
-  geom_text(aes(x = mean(bbx[1,]), y = 1.0001 * min(bbx[2,])), label = "- 2021 -", size = 12, family = "Palatino", color = font_col) +
-  geom_text(aes(x = mean(bbx[1,]), y = 1.00024 * min(bbx[2,])), label = "Year of the Blue Ox", size = 10, family = "Palatino", , color = font_col)
+  geom_text(aes(x = center_x, y = 1.0001 * min(bbx[2,])), label = "- 2021 -", size = 13, family = "Palatino", color = font_col) +
+  geom_text(aes(x = center_x, y = 1.00021 * min(bbx[2,])), label = "Year of the Blue Ox", size = 11, family = "Palatino", , color = font_col)
 ```
 
 
 ## Go BIG
 
 ```r
-ggsave(filename = "art_by_me.png",
+ggsave(filename = "art_by_me2.png",
        scale = 1, 
-       width = 18, 
+       width = 14,
+       height = 12,
        units = "in",
        dpi   = 500)
        
 ```
 
+## Color theme inspiration
 
-## Travel 
+<img src="https://media.wnyc.org/i/1500/900/c/80/1/1537_Pandemic_main.jpg" width="550">
+
+
+<br>
+
+## Travel inspiration
 
 <img src="https://cdn.shopify.com/s/files/1/0007/5654/7647/files/home-image_60b3d770-9e44-43f4-9261-0ff39cd10fcc.png" width="500">
