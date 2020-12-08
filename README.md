@@ -26,7 +26,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 08 | :art::earth_africa: **Group Exercise: The ART of Maps** - Dorian  | -- | 14 `pts` |
+| Dec 08 | :art::earth_africa: [**Group Exercise: ARTsy Maps**](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/art_map_poster.md#map-art) - Dorian  | -- | 14 `pts` |
 
 <br>
 
