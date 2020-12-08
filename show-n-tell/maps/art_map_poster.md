@@ -28,15 +28,6 @@ To start off, let's choose an area of the world to highlight.
 I'm going to pick the wonderful river city of Bemidji.
 
 ``` r
-library(osmdata)
-
-# Lat/Long boundary box for city coordinates
-bbx <- getbb("Bemidji, MN")
-```
-
-<br>
-
-``` r
 # Lat/Long boundary box for city coordinates
 bbx <- getbb("Bemidji, MN")
 
