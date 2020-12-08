@@ -1,6 +1,6 @@
 # MAP ART
 
-### Making a map painting/poster 
+### Making a map poster / painting
 
 <p align="center">
 <img src="http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r_files/figure-html/unnamed-chunk-19-1.png" alt="yellow and black map of Boston" width="740">
@@ -101,10 +101,10 @@ get_features("railway")
 
 <br>
 
-I’ll start with **“bus\_stop”** locations.
+I’ll start with train **“crossing”** locations.
 
 ``` r
-crossings <- bbx$boundingbox %>%
+crossings <- bbx %>%
              opq() %>%
              add_osm_feature(key   = "railway", 
                              value = c("crossing")) %>%
@@ -132,7 +132,10 @@ ggplot() +
 We can do the same for major highways:
 
 ``` r
-road_types <- c("motorway", "motorway_link", "trunk", "primary")
+road_types <- c("motorway", "motorway_link",
+                "trunk", "trunk_link",
+                "primary", "primary_link",
+                "secondary", "secondary_link")
 
 hwys <- bbx %>%
         opq()%>%
@@ -157,7 +160,8 @@ paths <- bbx %>%
           opq()%>%
           add_osm_feature(key   = "highway", 
                           value = c("residential", "living_street",
-                                    "service","unclassified",
+                                    "tertiary", "tertiary_link",
+                                    "service", "unclassified",
                                     "pedestrian", "footway",
                                     "track","path")) %>%
           osmdata_sf()
@@ -231,15 +235,14 @@ require(tigris)
 counties <- counties(state = "MN", cb = T, class = "sf")
 
 counties <- st_crop(counties,
-                    xmin = min_lon, xmax = max_lon,
-                    ymin = min_lat, ymax = max_lat)
+                    xmin = min(bbx[1,]), xmax = max(bbx[1,]),
+                    ymin = min(bbx[2,]), ymax = max(bbx[2,]))
 
 ggplot() + 
   geom_sf(data = counties, fill = "gray", lwd = 0)+
   coord_sf(xlim = c(min(bbx[1,]), max(bbx[1,])), 
            ylim = c(min(bbx[2,]), max(bbx[2,])),
-           expand = FALSE)+
-  theme(legend.position = F) +
+           expand = F)+
   theme_void()
 ```
 
@@ -254,10 +257,11 @@ get_water <- function(county_id){
 }
 
 water <- do.call(rbind, 
-                 lapply(counties_MA$COUNTYFP,get_water))
+                 lapply(counties$COUNTYFP, get_water))
+                 
 water <- st_crop(water,
-                 xmin=min_lon, xmax=max_lon,
-                 ymin=min_lat, ymax=max_lat)
+                 xmin = min(bbx[1,]), xmax = max(bbx[1,]),
+                 ymin = min(bbx[2,]), ymax = max(bbx[2,]))
 ```
 
 <br>
@@ -266,17 +270,15 @@ Map the blue-blue water:
 
 ``` r
 ggplot() + 
-  geom_sf(data        = water,
-          inherit.aes = F,
-          col         = "blue")+
+  geom_sf(data    = water,
+          fill    = "blue")+
   coord_sf(xlim   = c(min(bbx[1,]), max(bbx[1,])), 
            ylim   = c(min(bbx[2,]), max(bbx[2,])),
-           expand = FALSE)+
-  theme(legend.position = F) + 
+           expand = F) +
   theme_void()
 ```
 
-### :scissors: - - - - Cut - - - - along the - - - dotted-line - - - - -
+## :scissors: - - - - Cut - - - - along the - - - dotted-line - - - - -
 
 Now for some crafting. Let’s cut out the more detailed water from the
 County land layer.
@@ -291,17 +293,113 @@ counties <- st_cut(counties, water)
 
 <br>
 
-Let's take a look!
+Take a look!
 
 ``` r
 ggplot() + 
-  geom_sf(data = counties,
-          lwd  = 0)+
+  geom_sf(data = counties, lwd  = 0) +
   coord_sf(xlim   = c(min(bbx[1,]), max(bbx[1,])), 
            ylim   = c(min(bbx[2,]), max(bbx[2,])),
-           expand = FALSE)+
-  theme(legend.position = F) + 
+           expand = F) +
   theme_void()
 ```
 
-#
+
+## Colors
+
+Get out the wild crayons, we're going to be advante-garde.
+
+
+Let's set our map colors:
+
+``` r
+water_col <-  "#EBAD1B" # mustard #rgb(0.92, 0.679, 0.105)  
+
+land_col  <-  "#343c47" # dark greyish blue
+
+hwy_col   <-  "#ab0f3d" # maroony pink
+
+lil_roads <- "gray"
+```
+
+
+``` r
+# Land 
+map <- ggplot() + 
+       geom_sf(data = counties, fill = land_col, lwd  = 0) 
+
+map
+
+# Add lil roads
+map <- map + geom_sf(data  = paths$osm_lines,
+                     col   = lil_roads,
+                     size  = 0.44,
+                     alpha = 0.65) 
+
+map
+
+# Add train X             
+map <- map + geom_sf(data  = crossings$osm_points,
+                     col   = "plum",
+                     size  = 5,
+                     alpha = 0.7) 
+     
+map 
+
+# Add big roads                
+map <- map + geom_sf(data  = hwys$osm_lines,
+                     col   = hwy_col,
+                     size  = 0.8,
+                     alpha = 0.7) 
+
+map
+
+
+# Trim the edges and drop legends              
+map <- map + 
+       theme_void() +
+       coord_sf(xlim = c(bbx["x", "min"], bbx["x", "max"]),
+                ylim = c(bbx["y", "min"], bbx["y", "max"]),
+                expand = F) +
+       theme(legend.position = "none") 
+                
+map
+
+
+# Add a mustard water background
+map <- map + 
+       theme(panel.background = element_rect(fill = water_col))
+
+map
+
+```
+
+
+## Title
+
+Our maps need a name. We can add a title on top of the map with `geom_text()`.
+
+``` r
+font_col <- "white"
+
+map + 
+  geom_text(aes(x = mean(bbx[1,]), y = 1.0001 * min(bbx[2,])), label = "- 2021 -", size = 12, family = "Palatino", color = font_col) +
+  geom_text(aes(x = mean(bbx[1,]), y = 1.00024 * min(bbx[2,])), label = "Year of the Blue Ox", size = 10, family = "Palatino", , color = font_col)
+```
+
+
+## Go BIG
+
+```r
+ggsave(filename = "art_by_me.png",
+       scale = 1, 
+       width = 18, 
+       units = "in",
+       dpi   = 500)
+       
+```
+
+
+## Travel 
+
+<img src="https://cdn.shopify.com/s/files/1/0007/5654/7647/files/home-image_60b3d770-9e44-43f4-9261-0ff39cd10fcc.png" width="500">
