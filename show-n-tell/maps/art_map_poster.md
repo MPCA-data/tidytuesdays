@@ -323,6 +323,9 @@ hwy_col   <-  "#ab0f3d" # maroony pink
 lil_roads <- "gray"
 ```
 
+<br>
+
+Now let's build up our map 1 layer at a time.
 
 ``` r
 # Land 
@@ -410,10 +413,6 @@ ggsave(filename = "art_by_me2.png",
 <br>
 
 ---  
-
-## Color theme inspiration
-
-<img src="https://media.wnyc.org/i/1500/900/c/80/1/1537_Pandemic_main.jpg" width="550">
 
 
 <br>
