@@ -5,7 +5,6 @@
 *Reference: <http://estebanmoro.org/post/2020-10-19-personal-art-map-with-r/>*
 
 <br>
-<br>
 
 ---
 
