@@ -31,7 +31,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 <br>
 
 ### Upcoming 
-|      | Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
+|      | Show-n-tell |  Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Dec 29 | *tentative maybe*:boot: Bootstrapping | -- | 8 `pts` |
 | Jan 05 | Resolutions: R learning hopes for 2021 -  | -- | 144 `pts` |
@@ -39,7 +39,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 <br>
 
 ### Past
-|      | Show-n-tell | :coffee:Team Quizlet  | :candy:`sugaR pts`  | 
+|      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Dec 15 | [Survey Analysis w/ MPCA's Travel survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/survey_data/commuter_survey_analysis.R) - Laura & Derek | -- | 650 `pts` |
 | Dec 08 | :art::earth_africa: [Group Exercise: ARTsy Maps](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/art_map_poster.md#map-art) - Dorian  | -- | 14 `pts` |
