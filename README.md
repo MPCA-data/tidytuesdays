@@ -26,7 +26,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 22-Jan 04 | **Canceled** - We're taking a Tiny Hiatus until Jan 5th, 2021  | -- |     |
+| Dec 22-Jan 04 | **Canceled** - We're taking a Tiny Hiatus. See you in 2021!  | -- |     |
 
 <br>
 
