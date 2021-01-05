@@ -26,15 +26,14 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Dec 22-Jan 04 | **Canceled** - We're taking a Tiny Hiatus. See you in 2021!  | -- |     |
+| Jan 05 | R Resolutions: R learning hopes for 2021 - Kristie | -- | 144 `pts` |  
 
 <br>
 
 ### Upcoming 
 |      | Show-n-tell |  Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jan 05 | Resolutions: R learning hopes for 2021 -  | -- | 144 `pts` |
-| Jan 12 | Publication ready Plots & Tables -  | -- | 244 `pts` |
+| Jan 12 | E-mails with R or Publication ready Plots & Tables -  | -- | 244 `pts` |
 | Jan 19 | Bootstrapping :boot: your confidence *intervals* | -- | 8 `pts` |
 | Jan 26 | :tada::tada::balloon:  1-Year ANNIVERSARY! :cake::tada::tada:   | -- | 244 `pts` |
 
