@@ -34,7 +34,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 |      | Show-n-tell |  Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
 | Jan 12 | E-mails with R or Publication ready Plots & Tables -  | -- | 244 `pts` |
-| Jan 19 | Bootstrapping :boot: your confidence *intervals* | -- | 8 `pts` |
+| Jan 19 | Bootstrapping :boot: your 95% confidence intervals | -- | 8 `pts` |
 | Jan 26 | :tada::tada::balloon:  1-Year ANNIVERSARY! :cake::tada::tada:   | -- | 244 `pts` |
 
 <br>
