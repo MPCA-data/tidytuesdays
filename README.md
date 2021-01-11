@@ -26,14 +26,14 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jan 05 | R Resolutions: R learning hopes for 2021 - Kristie | -- | 144 `pts` |  
+| Jan 12 |  ggplot review | A patchwork universe + Plotting with stars - Dorian | -- | 244 `pts` |
 
 <br>
 
 ### Upcoming 
 |      | Show-n-tell |  Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jan 12 | E-mails with R or Publication ready Plots & Tables -  | -- | 244 `pts` |
+| Jan ** | Publication ready Plots & Tables -  | -- | 244 `pts` |
 | Jan 19 | Bootstrapping :boot: your 95% confidence intervals | -- | 8 `pts` |
 | Jan 26 | :tada::tada::balloon:  1-Year ANNIVERSARY! :cake::tada::tada:   | -- | 244 `pts` |
 
@@ -42,6 +42,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |  
+| Jan 05 | R Resolutions: Learning goals for 2021 - Kristie & [Send E-mails with R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/emails/R%20send%20email.R) - Derek | -- | 144 `pts` |  
 | Dec 15 | [Survey Analysis w/ MPCA's Travel survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/survey_data/commuter_survey_analysis.R) - Laura & Derek | -- | 650 `pts` |
 | Dec 08 | :art::earth_africa: [Group Exercise: ARTsy Maps](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/art_map_poster.md#map-art) - Dorian  | -- | 14 `pts` |
 | Dec 01 | Fabulous day of errors, mistakes, and Gotcha's - Kristie | -- | 42 `pts` |
