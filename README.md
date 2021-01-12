@@ -26,7 +26,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jan 12 |  ggplot review | Plotting with stars and [_patchwork_](https://patchwork.data-imaginist.com/) - Dorian | -- | 244 `pts` |
+| Jan 12 |  [ggplot review](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Stars_and_galaxy_plot.MD) | Plotting with stars and [_patchwork_](https://patchwork.data-imaginist.com/) - Dorian | -- | 244 `pts` |
 
 <br>
 
