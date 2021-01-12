@@ -19,17 +19,13 @@ install.packages("patchwork")
 library(patchwork)
 ```
 
-```` 
-
-
 ## Space is dark
 
 We start with a blank plot.
 
-
-```r
+``` r
 ggplot()
-````
+```
 
 <br>
 
