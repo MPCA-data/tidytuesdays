@@ -161,7 +161,7 @@ ggplot(spirals, aes(x = x, y = y)) +
 ``` r
 star_spacing <- 0.55
 
-extra_stars <- 8
+extra_stars <- 7
 
 star_sizes  <- c(0.03, 0.1, 0.12, 0.45, 0.9, 1.3, 1.6)
  
@@ -196,7 +196,7 @@ ggplot(spirals, aes(x = x, y = y)) +
 ``` r
 # Fuzzy stars
 fuzzy_stars <- spirals %>% 
-  slice(rep(row_number(), extra_stars)) %>% 
+  slice(rep(row_number(), 4)) %>% 
   mutate(
     x = x + rnorm(n(), sd = star_spacing + theta/16),
     y = y + rnorm(n(), sd = star_spacing + theta/16),
@@ -343,7 +343,7 @@ plot_annotation(theme = theme(plot.background = element_rect(fill = 'black')))
 
 ``` r
 space / (space|space| g1  |space|space) /
-space / (space|space|space| home  |space) / 
+space / (space|space|space| g1  |space) / 
 space / (  g1 |space|space|space|space) /
         (space| g1  |space|space|space) / space + 
   plot_annotation(theme = theme(plot.background = element_rect(fill = 'black')))
@@ -353,10 +353,11 @@ space / (  g1 |space|space|space|space) /
 
 ``` r
 space / (space|space| g1  |space|space) /
-space / (space|space|space| home  |space) / 
+space / (space|space|space| g1  |space) / 
 space / (  g1 |space|space|space|space) /
         (space| g1  |space|space|space) / space + 
-  plot_annotation(title = "My Universe")
-                  #plot.title = element_text(color = "white"),
-                  #theme = theme(plot.background = element_rect(fill = 'black')))
+plot_annotation(title = "My Universe",
+                theme = theme(plot.title = element_text(color = "white", size = 20)) &
+                        theme(plot.background = element_rect(fill = 'black')) & 
+                        theme(text = element_text('mono')))
 ```
