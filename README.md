@@ -39,7 +39,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | Feb 9 | My First R Script. Data Structures. What can I do with this .R file? | -- | 68 `pts` |
 | Feb 16 | R and R Studio Tips and Tricks/Best Practices | -- | 38 `pts` |
 | Feb 23 | Make your first RMarkdown Dorian | -- | 28 `pts` |
-| Mar 2 | the sf package - st_distance, st_buffers and st_intersection OH MY! Kristie | -- | 48 `pts` |
+| Mar 2 | Finding Carmen Sandiego! the sf package - st_distance, st_buffers and st_intersection - Kristie | -- | 48 `pts` |
 | Mar 9 | Plotly vs Leaflet Ultimate MashUp Barbara and Dorian | -- | 18 `pts` |
 | Mar 16 | Attempts and Foibles at machine learning in R Barbara and Kristie | -- | 58 `pts` |
 | Mar 23 | Pipes, dots and other magrittr operators 'That dot that Derek uses' | -- | 78 `pts` |
