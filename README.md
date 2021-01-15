@@ -33,9 +33,18 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | Show-n-tell |  Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jan ** | Publication ready Plots & Tables -  | -- | 244 `pts` |
-| Jan 19 | Bootstrapping :boot: your 95% confidence intervals | -- | 8 `pts` |
-| Jan 26 | :tada::tada::balloon:  1-Year ANNIVERSARY! :cake::tada::tada:   | -- | 244 `pts` |
+| Jan 19 | Plan for Anniversary & Publication ready Plots & Tables - Barbara | -- | 244 `pts` |
+| Jan 26 | :tada::tada::balloon:  1-Year ANNIVERSARY! :cake::tada::tada:   | -- | 444 `pts` |
+| Feb 2 | Bootstrapping :boot: your 95% confidence intervals - Derek and Barbara| -- | 8 `pts` |
+| Feb 9 | Plotly vs Leaflet Ultimate MashUp Barbara and Dorian | -- | 18 `pts` |
+| Feb 16 | RMarkdown Basics and Output Methods Dorian | -- | 28 `pts` |
+| Feb 23 | R and R Studio Tips and Tricks/Best Practices | -- | 38 `pts` |
+| Mar 2 | the sf package - st_distance, st_buffers and st_intersection OH MY! Kristie | -- | 48 `pts` |
+| Mar 9 | Attempts and Foibles at machine learning in R Barbara and Kristie | -- | 58 `pts` |
+| Mar 16 | My First R Script. Data Structures. What can I do with this .R file? | -- | 68 `pts` |
+| Mar 23 | Pipes, dots and other magrittr operators 'That dot that Derek uses' | -- | 78 `pts` |
+| Mar 30 | Searching for emails - Derek | -- | 100 `pts` |
+| Apr 6 | Journal articles in R Kristie | -- | 14 `pts` |
 
 <br>
 
