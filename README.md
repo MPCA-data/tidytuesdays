@@ -45,7 +45,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | Mar 23 | Pipes, dots and other magrittr operators 'That dot that Derek uses' | -- | 78 `pts` |
 | Mar 30 | Searching for emails - Derek | -- | 100 `pts` |
 | Apr 6 | Journal articles in R Kristie | -- | 14 `pts` |
-| Apr 13 | Cat Detectives with dplyr Kristie and Dorian and Derek :cake::tada::tada: | -- | 14 `pts` |
+| Apr 13 | Cat Detectives with dplyr Kristie and Dorian and Derek :cake | -- | 14 `pts` |
 | Apr 20 | sqlite databases in R Barbara | -- | 14 `pts` |
 
 <br>
