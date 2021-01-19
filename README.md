@@ -112,6 +112,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
+| Jan 21-12 | Live talks | RStudio::global conference | [RStudio::global 2021](https://global.rstudio.com/student/catalog/list?category_ids=1752-visualisation)|  |
 | Jul 07-17 | Recordings | useR! 2020: Intl. R user conference | [useR 2020](https://user2020.r-project.org/program/agenda/)|  |
 | Jul 14-15 | 9:00-1pm | MN's R North Conference| [noRth 2020](https://rnorthconference.github.io/#about)|  |
 | May 14 | 6:30-8pm | Multi-level Modeilng : Twin Cities RLadies| [Online Meetup](https://www.meetup.com/rladies-tc/events/268384963/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGQ5NTI4ZDA3LTcxYjctNDY4MS04NWEzLWFkZDZkZmZjZWI3OA)| [TC R Ladies](https://www.meetup.com/rladies-tc) |
