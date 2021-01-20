@@ -1,10 +1,8 @@
 ## Tenliner Cace Adventure by Einar Saukas
 ## Ported from ZX81 BASIC to R by Peter Prevos
 
-
-
 # Player options
-#
+#----------------
 # north
 # south
 # east
@@ -84,7 +82,7 @@ repeat {
 
   if (a >= 11) {
 
-    i <- tolower(readline(prompt = "     > Enter your hero's name:   "))
+    i <- tolower(readline(prompt = "\n> Enter your hero's name:   "))
 
     cat(paste0("\n", i, ", wielder of 1,000 faces once stood here.\n\n\n\nTHE END\n\n"))
 
