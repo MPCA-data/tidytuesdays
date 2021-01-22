@@ -26,14 +26,30 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 |      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jan 19 | 1-yr Celebration plan & Publication ready Tables - Barbara | -- | 244 `pts` |
+| Jan 26 | :tada::tada::balloon: 1-Year ANNIVERSARY! Group Celebration time :cake::tada::tada:   | -- | 444 `pts` |
+
+
+ ### *Meow-Meow. Happy Anniversary R Users!!!*
+      \
+       \
+        \
+            |\___/|
+          ==) ^Y^ (==
+            \  ^  /
+             )=*=(
+            /     \
+            |     |
+           /| | | |\
+           \| | |_|/\
+      jgs  //_// ___/
+               \_)
+
 
 <br>
 
 ### Upcoming 
 |      | Show-n-tell |  Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Jan 26 | :tada::tada::balloon:  1-Year ANNIVERSARY! :cake::tada::tada:   | -- | 444 `pts` |
 | Feb 2 | Bootstrapping :boot: your 95% confidence intervals - Derek and Barbara| -- | 8 `pts` |
 | Feb 9 | My First R Script. Data Structures. What can I do with this .R file? | -- | 68 `pts` |
 | Feb 16 | R and R Studio Tips and Tricks/Best Practices | -- | 38 `pts` |
@@ -52,6 +68,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- | 
+| Jan 19 | 1-yr Celebration plan & Publication ready Tables - Barbara | -- | 244 `pts` |
 | Jan 12 |  [ggplot review](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Stars_and_galaxy_plot.MD) - Plotting with stars and [_patchwork_](https://patchwork.data-imaginist.com/) - Dorian | -- | 244 `pts` |
 | Jan 05 | R Resolutions: Learning goals for 2021 - Kristie & [Send E-mails with R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/emails/R%20send%20email.R) - Derek | -- | 144 `pts` |  
 | Dec 15 | [Survey Analysis w/ MPCA's Travel survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/survey_data/commuter_survey_analysis.R) - Laura & Derek | -- | 650 `pts` |
