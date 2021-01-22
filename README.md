@@ -29,7 +29,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | Jan 26 | :tada::tada::balloon: 1-Year ANNIVERSARY! Group Celebration time :cake::tada::tada:   | -- | 444 `pts` |
 
 
- ### *Meow-Meow. Happy Anniversary R Users!!!*
+    Meow-Meow. Happy Anniversary R Users!!!
       \
        \
         \
