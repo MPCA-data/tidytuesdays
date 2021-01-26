@@ -1,12 +1,13 @@
 ## Tenliner Cace Adventure by Einar Saukas
 ## Ported from ZX81 BASIC to R by Peter Prevos
 
+
 # Player options
-#----------------
-# north
-# south
-# east
-# west
+#
+# (N)orth
+# (S)outh
+# (E)ast
+# (W)est
 #
 # look
 # open **
@@ -23,70 +24,103 @@ get_state <- function(p, q = p) substr(game_state, p, q)
 game_state <- "100"  # The first number is the room number, #1 is the starting room - The Cave
 
 responses <- data.frame(text = c(
-                             "... Sorry, but you cannot.",
-                             "... You walk slowly. Your foot still aches.",
+                             "...Sorry, but you cannot.",
+                             "...You walk slowly. Your foot still aches.",
                              " *opened* ",
                              " *closed* ",
-                             "( There is a sword. The handle sparkles and then goes dark. )",
-                             "( There is a key with a small snake etched onto its back. )",
-                             "( There is nothing here. )",
-                             "... You see a metal chest. ",
-                             "... You see a dragon. It is not happy. ",
-                             "... You see a boot fit for a large left foot. That is strange.",
+                             "( There is a *fish*. It stares up at you curiously. )", #The handle sparkles and then goes dark.
+                             "( There is a *key* with a small snake etched on its side. )",
+                             "( There is nothing of significance. )",
+                             "...You see a metal *chest*.",
+                             "...You see a very large *cat*. It is definitely bigger than you and it is not happy.",
+                             "...You see a leather *boot*. It seems fit for a large left foot. How strange.",
                              " *taken* ",
-                             "... You fought valiantly but were defeated. You shall be remembered. Briefly.",
-                             " You are victorious! Your name will be remembered for all eternity. Or at least until you close R.\n\n"),
+                             "You are brave, however the cat was very hungry and ate you. You shall be remembered. But briefly.",
+                             "Yum! You are victorious. The cat was appeased and fell fast asleep. Your name shall be remembered for several years at least."),
                         stringsAsFactors = F)
 
 rooms <- data.frame(room_n   = 1:4,
-                    room_desc = c("cave", "pit", "hall. You hear a light breeze, or maybe it is breathing", "lake"),
+                    room_desc = c("cave", "pit", "hall. You hear a light breeze or is it something breathing", "lake"),
                     stringsAsFactors = F)
+
+# Room update table
+update_room <- data.frame(room_n     = c(1,3,3,2,2,4),
+                          direction  = c("north", "south", "east", "west", "north", "south"),
+                          new_room   = c(3,1,2,3,4,2))
+
 
 cat("\n\n\n\n\n\n\n\n\n\n\n\n")
 cat("#---------------------------------------------------------------#\n#\n")
-cat("# You awake and your eyes begin to adjust to the darkness. \n#\n# Ouch! Your left ankle sparks with pain. \n#\n# You look around you.")
+cat("# You awake and your eyes begin to adjust to the darkness. \n#\n# Ouch! Your left ankle bites with pain. \n#\n# You look around you.")
 cat("\n#\n")
 cat("#")
 
 repeat {
 
-  cat("\n\n > You are standing in a ")
+  cat("\n\n| You are standing in a ")
 
   cat(rooms[val(get_state(1)), ]$room_desc)
 
   cat("...  \n\n")
 
   # Get user input
-  u <- tolower(readline(prompt = "| What do you do (north-south-east-west or look-take-open-fight-inventory)?  "))
+  u <- tolower(readline(prompt = "> What do you do (N-S-E-W or look-open-take-feed-inventory)?  "))
 
-  m <- 2 * (u == "north") * (get_state(1) < "3") -
-       2 * (u == "south") * (get_state(1) > "2") +
-           (get_state(1) == "2" & u == "west") -
-           (get_state(1) == "3" & u == "east")
+  if (nchar(u) > 0) {
 
-  a <- (3 * val(get_state(2)) + 2 * (get_state(3) == "2")) * (get_state(1) == 2 & u == "look") +
-       (11 + (get_state(3) == "2")) * (get_state(1) == "3" & u == "fight") +
-       (m != 0) +
-       (5 + val(get_state(1))) * (u == "look") +
-       (6 - val(get_state(3))) * (u == "inventory") +
-       (6 - (get_state(3) == "0")) * (get_state(1) == 4 & u == "look") +
-       10 * (get_state(1, 3) == "400" & u == "take") +
-       2 * (get_state(1, 3) == "201" & u == "open") +
-       10 * (get_state(1, 3) == "211" & u == "take") +
-       1 * (get_state(1, 3) == "211" & u == "look")
+  #u <- strsplit(u, " ")[[1]][1]
+
+  # Change room if direction is in table
+    if (substr(u, 1, 1) %in% c("n", "s", "e", "w")) {
+       m <- subset(update_room, room_n == val(get_state(1)) & substr(direction, 1, 1) == substr(u, 1, 1))$new_room
+
+       if (length(m) > 0) {
+
+         a <- 2
+
+       } else {
+
+         m <- val(get_state(1))
+
+         a <- 1
+
+       }
+
+    } else {
+
+      m <- val(get_state(1))
+
+      # Find correct response
+      a <- (3 * val(get_state(2)) + 2 * (get_state(3) == "2")) * (get_state(1) == 2 & u == "look chest") +
+           (11 + (get_state(3) == "2")) * (get_state(1) == "3" & strsplit(u, " ")[[1]][1] == "feed") +
+           (length(m) > 0) +
+           (5 + val(get_state(1))) * (u == "look") +
+           (6 - val(get_state(3))) * (u == "inventory") +
+           (6 - (get_state(3) == "0")) * (get_state(1) == 4 & u == "look boot") +
+           10 * (get_state(1, 3) == "400" & u == "take key") +
+           2 * (get_state(1, 3) == "201" & u == "open chest") +
+           10 * (get_state(1, 3) == "211" & u == "take fish") +
+           1 * (get_state(1, 3) == "211" & u == "look chest")
+}
 
   # Update room and game status
-  game_state <- paste0(val(get_state(1)) + m, val(get_state(2)) + (a == 2), val(get_state(3)) + (a == 10))
+  game_state <- paste0(m, val(get_state(2)) + (a == 3), val(get_state(3)) + (a == 11))
 
-  cat(paste("\n", responses[a+1, ]))
+  cat(paste("\n", responses[a, ]))
 
-  if (a >= 11) {
+  if (a > 11) {
 
-    i <- tolower(readline(prompt = "\n> Enter your hero's name:   "))
+    cat("\n\n")
 
-    cat(paste0("\n", i, ", wielder of 1,000 faces once stood here.\n\n\n\nTHE END\n\n"))
+    if (get_state(3) == "2") {
+       i <- readline(prompt = "> Enter your hero's name:  ")
+
+       cat(paste0("\n", i, ", the wielder of 1,000 fishes once stood here.\n\n~ THE END ~\n\n"))
+    }
 
     break
+
+  }
   }
 
 }
