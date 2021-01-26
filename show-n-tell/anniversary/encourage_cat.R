@@ -4,12 +4,12 @@
 # source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/encourage_cat.R")
 # encourage_cat()
 
+# Create your own talking animals with `cowsay`
+# install.packages("cowsay")
+# library(cowsay)
 
 encourage_cat <- function(name = "", cat = T) {
-  
-  #install.packages("cowsay")
-  #library(cowsay)
-  
+    
   quotes <- c("The party starts meow!",
               "I do declare. You are officially pawesome at this.",
               "Keep clawing forward.",
