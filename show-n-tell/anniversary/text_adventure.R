@@ -4,6 +4,7 @@
 # Play game
 #source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/text_adventure.R")
 
+
 # Player options #
 #----------------#
 # (N)orth
@@ -16,6 +17,8 @@
 # take **
 # fight **
 # inventory
+
+
 
 ## Helper functions to keep syntax close to ZX81
 val <- function(p) as.numeric(p)
@@ -38,7 +41,7 @@ responses <- data.frame(text = c(
                              "...You see a leather *boot*. It seems fit for a large left foot. How strange.",
                              " *taken* ",
                              "You are brave, however the cat was very hungry and ate you. You shall be remembered. But briefly.",
-                             "Yum! You are victorious. The cat was appeased and fell fast asleep. Your name shall be remembered for several years at least."),
+                             "Yum! The cat was appeased and fell fast asleep. Your name shall be remembered for several years at least."),
                         stringsAsFactors = F)
 
 rooms <- data.frame(room_n   = 1:4,
@@ -55,7 +58,6 @@ cat("\n\n\n\n\n\n\n\n\n\n\n\n")
 cat("#---------------------------------------------------------------#\n#\n")
 cat("# You awake and your eyes begin to adjust to the darkness. \n#\n# Ouch! Your left ankle bites with pain. \n#\n# You look around you.")
 cat("\n#\n")
-cat("#")
 
 repeat {
 
@@ -117,7 +119,7 @@ repeat {
     if (get_state(3) == "2") {
        i <- readline(prompt = "> Enter your hero's name:  ")
 
-       cat(paste0("\n", i, ", the wielder of 1,000 fishes once stood here.\n\n~ THE END ~\n\n"))
+       cat(paste0("\n", i, ", the wielder of 1,000 fishes once stood here.\n\n\n~ THE END ~\n\n"))
     }
 
     break
