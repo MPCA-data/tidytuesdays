@@ -1,9 +1,11 @@
 ## Tenliner Cace Adventure by Einar Saukas
 ## Ported from ZX81 BASIC to R by Peter Prevos
 
+# Play game
+#source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/text_adventure.R")
 
-# Player options
-#
+# Player options #
+#----------------#
 # (N)orth
 # (S)outh
 # (E)ast
