@@ -37,14 +37,14 @@ with caution to prevent the Empire from discovering your identity.
       - Create a new variable called `home`
       - Save the name of your home planet to it
 5.  Flag color
-      - Create a new variable called `banner`
-      - Choose a web `#`color from [here](https://htmlcolorcodes.com/) or an R color from [here](https://www.r-graph-gallery.com/42-colors-names.html)
-      - Store the color name or hex code in the variable `banner`
+      - Create a new variable called `flag`
+      - Choose a web hex `#`color from [here](https://htmlcolorcodes.com/) or an R color from [here](https://www.r-graph-gallery.com/42-colors-names.html)
+      - Store the color name or hex code in the variable `flag`
 6.  Use `rm()` to drop the variable `home` from memory
       - *We don’t want that information getting out*
 7.  Finally, create an object called `fake_age`
-      - Store a numeric value in `fake_age`
-      - In your script, add `7` to the object
+      - Store a numeric value in it
+      - In your script, add + `7` to the object
 
 <br>
 
