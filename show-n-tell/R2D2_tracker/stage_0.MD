@@ -45,10 +45,11 @@ with caution to prevent the Empire from discovering your identity.
 7.  Finally, create an object called `fake_age`
       - Store a numeric value in it
       - In your script, add + `7` to the object
+      - Store the value of `fake_age` in a new object called `my_age`
 
 <br>
 
-**Congratulations!**
+**You're done! Congratulations!**
   
 <br>
 
