@@ -48,7 +48,7 @@ with caution to prevent the Empire from discovering your identity.
 
 <br>
 
-\*\* Congratulations\!\*\*
+**Congratulations!**
 
 ## Save and Send
 
