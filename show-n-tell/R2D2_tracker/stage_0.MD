@@ -53,7 +53,7 @@ with caution to prevent the Empire from discovering your identity.
 ## Save and Send
 
 Share your R script via digital transport with your local Alliance
-representative. They will let you know when your robot is online.
+leader. They will be contact you shortly about continuing your training.
 
 *-the Alliance*
 
