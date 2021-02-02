@@ -7,7 +7,7 @@ START HERE
 
 # Join the Alliance
 
-Follow these steps to safely submit your credentials. We must proceed
+Follow these steps to safely submit your credentials. Please proceed
 with caution to prevent the Empire from discovering your identity.
 
 <br>
