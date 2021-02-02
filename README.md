@@ -44,19 +44,19 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 <br>
 
 ### Upcoming 
-|      | Show-n-tell |  Team Quizlet  | :candy: `sugaR pts`  | 
-| ---  | --- | --- | --- |  
-| Feb 9 | My First R Script. Data Structures. What can I do with this .R file? | -- | 68 `pts` |
-| Feb 16 | R and R Studio Tips and Tricks/Best Practices | -- | 38 `pts` |
-| Feb 23 | Keeping tables and figures organized in R notebooks. Bruce Monson & Make your first RMarkdown Dorian | -- | 28 `pts` |
-| Mar 2 | Finding Carmen Sandiego! the sf package: distances, buffers and intersections - Kristie | -- | 48 `pts` |
-| Mar 9 | Plotly vs Leaflet Ultimate MashUp Barbara and Dorian | -- | 18 `pts` |
-| Mar 16 | Attempts and Foibles at machine learning in R Barbara and Kristie | -- | 58 `pts` |
-| Mar 23 | Pipes, dots and other magrittr operators 'That dot that Derek uses' | -- | 78 `pts` |
-| Mar 30 | Searching for emails - Derek | -- | 100 `pts` |
-| Apr 6 | Journal articles in R Kristie | -- | 14 `pts` |
-| Apr 13 | Cat Detectives with dplyr Kristie and Dorian and Derek :cake: | -- | 14 `pts` |
-| Apr 20 | sqlite databases in R Barbara | -- | 14 `pts` |
+|      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
+| ---  | --- | --- | --- | --- |  
+| Feb 9 | [Reading data - `3\|`](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: CSVs] | |  68 `pts` |
+| Feb 16 | | | R and R Studio Tips and Tricks/Best Practices -- | 38 `pts` |
+| Feb 23 | | | Keeping tables and figures organized in R notebooks. Bruce Monson & Make your first RMarkdown Dorian  -- | 28 `pts` |
+| Mar 2 | | |Finding Carmen Sandiego! the sf package: distances, buffers and intersections - Kristie  -- | 48 `pts` |
+| Mar 9 | | |Plotly vs Leaflet Ultimate MashUp Barbara and Dorian  -- | 18 `pts` |
+| Mar 16 | | |Attempts and Foibles at machine learning in R Barbara and Kristie  -- | 58 `pts` |
+| Mar 23 | | |Pipes, dots and other magrittr operators 'That dot that Derek uses'  -- | 78 `pts` |
+| Mar 30 | | | Searching for emails - Derek  -- | 100 `pts` |
+| Apr 6 | | | Journal articles in R Kristie  -- | 14 `pts` |
+| Apr 13 | --|-- | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  -- | 14 `pts` |
+| Apr 20 | | |sqlite databases in R Barbara  -- | 14 `pts` |
 
 <br>
 
