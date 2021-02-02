@@ -37,6 +37,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 | ---  | --- | --- | --- | --- |  
 | Feb 2 | [RStudio: Project setup](https://mpca-air.github.io/RTrain4/01-Day1.html#why_r) | [Stage 0: Start Here](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_tracker/stage_0.MD#start-here) | Bootstrapping :boot: your 95% confidence intervals - Derek|  8 `pts` |
 
+<br>
 
 Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
  
