@@ -49,11 +49,14 @@ with caution to prevent the Empire from discovering your identity.
 <br>
 
 **Congratulations!**
+<br>
 
 ## Save and Send
 
 Share your R script via digital transport with your local Alliance
 leader. They will contact you shortly about continuing your training.
+
+<br>
 
 *-the Alliance*
 
