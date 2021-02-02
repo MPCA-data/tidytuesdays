@@ -20,7 +20,7 @@ with caution to prevent the Empire from discovering your identity.
 
 2.  Create a new `R` folder in your project folder
 3.  Start a new R script
-4.  Save it to your R folder as `new_rebel.R`
+4.  Save it to your R folder as `00_new_rebel.R`
 
 **Credentials**
 
@@ -55,7 +55,7 @@ with caution to prevent the Empire from discovering your identity.
 ## Save and Send
 
 Share your R script via digital transport with your local Alliance
-leader. They will contact you shortly about continuing your training.
+contact. They will find you shortly to continue your training.
 
 <br>
   
