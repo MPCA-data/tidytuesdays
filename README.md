@@ -10,29 +10,9 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 <br><br>
 
-## :coffee: The Morning warmup
-
-> Try today's [Tuesday Team Quizzlet](https://forms.gle/YutRu6RfnVGJRo3y9)
-
-<br>
-
-Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
-
-<br>
-
-## Schedule
-
-### Up Next
-
-|      | :tada:Show-n-tell | :coffee:Team Quizlet  | :candy: `sugaR pts`  | 
-| ---  | --- | --- | --- |  
-| Jan 26 | :tada::tada::balloon: 1-Year ANNIVERSARY! Group Celebration time :cake::tada::tada:   | -- | 444 `pts` |
-
-<br>  
-  
 `> encourage_cat()`
 
-    Meow-Meow. Happy Anniversary R Users! Feed me.
+    Meow-Meow. Happy Anniversary R Users! 
       \
        \
         \
@@ -47,13 +27,24 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
       jgs  //_// ___/
                \_)
 
+Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
 
+<br>
+
+## Schedule
+
+### Up Next
+
+|      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
+| ---  | --- | --- | --- | --- |  
+| Feb 2 | [RStudio: Project setup](https://mpca-air.github.io/RTrain4/01-Day1.html#why_r) | [Stage 0: Start Here](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_tracker/stage_0.MD#start-here) | Bootstrapping :boot: your 95% confidence intervals - Derek|  8 `pts` |
+
+  
 <br>
 
 ### Upcoming 
 |      | Show-n-tell |  Team Quizlet  | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |  
-| Feb 2 | Bootstrapping :boot: your 95% confidence intervals - Derek and Barbara| -- | 8 `pts` |
 | Feb 9 | My First R Script. Data Structures. What can I do with this .R file? | -- | 68 `pts` |
 | Feb 16 | R and R Studio Tips and Tricks/Best Practices | -- | 38 `pts` |
 | Feb 23 | Keeping tables and figures organized in R notebooks. Bruce Monson & Make your first RMarkdown Dorian | -- | 28 `pts` |
@@ -71,6 +62,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- | 
+| Jan 26 | :tada::tada::balloon: 1-Year ANNIVERSARY! Group Celebration time :cake::tada::tada:   | -- | 444 `pts` |
 | Jan 19 | 1-yr Celebration plan & Publication ready Tables - Barbara | -- | 244 `pts` |
 | Jan 12 |  [ggplot review](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Stars_and_galaxy_plot.MD) - Plotting with stars and [_patchwork_](https://patchwork.data-imaginist.com/) - Dorian | -- | 244 `pts` |
 | Jan 05 | R Resolutions: Learning goals for 2021 - Kristie & [Send E-mails with R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/emails/R%20send%20email.R) - Derek | -- | 144 `pts` |  
