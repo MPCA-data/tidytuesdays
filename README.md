@@ -10,25 +10,6 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 <br><br>
 
-`> encourage_cat()`
-
-    Meow-Meow. Happy Anniversary R Users! 
-      \
-       \
-        \
-            |\___/|
-          ==) ^Y^ (==
-            \  ^  /
-             )=*=(
-            /     \
-            |     |
-           /| | | |\
-           \| | |_|/\
-      jgs  //_// ___/
-               \_)
-
-<br>
-
 ## Schedule
 
 ### Up Next
@@ -246,5 +227,23 @@ Things to talk about.
 > How do we store and share our methods and code? Do your analyses have versions?
 
 </details>
+
+
+`> encourage_cat()`
+
+    Meow-Meow. Happy Anniversary R Users! 
+      \
+       \
+        \
+            |\___/|
+          ==) ^Y^ (==
+            \  ^  /
+             )=*=(
+            /     \
+            |     |
+           /| | | |\
+           \| | |_|/\
+      jgs  //_// ___/
+               \_)
 
 <br>
