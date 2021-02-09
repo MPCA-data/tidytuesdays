@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Feb 9 | [Reading data - `3\|`](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: CSVs] | |  68 `pts` |
+| Feb 9 | [Reading data - `3\|`](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: CSVs](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_missions/stage_1.MD#stage-1---a-wampa-rumpus) | |  68 `pts` |
 
 <br>
 
