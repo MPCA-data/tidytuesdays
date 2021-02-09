@@ -6,7 +6,9 @@
 
 > It happened again. Foolhardy Luke has gotten himself into a pickle all by himself. This time he's stuck in a wampa cave and hanging upside down no less. And we were so looking forward to taking a nice nap while recharging our batteries. That will have to wait. 
 >
-> Lucky for Luke, I did just bump into a researcher at the cantina recently. They weren't happy about spilling their peas, but were pleased I agreed to help with their study. She mentioned she had been observing the movement patterns of wampas in the area. I think if we do a little data digging we could find an optimum time to rescue Luke. And if we're wrong, well, we sure won't be the one sneaking into the cave to find out. That's Han's job. 
+> Lucky for Luke, I did just bump into a researcher at the cantina recently. They weren't happy about spilling their peas, but were pleased I agreed to help with their study. She mentioned she had been observing the movement patterns of wampas in the area. I think if we do a little data digging we could find an optimum time to rescue Luke. And if we're wrong, well, we sure won't be the one sneaking into the cave to find out. 
+>
+> That's Han's job. 
 
 <br>
 
