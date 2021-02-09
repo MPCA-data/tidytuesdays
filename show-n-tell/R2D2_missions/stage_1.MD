@@ -1,6 +1,6 @@
-# Stage 1 |  A Wampa Rumpus
-
 <img src="https://i.ebayimg.com/images/g/gcQAAOSwkylfAyto/s-l1600.jpg" width="35%" align="right">
+
+# Stage 1 |  A Wampa Rumpus
 
 <br>
 
