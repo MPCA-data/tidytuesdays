@@ -1,8 +1,8 @@
-<img src="https://i.ebayimg.com/images/g/gcQAAOSwkylfAyto/s-l1600.jpg" width="35%" align="right">
-
 # Stage 1 |  A Wampa Rumpus
 
-<br>
+<img src="https://i.ebayimg.com/images/g/gcQAAOSwkylfAyto/s-l1600.jpg" width="35%" align="right">
+
+<br><br>
 
 > It happened again. Foolhardy Luke has gotten himself into a pickle all by himself. This time he's stuck in a wampa cave and hanging upside down no less. And we were so looking forward to taking a nice nap while recharging our batteries. That will have to wait. 
 >
@@ -41,7 +41,7 @@ library(dplyr)
 3. Use `bind_rows()` to combine the first 2 data sets together into a single data frame
 4. Use `bind_rows` one more time to bind this new data frame to the 3rd week of data 
     - *This will be your super "ALL the data" table*
-5. Use `summary()` to find the hour of day with the highest amount of time spent "time_spent_out_hunting". 
+5. Use `summary()` to find the hour of day with the highest amount of **"time_spent_out_hunting"**. 
     - Hopefully Luke was caught by a very predictable wampa. 
 
 
