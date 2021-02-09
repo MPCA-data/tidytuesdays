@@ -24,18 +24,26 @@ library(readr)
 library(dplyr)
 ```
 
+### Setup
+
+- In RStudio, create a new project called `wampa`.
+
 ### Instructions
 
-0. Download the 3 Excel files from here: [Wampa data](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/R2D2_missions/stage_1_data) 
-1. Open each Excel file and save it as a.CSV file *(in latter trainings you we'll learn how to read data directly from Excel & other data sources)*
-    - <img src="https://cdn4syt-solveyourtech.netdna-ssl.com/wp-content/uploads/2016/03/excel-2013-save-as-csv-4.jpg" width="60%" >
+0. Download the 3 Excel files from [Wampa data](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/R2D2_missions/stage_1_data)
+    - Click the file name.
+    - Click the `[ Download ]` button near the lower right-hand side.
+    - Save directly to or move the 3 files to a folder named `data` in your project folder.
+1. Open each Excel file and save it as a.CSV file *(later on we'll learn how to read data directly from Excel & other data sources)*
+    - <img src="https://cdn4syt-solveyourtech.netdna-ssl.com/wp-content/uploads/2016/03/excel-2013-save-as-csv-4.jpg" width="50%" >
     - Save the 3 .CSV files to your project's `data` folder.
     - Click `Yes` if Excel trys to warn you about yada-yada...
-2. Read each of these 3 CSV files into R using `read_csv()`
-3. Bind the first 2 data sets together into a single data frame with `bind_rows()`
+2. Read each of the 3 CSV files into R using `read_csv()`
+3. Use `bind_rows()` to combine the first 2 data sets together into a single data frame
 4. Use `bind_rows` one more time to bind this new data frame to the 3rd week of data 
-    - This will be your super "ALL the data" table
-5. Use `summary()` to find the hour of day with the highest amount of time spent "wampa_out_hunting". Hopefully Luke was caught by a very predictable wampa. 
+    - *This will be your super "ALL the data" table*
+5. Use `summary()` to find the hour of day with the highest amount of time spent "time_spent_out_hunting". 
+    - Hopefully Luke was caught by a very predictable wampa. 
 
 - **Final step** Clap 5 times. Out loud. For real. :clap::clap::clap::clap::clap:
 
