@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Feb 9 | [Reading data - `3\|`](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: CSVs](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_missions/stage_1.MD#stage-1---a-wampa-rumpus) | [R2D2 - R training tracker](https://mpca-data.github.io/R2D2_rescue_mission/) |  68 `pts` |
+| Feb 9 | [Reading data-3](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: CSVs](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_missions/stage_1.MD#stage-1---a-wampa-rumpus) | [R2D2 - R training tracker](https://mpca-data.github.io/R2D2_rescue_mission/) |  68 `pts` |
 
 <br>
 
@@ -27,7 +27,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Feb 16 | [ggplot2 charts - `3\|`](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R and R Studio Tips and Tricks/Best Practices -- | 38 `pts` |
+| Feb 16 | [ggplot2 Charts-4](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R and R Studio Tips and Tricks/Best Practices -- | 38 `pts` |
 | Feb 23 | | | Keeping tables and figures organized in R notebooks. Bruce Monson & Make your first RMarkdown Dorian  -- | 28 `pts` |
 | Mar 2 | | |Finding Carmen Sandiego! the sf package: distances, buffers and intersections - Kristie  -- | 48 `pts` |
 | Mar 9 | | |Plotly vs Leaflet Ultimate MashUp Barbara and Dorian  -- | 18 `pts` |
