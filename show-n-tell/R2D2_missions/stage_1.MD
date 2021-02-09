@@ -6,8 +6,7 @@
 
 > It happened again. Foolhardy Luke has gotten himself into a pickle all by himself. This time he's stuck in a wampa cave and hanging upside down no less. And we were so looking forward to taking a nice nap while recharging our batteries. That will have to wait. 
 >
-> Lucky for Luke, I did just bump into a researcher at the cantina recently. They weren't happy about spilling their peas, but were pleased I agreed to help with their study. She mentioned she had been observing the movement patterns of wampas in the area. I think if we do a little data digging we could find an optimum time to rescue Luke. And if we're wrong, well, we sure won't be the one sneaking into the cave to find out. 
->
+> Lucky for Luke, I did just bump into a researcher at the cantina recently. They weren't happy about spilling their peas, but were pleased I agreed to help with their study. She mentioned she had been observing the movement patterns of wampas in the area. I think if we do a little data digging we could find an optimum time to rescue Luke. And if we're wrong, well, we won't be the one sneaking into the cave to find out. 
 > That's Han's job. 
 
 <br>
@@ -36,8 +35,8 @@ library(dplyr)
     - Save directly to or move the 3 files to a folder named `data` in your project folder.
 1. Open each Excel file and save it as a.CSV file *(later on we'll learn how to read data directly from Excel & other data sources)*
     - <img src="https://cdn4syt-solveyourtech.netdna-ssl.com/wp-content/uploads/2016/03/excel-2013-save-as-csv-4.jpg" width="50%" >
-    - Save the 3 .CSV files to your project's `data` folder.
-    - Click `Yes` if Excel trys to warn you about yada-yada...
+    - Save the 3 CSV files to your project's `data` folder.
+    - Keep clicking `Yes` if Excel trys to warn you about yada-yada...losing formatting...yada...
 2. Read each of the 3 CSV files into R using `read_csv()`
 3. Use `bind_rows()` to combine the first 2 data sets together into a single data frame
 4. Use `bind_rows` one more time to bind this new data frame to the 3rd week of data 
@@ -45,10 +44,14 @@ library(dplyr)
 5. Use `summary()` to find the hour of day with the highest amount of time spent "time_spent_out_hunting". 
     - Hopefully Luke was caught by a very predictable wampa. 
 
-- **Final step** Clap 5 times. Out loud. For real. :clap::clap::clap::clap::clap:
+
+**Final step:** Clap 5 times.  :clap::clap::clap::clap::clap: Out loud. For real. We are watching.
 
 <br>
 
 ## Save and share
 Send us your script and your best recommendation for the time for a Luke rescue mission. Han Solo will really appreciate it. We'll let you know how it goes. 
 
+<br>
+
+*-the Alliance*
