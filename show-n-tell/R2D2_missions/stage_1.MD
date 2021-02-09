@@ -25,7 +25,7 @@ library(dplyr)
 ### Instructions
 
 0. Download the 3 Excel files from here: [Wampa data](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/R2D2_missions/stage_1_data) 
-1. Open each Excel file and save it as a.CSV file *(in latter trainings you we'll learn how to read data directly from Excel or other data sources)*
+1. Open each Excel file and save it as a.CSV file *(in latter trainings you we'll learn how to read data directly from Excel & other data sources)*
     - <img src="https://cdn4syt-solveyourtech.netdna-ssl.com/wp-content/uploads/2016/03/excel-2013-save-as-csv-4.jpg" width="60%" >
     - Save the 3 .CSV files to your project's `data` folder.
 2. Read each of these 3 CSV files into R using `read_csv()`
