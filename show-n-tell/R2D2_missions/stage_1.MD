@@ -44,6 +44,7 @@ library(dplyr)
 5. Use `summary()` to find the hour of day with the highest amount of **"time_spent_out_hunting"**. 
     - Hopefully Luke was caught by a very predictable wampa. 
 
+<br>
 
 **Final step:** Clap 5 times.  :clap::clap::clap::clap::clap: Out loud. For real. We are watching.
 
