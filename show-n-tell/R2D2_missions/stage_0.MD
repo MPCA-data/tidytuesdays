@@ -28,8 +28,7 @@ with caution to prevent the Empire from discovering your identity.
       - Use `#` to add a comment with today’s date
 2.  Droid name
       - Create a new object called `nickname`
-      - Use it to store your droid’s name as a text string of 7 or less
-        characters
+      - Use it to store your droid’s name as a text string with 3-6 characters
 3.  Model type
       - Create an object called `droid_model`
       - Save the name of the droid model you would like *(e.g. "R2D2" or "BB8")*
