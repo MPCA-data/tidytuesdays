@@ -27,7 +27,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Feb 16 | [ggplot2 charts - `3\|`]((https://mpca-air.github.io/RTrain4/01-Day1.html) | | R and R Studio Tips and Tricks/Best Practices -- | 38 `pts` |
+| Feb 16 | [ggplot2 charts - `3\|`](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R and R Studio Tips and Tricks/Best Practices -- | 38 `pts` |
 | Feb 23 | | | Keeping tables and figures organized in R notebooks. Bruce Monson & Make your first RMarkdown Dorian  -- | 28 `pts` |
 | Mar 2 | | |Finding Carmen Sandiego! the sf package: distances, buffers and intersections - Kristie  -- | 48 `pts` |
 | Mar 9 | | |Plotly vs Leaflet Ultimate MashUp Barbara and Dorian  -- | 18 `pts` |
