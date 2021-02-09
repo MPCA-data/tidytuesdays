@@ -28,6 +28,7 @@ library(dplyr)
 1. Open each Excel file and save it as a.CSV file *(in latter trainings you we'll learn how to read data directly from Excel & other data sources)*
     - <img src="https://cdn4syt-solveyourtech.netdna-ssl.com/wp-content/uploads/2016/03/excel-2013-save-as-csv-4.jpg" width="60%" >
     - Save the 3 .CSV files to your project's `data` folder.
+    - Click `Yes` if Excel trys to warn you about yada-yada...
 2. Read each of these 3 CSV files into R using `read_csv()`
 3. Bind the first 2 data sets together into a single data frame with `bind_rows()`
 4. Use `bind_rows` one more time to bind this new data frame to the 3rd week of data 
