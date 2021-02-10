@@ -14,7 +14,7 @@ with caution to prevent the Empire from discovering your identity.
 
 **Setup**
 
-1.  Create a R project called `stage_0`
+1.  Create a new R project called `stage_0`
 
 ![](https://d33wubrfki0l68.cloudfront.net/0fa791e2621be297cb9c5cac0b2802223e3d7714/57d89/screenshots/rstudio-project-2.png)
 
