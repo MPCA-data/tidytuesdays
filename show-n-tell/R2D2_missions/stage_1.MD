@@ -38,7 +38,7 @@ library(dplyr)
     - Save the 2 CSV files to your project's `data` folder.
     - Keep clicking `Yes` if Excel trys to warn you about...losing formatting...yada-yada...
 2. Read each of the CSV files into R using `read_csv()`
-3. Use `bind_rows()` to combine the first 2 data sets together into a single data frame:
+3. Use `bind_rows()` to combine the 2 data sets into a single table:
     - `all_data <- bind_rows(week1, week2)`
     - *This will be your super "ALL the data" table*
 4. Use `summary()` to find the hour of day with the highest amount of **"time_spent_out_hunting"**. 
