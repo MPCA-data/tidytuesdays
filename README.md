@@ -24,6 +24,10 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
  
 <br>
 
+Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2D2_rescue_mission/)** 
+
+<br>
+
 ### Upcoming 
 |      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
