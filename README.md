@@ -27,7 +27,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Feb 23 | [Data exploration:: dplyr](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. Bruce Monson & Make your first RMarkdown Dorian  -- | 28 `pts` |
+| Feb 23 | [dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. Bruce Monson & Make your first RMarkdown Dorian  -- | 28 `pts` |
 | Mar 2 | | |Finding Carmen Sandiego! the sf package: distances, buffers and intersections - Kristie  -- | 48 `pts` |
 | Mar 9 | | |Plotly vs Leaflet Ultimate MashUp Barbara and Dorian  -- | 18 `pts` |
 | Mar 16 | | |Attempts and Foibles at machine learning in R Barbara and Kristie  -- | 58 `pts` |
