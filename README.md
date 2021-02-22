@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Feb 23 | [dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce | 28 `pts` |
+| Feb 23 | [Intro to dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce | 28 `pts` |
 
 <br>
 
