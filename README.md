@@ -14,9 +14,9 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ### Up Next
 
-|      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
+|      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Feb 16 | [ggplot2 & Charts](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R Tips and Tricks/Best Practices -- | 38 `pts` |
+| Feb 23 | [dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce | 28 `pts` |
 
 <br>
 
@@ -31,23 +31,24 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 <br>
 
 ### Upcoming 
-|      | :coffee: Morning training |  Mission assigned |:tada:Show-n-tell | :candy: `sugaR pts`  | 
+|      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Feb 23 | [dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. Bruce Monson & Make your first RMarkdown Dorian  -- | 28 `pts` |
-| Mar 2 | | |Finding Carmen Sandiego! the sf package: distances, buffers and intersections - Kristie  -- | 48 `pts` |
-| Mar 9 | | |Plotly vs Leaflet Ultimate MashUp Barbara and Dorian  -- | 18 `pts` |
-| Mar 16 | | |Attempts and Foibles at machine learning in R Barbara and Kristie  -- | 58 `pts` |
-| Mar 23 | | |Pipes, dots and other magrittr operators 'That dot that Derek uses'  -- | 78 `pts` |
-| Mar 30 | | | Searching for emails - Derek  -- | 100 `pts` |
-| Apr 6 | | | Journal articles in R Kristie  -- | 14 `pts` |
-| Apr 13 | --|-- | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  -- | 14 `pts` |
-| Apr 20 | | |sqlite databases in R Barbara  -- | 14 `pts` |
+| Mar 2 | | | Finding Carmen Sandiego! the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
+| Mar 9 | | | Plotly vs Leaflet Ultimate MashUp Barbara and Dorian  | 18 `pts` |
+| Mar 16 | | | Attempts and Foibles at machine learning in R -Barbara and Kristie   | 58 `pts` |
+| Mar 23 | | | Make your first R Markdown document -Dorian  | 0 `pts` |
+| Mar 30 | | | Searching for emails -Derek   | 100 `pts` |
+| Apr 6 | | | Journal articles in R -Kristie   | 14 `pts` |
+| Apr 13 | --|-- | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | 14 `pts` |
+| Apr 20 | | | `sqlite` databases in R -Barbara  | 14 `pts` |
+| Apr 27 | | | Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
 
 <br>
 
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- | 
+| Feb 16 | [ggplot2 & Charts](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R Tips and Tricks/Best Practices -- | 38 `pts` |
 | Feb 9 | [Read data & CSVs](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: Wampas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_missions/stage_1.MD#stage-1---a-wampa-rumpus) | [R2D2 - R training tracker](https://mpca-data.github.io/R2D2_rescue_mission/) |  68 `pts` |
 | Feb 2 | [RStudio: Project setup](https://mpca-air.github.io/RTrain4/01-Day1.html#why_r) | [Stage 0: Start Here](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_tracker/stage_0.MD#start-here) | Bootstrapping :boot: your 95% confidence intervals - Derek|  8 `pts` |
 | Jan 26 | :tada::tada::balloon: 1-Year ANNIVERSARY! Group Celebration time :cake::tada::tada:   | -- | 444 `pts` |
