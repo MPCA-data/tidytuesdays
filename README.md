@@ -26,7 +26,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2D2_rescue_mission/)** 
 
-<a href="https://mpca-data.github.io/R2D2_rescue_mission/"><img src="images/R2D2_board.png" width="45%"></a>
+<a href="https://mpca-data.github.io/R2D2_rescue_mission/"><img src="https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/images/R2D2_board.png" width="45%"></a>
 
 <br>
 
