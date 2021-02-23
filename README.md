@@ -33,7 +33,7 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Mar 2 | | | Finding Carmen Sandiego! the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
+| Mar 2 | [More dplyr :: Data manipulation](https://mpca-air.github.io/RTrain4/02_Day2.html | | Finding Carmen Sandiego! the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
 | Mar 9 | | | Plotly vs Leaflet Ultimate MashUp Barbara and Dorian  | 18 `pts` |
 | Mar 16 | | | Attempts and Foibles at machine learning in R -Barbara and Kristie   | 58 `pts` |
 | Mar 23 | | | Make your first R Markdown document -Dorian  | 0 `pts` |
