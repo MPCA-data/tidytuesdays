@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Mar 2 | [More dplyr :: Data manipulation](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Finding Carmen Sandiego! the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
+| Mar 2 | [More dplyr :: Data manipulation](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
 
 <br>
 
