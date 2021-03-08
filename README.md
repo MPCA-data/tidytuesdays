@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Mar 2 | [More dplyr :: Data manipulation](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
+| Mar 9 | [dplyr :: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
 
 <br>
 
@@ -33,8 +33,7 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Mar 9 | [dplyr :: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Plotly and Leaflet Mash-Up -Barbara and Dorian  | 18 `pts` |
-| Mar 16 | | | Attempts and Foibles at machine learning in R -Barbara and Kristie   | 58 `pts` |
+| Mar 16 | | | Plotly and Leaflet Mash-Up -Barbara and Dorian   | 18 `pts` |
 | Mar 23 | | | Make your first R Markdown document -Dorian  | 0 `pts` |
 | Mar 30 | | | Searching for emails -Derek   | 100 `pts` |
 | Apr 6 | | | Journal articles in R -Kristie   | 14 `pts` |
@@ -46,7 +45,8 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
-| ---  | --- | --- | --- | 
+| ---  | --- | --- | --- |
+| Mar 2 | [More dplyr :: Data manipulation](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
 | Feb 23 | [Intro to dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce M. | 28 `pts` |
 | Feb 16 | [ggplot2 & Charts](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R Tips and Tricks/Best Practices -- | 38 `pts` |
 | Feb 9 | [Read data & CSVs](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: Wampas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_missions/stage_1.MD#stage-1---a-wampa-rumpus) | [R2D2 - R training tracker](https://mpca-data.github.io/R2D2_rescue_mission/) |  68 `pts` |
