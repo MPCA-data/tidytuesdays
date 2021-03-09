@@ -1,2 +1,2 @@
-# Stage 2 |  AT-AT Interference
+# Stage 2 |  AT-AT Frequencies
 
