@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Mar 9 | [dplyr :: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
+| Mar 9 | [dplyr:: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
 
 <br>
 
@@ -33,8 +33,8 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Mar 16 | [dplyr :: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) - Adding calculations & new columns | | Plotly and Leaflet Mash-Up -Barbara and Dorian   | 18 `pts` |
-| Mar 23 | [dplyr :: Data more mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Make your first R Markdown document -Dorian  | 0 `pts` |
+| Mar 16 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) - Adding calculations & new columns | | Plotly and Leaflet Mash-Up -Barbara and Dorian   | 18 `pts` |
+| Mar 23 | [dplyr:: More mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Make your first R Markdown document -Dorian  | 0 `pts` |
 | Mar 30 | | | Searching for emails -Derek   | 100 `pts` |
 | Apr 6 | | | Journal articles in R -Kristie   | 14 `pts` |
 | Apr 13 | --|-- | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | 14 `pts` |
