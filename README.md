@@ -62,6 +62,14 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 | Nov 10 | Day of Dates and Timezones - Dorian | [Dates](https://forms.gle/YutRu6RfnVGJRo3y9)  | 1.1 `pts` |
 | Nov 3 | [Regular expressions `regex` 101](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/stringr_regex_tutorial.md) - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8)  | +novemdecillion `pts` |
 | Oct 27 | :ghost: [Halloween exercise](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Hallows_Eve.MD#2020--trick-or-treat): Text mining candy / scary movie data  | Everyone | +1031 `pts`|
+
+<br>
+
+<details>
+<summary> <b> Older topics </b></summary>
+  
+| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
+| ---  | --- | --- | --- |  
 | Oct 20 | Time series forecasting :chart_with_downwards_trend:  | Barbara | +2050 `pts`|
 | Oct 13 | Group exercise: TidyTuesday data dive [Warmup with Porgs](https://itep-r.netlify.app/page/day2_am.html#porg-review).    Data at `read_csv("https://itep-r.netlify.com/data/porg_data.csv")`  | Everyone | +1000 `pts`|
 | Oct 6 | Questions and Andrea's Shiny tool | Andrea | +2000 `pts` |   
@@ -78,14 +86,6 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 | Jul 21 | [Get data from TEMPO or OnBase and score the similarity of names](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/tidytuesday_stringdist.R): [`stringdist()`](https://github.com/markvanderloo/stringdist)  (Derek)  | | +1264 `pts`|
 | Jul 14 | Introduction to Biological Monitoring program (Joel C) | Bugs! :beetle: Generalized Linear Models (Carl S)| +300 `pts` | 
 | Jun 23 | [Checking for differences](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/reading_files/Waldo_Compare_files_Find_differences.Md) w/ the `waldo` pkg: [`compare()`](https://github.com/r-lib/waldo#installation) _(Dorian)_| [Pear programming puzzles](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/pair_programming.md) _(everyone)_ |  +100 `pts` |  
-
-<br>
-
-<details>
-<summary> <b> Older topics </b></summary>
-  
-| Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy: Bonus <br> `sugaR pts`  |   
-| ---  | --- | --- | --- |  
 | Jun 16 | [MDH shares: Grouping data frames in a list & date intervals](https://github.com/MPCA-data/tidytuesdays/blob/master/help/insurance_data/function_list_to_df.md) _(Jennifer)_ | Mapping HUGE Raster layers _(Min)_ |  +100 `pts` |   
 | Jun 09 | Barbara connects to GIS Rest API services - You can too! | |  +100 `pts` | 
 | Jun 02 | Zipping, factors, date joins and more Kristie tips _(Kristie)_ |  |   | 
@@ -113,7 +113,8 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
-| Jan 21-12 | Live talks | RStudio::global conference | [RStudio::global 2021](https://global.rstudio.com/student/catalog/list?category_ids=1752-visualisation)|  |
+| Jan 15, 2021 | Recording | aRt + ggplot: exploring radial visualizations + `coord_polar()` | [aRt + ggplot w/ Ijeamaka Anyene](https://www.youtube.com/watch?v=h0i6KAahLY8)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
+| Jan 21-12 | Live talks | RStudio:: global conference | [RStudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)|  |
 | Jul 07-17 | Recordings | useR! 2020: Intl. R user conference | [useR 2020](https://user2020.r-project.org/program/agenda/)|  |
 | Jul 14-15 | 9:00-1pm | MN's R North Conference| [noRth 2020](https://rnorthconference.github.io/#about)|  |
 | May 14 | 6:30-8pm | Multi-level Modeilng : Twin Cities RLadies| [Online Meetup](https://www.meetup.com/rladies-tc/events/268384963/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGQ5NTI4ZDA3LTcxYjctNDY4MS04NWEzLWFkZDZkZmZjZWI3OA)| [TC R Ladies](https://www.meetup.com/rladies-tc) |
