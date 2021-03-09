@@ -113,6 +113,7 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
+| Feb 25, 2021 | Recording | ggplot - Take a Sad Plot & Make it Better w/ Alison Hill | [Take a Sad Plot & Make it Better](https://www.youtube.com/watch?v=JeRRSGWODBQ)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
 | Jan 15, 2021 | Recording | aRt + ggplot: exploring radial visualizations + `coord_polar()` | [aRt + ggplot w/ Ijeamaka Anyene](https://www.youtube.com/watch?v=h0i6KAahLY8)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
 | Jan 21-12 | Live talks | RStudio:: global conference | [RStudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)|  |
 | Jul 07-17 | Recordings | useR! 2020: Intl. R user conference | [useR 2020](https://user2020.r-project.org/program/agenda/)|  |
