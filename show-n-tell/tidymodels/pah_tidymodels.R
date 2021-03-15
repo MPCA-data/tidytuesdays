@@ -6,7 +6,7 @@ library(extdplyr)
 library(plotly)
 
 tidymodels_packages()
-tidyverse_packages() %>% subset(. %in% tidymodels_packages())
+tidyverse_packages() %>% intersect(tidymodels_packages())
 
 pah_data <- read_csv("https://github.com/MPCA-data/tidytuesdays/raw/master/show-n-tell/tidymodels/data/profiles.csv")
 
