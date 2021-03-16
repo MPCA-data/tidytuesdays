@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Mar 9 | [dplyr:: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
+| Mar 16 | [dplyr:: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
 
 <br>
 
@@ -46,6 +46,7 @@ Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |
+| Mar 9 | [dplyr:: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
 | Mar 2 | [More dplyr :: Data manipulation](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
 | Feb 23 | [Intro to dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce M. | 28 `pts` |
 | Feb 16 | [ggplot2 & Charts](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R Tips and Tricks/Best Practices -- | 38 `pts` |
