@@ -50,7 +50,7 @@ bake(recipe, train) %>% skim()
 View(model_db)
 
 #Use kth nearest neighbor model from kknn package
-model <- nearest_neighbor() %>%
+model <- nearest_neighbor(round(sqrt(nrow(train)))) %>%
   set_mode("classification") %>%
   set_engine("kknn")
 
