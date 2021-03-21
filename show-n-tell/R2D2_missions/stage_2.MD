@@ -55,9 +55,13 @@ new_data <- select(your_data, _______, everything())
 
 <br>
 
-4. Good work! We also don't need the `planet` column for this, so add a new `select()` statement to your script. This time put a minus sign in front of `planet` to drop the column. 
+4. Good work! Now we won't need the `planet` column for this task, so let's add another `select()` statement to your script. This time put a minus sign in front of `planet` to drop the column. 
 
     -   HINT: You won't need to use `everything()` when dropping columns. R will assume you want to keep the remaining columns if you use a minus sign in the select function.
+    
+``` go
+new_data <- select(new_data, - __________ ) 
+``    
     
 <br>
 
