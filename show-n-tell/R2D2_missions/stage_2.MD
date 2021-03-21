@@ -82,7 +82,7 @@ new_data <- arrange(new_data, _______)
 
 7.  Now we only want to keep the columns labeled as **"AT-AT-"** to hone in on the frequencies for the larger machines.
 
-    -   Use `select()` and `contain()` to select the `date` column first, and then include only those columns that contain the phrase `"AT-AT-"` .
+    -   Use `select()` and `contain()` to select the `date` column first, and then only those columns that contain the text `"AT-AT-"` .
 
     -   As a refresher, if we only wanted columns that contained the text *"ppm"*, we could write the following:
 
