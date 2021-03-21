@@ -112,7 +112,7 @@ new_data <- arrange(new_data, _______)
 <br>
 
 **Final step**   
-Clap 3 times. :clap::clap::clap: Out loud. You deserve it!
+Clap out loud 5 times. :clap::clap::clap: You deserve it! 
 
 <br>
 
