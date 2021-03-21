@@ -61,7 +61,7 @@ new_data <- select(your_data, _______, everything())
     
 ``` go
 new_data <- select(new_data, - __________ ) 
-``    
+```    
     
 <br>
 
