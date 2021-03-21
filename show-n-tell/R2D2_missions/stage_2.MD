@@ -84,10 +84,10 @@ new_data <- arrange(new_data, _______)
 
     -   Use `select()` and `contain()` to select the `date` column first, and then only those columns that contain the text `"AT-AT-"` .
 
-    -   As a refresher, if we only wanted columns that contained the text "ppm" we would write the following:
+    -   As a refresher, we'd write the following if we only wanted columns that contained the text "ppm":
 
 ``` python
-select(new_data, date, contains("ppm"))
+new_data <- select(new_data, date, contains("ppm"))
 ```
 
 <br>
