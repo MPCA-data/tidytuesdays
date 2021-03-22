@@ -24,10 +24,10 @@
 
 ### Required packages
 
-``` go
-library(readr)
-library(dplyr)
-```
+> ``` go
+> library(readr)
+> library(dplyr)
+> ```
 
 ### Instructions
 
@@ -48,9 +48,9 @@ library(dplyr)
 
     -  HINT: You don't need quotes around your column name. It will look something like this:
 
-``` go
-new_data <- select(your_data, _______, everything())
-```
+> ``` go
+> new_data <- select(your_data, _______, everything())
+> ```
 
 <br>
 
@@ -58,9 +58,9 @@ new_data <- select(your_data, _______, everything())
 
     -   HINT: You won't need to use `everything()` when dropping columns. R will assume you want to keep the remaining columns if you use a minus sign in the select function.
     
-``` go
-new_data <- select(new_data, - __________ ) 
-```    
+> ``` go
+> new_data <- select(new_data, - __________ ) 
+> ```    
     
 <br>
 
@@ -68,9 +68,9 @@ new_data <- select(new_data, - __________ )
 
     -   HINT: It will look something like this:
 
-``` python
-new_data <- arrange(new_data, _______)
-```
+> ``` python
+> new_data <- arrange(new_data, _______)
+> ```
 
 <br>
 
@@ -85,9 +85,9 @@ new_data <- arrange(new_data, _______)
 
     -   As a refresher, we'd write the following if we only wanted columns that contained the text "ppm":
 
-``` python
-new_data <- select(new_data, date, contains("ppm"))
-```
+> ``` python
+> new_data <- select(new_data, date, contains("ppm"))
+> ```
 
 <br>
 
