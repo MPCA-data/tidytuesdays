@@ -124,6 +124,6 @@ Please send us your script and recommendation for the two frequencies to use to 
 
 <br>
 
-> Thank you friend,
+Thank you friend,
 >
 > *-the Alliance*
