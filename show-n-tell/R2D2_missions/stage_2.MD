@@ -93,12 +93,13 @@
 
 8. You should be down to about 11 columns now. That is good because we are desperately running out of time. **Let's see which frequencies are used most often.**
 
-    - Use the `unlist()` and `table()` functions to count how often each frequency shows up in the data.
+    - This is a preview of two functions we will cover later in your training. Update the code below with your data name to use the `pivot_longer()` and `count()` functions to show how often each radio frequency appears in the data.
     
-    - HINT: Here's an example if your data is named `new_data`
+    - **`CODE  `**  Here's the code if your data were named `new_data`:
     
 > ``` .go
-> table(unlist(new_data))  
+> data_count <- pivot_longer(new_data, -date) %>%
+>               count(value, sort = TRUE)   
 > ```
 >     
 
