@@ -96,13 +96,7 @@ new_data <- select(new_data, date, contains("ppm"))
 
 >    - Use the `unlist()` and `table()` function to see which frequencies show up most often in the data.
 >    
->    - HINT: Here's an example using the pipe (`%>%`)
->
-> ``` .go
-> new_data %>% unlist() %>% table() 
-> ```
->
->    - And here's the same code written without the `%>%`
+>    - HINT: Here's an example if your data is named `new_data`
 >    
 > ``` .go
 > table(unlist(new_data))  
