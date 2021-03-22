@@ -95,7 +95,7 @@
 
     - This is a preview of two functions we will cover later in your training. Update the code below with your data name to use the `pivot_longer()` and `count()` functions to show how often each radio frequency appears in the data.
     
-    - **`CODE  `**  Here's the code if your data were named `new_data`:
+    - **`CODE  `**  This is the example code if your data were named `new_data`:
     
 > ``` .go
 > data_count <- pivot_longer(new_data, -date) %>%
