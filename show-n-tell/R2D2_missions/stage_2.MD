@@ -118,7 +118,7 @@ new_data <- select(new_data, date, contains("ppm"))
 <br>
 
 **Final step**   
-Clap out loud 5 times. :clap::clap::clap::clap::clap: You deserve it! 
+Clap out loud 5X :clap::clap::clap::clap::clap:. You deserve it! 
 
 <br>
 
