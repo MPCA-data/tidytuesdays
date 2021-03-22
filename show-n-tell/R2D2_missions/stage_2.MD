@@ -31,11 +31,10 @@ library(dplyr)
 
 ### Instructions
 
-1.  Use `read_csv()` to read the radio data from:
+1.  Use `read_csv()` to read the radio data:
 
     -   <https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/R2D2_missions/stage_2_data/ATAT_radio_7162.csv>
 
-    -   Give the dataframe an easy name to type
 
 <br>
 
