@@ -112,13 +112,13 @@ new_data <- select(new_data, date, contains("ppm"))
 
 9. What did you find? Note the 2 frequencies that occurred the most often as comments at the end of your script file.
 
-    -   `#1. x?????? `
-    -   `#2. x?????? `
+    -   `#1. x??? `
+    -   `#2. x??? `
 
 <br>
 
 **Final step**   
-Clap out loud 5 times. :clap::clap::clap: You deserve it! 
+Clap out loud 5 times. :clap::clap::clap::clap::clap: You deserve it! 
 
 <br>
 
