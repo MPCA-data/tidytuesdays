@@ -93,8 +93,8 @@ new_data <- select(new_data, date, contains("ppm"))
 
 8. You should be down to about 11 columns now. That is good because we are desperately running out of time. 
 
-Let's see which frequencies are being used most often. 
-
+> **Let's see which frequencies are being used most often.**
+>
 >    - Use the `unlist()` and `table()` functions to count how often each frequency shows up in the data.
 >    
 >    - HINT: Here's an example if your data is named `new_data`
