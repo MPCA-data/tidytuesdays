@@ -41,10 +41,10 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- | 
+| Mar ** | | | Searching for emails -Derek   | 100 `pts` |
 | Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Make your first R Markdown document -Dorian  | 0 `pts` |
 | Apr ** | | | Journal articles in R -Kristie   | 14 `pts` |
 | Apr ** | [dplyr:: More mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) - Adding calculations & new columns | | Plotly and Leaflet Mash-Up -Barbara and Dorian   | 18 `pts` |
-| Apr ** | | | Searching for emails -Derek   | 100 `pts` |
 | Apr 13 | --|-- | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | 14 `pts` |
 | Apr 20 | | | `sqlite` databases in R -Barbara  | 14 `pts` |
 | Apr 27 | | | Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
