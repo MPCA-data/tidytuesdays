@@ -41,8 +41,8 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- | 
-| Apr 06 | [dplyr:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | |My first R Markdown document | 14 `pts` |
-| Apr 13 | [dplyr:: Grouping and summarizing data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | 14 `pts` |
+| Apr 06 | [dplyr:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | My first R Markdown document | 14 `pts` |
+| Apr 13 | [dplyr:: Grouping and summarizing data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | | 14 `pts` |
 | Apr 20 | | | `sqlite` databases in R -Barbara  | 14 `pts` |
 | Apr 27 | | | Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
 | May 04 | | | Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
