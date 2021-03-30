@@ -51,7 +51,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Mar 23 | [dplyr:: Filtering data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
+| Mar 23 | [dplyr:: filter() data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
 | Mar 16 |  | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
 | Mar 9 | [dplyr:: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
 | Mar 2 | [More dplyr :: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
