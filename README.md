@@ -41,9 +41,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- | 
-| Mar 23 | [dplyr:: Filtering data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
-| Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Make your first R Markdown document -Dorian  | 0 `pts` |
-| Apr 06 | [dplyr:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html)| |Make my first RMarkdown | 14 `pts` |
+| Apr 06 | [dplyr:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html)| |My first R Markdown document | 14 `pts` |
 | Apr 13 | [dplyr:: Grouping and summarizing data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | 14 `pts` |
 | Apr 20 | | | `sqlite` databases in R -Barbara  | 14 `pts` |
 | Apr 27 | | | Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
@@ -53,6 +51,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |
+| Mar 23 | [dplyr:: Filtering data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
 | Mar 16 | [dplyr:: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
 | Mar 9 | [dplyr:: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
 | Mar 2 | [More dplyr :: Data manipulation](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
