@@ -41,8 +41,8 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- | 
-| Mar 23 | [dplyr:: Filtering data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
-| Mar ** | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Make your first R Markdown document -Dorian  | 0 `pts` |
+| Apr ** | [dplyr:: Filtering data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
+| Apr ** | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Make your first R Markdown document -Dorian  | 0 `pts` |
 | Apr ** | | | Journal articles in R -Kristie   | 14 `pts` |
 | Apr ** | [dplyr:: More mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) - Adding calculations & new columns | | Plotly and Leaflet Mash-Up -Barbara and Dorian   | 18 `pts` |
 | Apr 13 | --|-- | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | 14 `pts` |
