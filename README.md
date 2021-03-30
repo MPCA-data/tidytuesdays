@@ -41,14 +41,13 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- | 
-| Apr ** | [dplyr:: Filtering data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
-| Apr ** | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Make your first R Markdown document -Dorian  | 0 `pts` |
-| Apr ** | | | Journal articles in R -Kristie   | 14 `pts` |
-| Apr ** | [dplyr:: More mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) - Adding calculations & new columns | | Plotly and Leaflet Mash-Up -Barbara and Dorian   | 18 `pts` |
-| Apr 13 | --|-- | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | 14 `pts` |
+| Mar 23 | [dplyr:: Filtering data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
+| Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Make your first R Markdown document -Dorian  | 0 `pts` |
+| Apr 06 | [dplyr:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html)| |Make my first RMarkdown | 14 `pts` |
+| Apr 13 | [dplyr:: Grouping and summarizing data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | 14 `pts` |
 | Apr 20 | | | `sqlite` databases in R -Barbara  | 14 `pts` |
 | Apr 27 | | | Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
-
+| May 04 | | | Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
 <br>
 
 ### Past
