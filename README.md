@@ -52,9 +52,9 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |
 | Mar 23 | [dplyr:: Filtering data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
-| Mar 16 | [dplyr:: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
-| Mar 9 | [dplyr:: Data filtering](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
-| Mar 2 | [More dplyr :: Data manipulation](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
+| Mar 16 |  | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
+| Mar 9 | [dplyr:: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
+| Mar 2 | [More dplyr :: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
 | Feb 23 | [Intro to dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce M. | 28 `pts` |
 | Feb 16 | [ggplot2 & Charts](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R Tips and Tricks/Best Practices -- | 38 `pts` |
 | Feb 9 | [Read data & CSVs](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: Wampas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_missions/stage_1.MD#stage-1---a-wampa-rumpus) | [R2D2 - R training tracker](https://mpca-data.github.io/R2D2_rescue_mission/) |  68 `pts` |
