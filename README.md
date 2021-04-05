@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | | Searching for emails -Derek   | 100 `pts` |
+| Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | My 1st R Markdown document | 14 `pts` |
 
 ``` .go
 library(tidyverse)
@@ -41,7 +41,6 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- | 
-| Apr 06 | [dplyr:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | My first R Markdown document | 14 `pts` |
 | Apr 13 | [dplyr:: group_by() and summarize() data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | | 14 `pts` |
 | Apr 20 | | | `sqlite` databases in R -Barbara  | 14 `pts` |
 | Apr 27 | | | Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
@@ -51,6 +50,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Past
 |      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
 | ---  | --- | --- | --- |
+| Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | | Searching for emails -Derek   | 100 `pts` |
 | Mar 23 | [dplyr:: filter() data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
 | Mar 16 |  | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
 | Mar 9 | [dplyr:: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
