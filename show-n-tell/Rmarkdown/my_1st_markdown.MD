@@ -52,7 +52,7 @@ ggweek_planner(
   labs(title = "My Yellowstone Trip")
 ```
 
-My vacation will be starting on `r`start`. Better start packing on`r as.Date(start) - 1\`!
+My vacation will be starting on `r start`. Better start packing on `r as.Date(start) - 1\`!
 
 
 
