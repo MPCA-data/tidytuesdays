@@ -15,7 +15,7 @@ output:
 
 > [Changing data: A Reproducible workflow](https://youtu.be/s3JldKoA0zw)
 
-## 3. Why slides
+## 3. But why?
 
 -   <https://slides.djnavarro.net/starting-rmarkdown/#17>
 
