@@ -18,12 +18,6 @@ Each week features a new data set to explore. Come see examples of how others cl
 | ---  | --- | --- | --- | --- |  
 | Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | My 1st R Markdown document | 14 `pts` |
 
-``` .go
-library(tidyverse)
-
-porgs <- read_csv("https://itep-r.netlify.com/data/porg_data.csv")
-```
-
 <br>
 
 Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
