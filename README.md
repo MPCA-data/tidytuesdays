@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | My 1st R Markdown document | 14 `pts` |
+| Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | [My 1st R Markdown document](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/Rmarkdown/my_1st_markdown.MD) | 14 `pts` |
 
 <br>
 
