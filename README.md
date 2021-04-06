@@ -121,6 +121,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
+| May 6- May 8th | Live Virtual Conference | Questions of Reproducibility in an Age of Big Data ($75) | [Register w/ UMN](https://irsa.umn.edu/session/questions-about-reproducibility)| IRSA |
 | Feb 25, 2021 | Recording | ggplot - Take a Sad Plot & Make it Better w/ Alison Hill | [Take a Sad Plot & Make it Better](https://www.youtube.com/watch?v=JeRRSGWODBQ)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
 | Jan 15, 2021 | Recording | aRt + ggplot: exploring radial visualizations + `coord_polar()` | [aRt + ggplot w/ Ijeamaka Anyene](https://www.youtube.com/watch?v=h0i6KAahLY8)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
 | Jan 21-12 | Live talks | RStudio:: global conference | [RStudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)|  |
