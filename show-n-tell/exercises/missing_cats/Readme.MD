@@ -1,6 +1,6 @@
-# NOTICE: :cat2: Pet Detectives Needed 
+# Pet Detectives Needed   :cat2: :cat2: :cat2:
 
-Our shelter, **The Meow House**, has started overflowing with found cats. It's time to recruit more Agents to help us get these cats back home. 
+Our shelter, **The Meow House**, is overflowing with found cats. We're recruiting more detectives to help us get these cats back home. 
 
 <br>
 
