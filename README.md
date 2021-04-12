@@ -59,7 +59,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 
 <details>
-<summary> <b> Older topics </b></summary>
+<summary> <b> See older topics </b></summary>
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- |  
@@ -141,10 +141,17 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | 2021 | Presentation | aRt + ggplot: exploring radial visualizations + `coord_polar()` | [aRt + ggplot w/ Ijeamaka Anyene](https://www.youtube.com/watch?v=h0i6KAahLY8)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
 | 2021 | Live talks | RStudio:: global conference | [RStudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)|  |
 | 2020| Conference | useR! 2020: Intl. R user conference | [useR 2020](https://user2020.r-project.org/program/agenda/)|  |
+
+<details>
+<summary> <b> See more </b></summary>
+ 
+| Year | Event  | Topic | Event link | Group webpage |  
+| ---  | --- | --- | --- | --- |
 | 2020 | Workshop | Intro to R : MARAMA | [Intro to R](https://register.gotowebinar.com/recording/979473951571635467); [tidyverse](https://register.gotowebinar.com/recording/3300678235076032514); [ggplot](https://register.gotowebinar.com/register/2580834570751859715) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
 | 2020 | Workshop | Plot anything w/ ggplot - Online workshop | [ggplot workshop](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) |  | 
 | 2020 | Conference |  RStudio Conf 2020 - Recordings available | [RStudio 2020](https://resources.rstudio.com/rstudio-conf-2020)  |   https://resources.rstudio.com   |
 
+</details>
 
 <br>
 
