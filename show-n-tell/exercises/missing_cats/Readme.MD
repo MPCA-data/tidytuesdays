@@ -1,4 +1,4 @@
-# NOTICE: Pet Detectives Needed 🐈
+# NOTICE: :cat2: Pet Detectives Needed 
 
 Our shelter, **The Meow House**, has started overflowing with found cats. It's time to recruit more Agents to help us get these cats back home. 
 
@@ -12,7 +12,7 @@ Our shelter, **The Meow House**, has started overflowing with found cats. It's t
 
 NM. It doesn't matter. Just take one. 
 Get to know its personality traits and determine its age roughly, and then consult the BIG missing cat list to help find the cat's worried owner.
-They will be oh so forever grateful. 😻
+They will be oh so forever grateful. :heart_eyes_cat:
 
 
 > Folder of Meow House cats: []()
