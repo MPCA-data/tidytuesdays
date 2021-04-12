@@ -9,14 +9,15 @@ Our cat shelter **The Meow House** is overflowing with found cats and we're recr
 <br>
 
 >
-> Will you help us? 
+> Will you help us? Nevermind, we are putting you on the case anyways. Here's a cat! 
 >
  
 <br>
 
-Nevermind, we are putting you on the case anyways. Here's a cat!
 
-Get to know its personality traits and determine its age as best you can. Then consult the BIG missing cat list to help find the cat's worried owner.
+** Instructions **
+
+1. Get to know its personality traits and determine its age as best you can. Then consult the BIG missing cat list to help find the cat's worried owner.
 They will be oh so forever grateful. :heart_eyes_cat:
 
 
