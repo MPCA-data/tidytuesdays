@@ -64,19 +64,19 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- |  
 | Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | [My 1st R Markdown document](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/Rmarkdown/my_1st_markdown.MD) | 14 `pts` |
-| Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | | Searching for emails -Derek   | 100 `pts` |
-| Mar 23 | [dplyr:: filter() data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
-| Mar 16 |  | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
-| Mar 9 | [dplyr:: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
-| Mar 2 | [More dplyr :: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
-| Feb 23 | [Intro to dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce M. | 28 `pts` |
-| Feb 16 | [ggplot2 & Charts](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R Tips and Tricks/Best Practices -- | 38 `pts` |
+| Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | Searching for emails -Derek   | 100 `pts` |
+| Mar 23 | [dplyr:: filter() data](https://mpca-air.github.io/RTrain4/02_Day2.html) | Group - All hands on deck filter time -Dorian  | 0 `pts` |
+| Mar 16 |  | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
+| Mar 9 | [dplyr:: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | Messy data contest - Barbara wins :trophy: | 58 `pts` |
+| Mar 2 | [More dplyr :: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
+| Feb 23 | [Intro to dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | Keeping tables and figures organized in R notebooks. --Bruce M. | 28 `pts` |
+| Feb 16 | [ggplot2 & Charts](https://mpca-air.github.io/RTrain4/01-Day1.html) | R Tips and Tricks/Best Practices -- | 38 `pts` |
 | Feb 9 | [Read data & CSVs](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: Wampas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_missions/stage_1.MD#stage-1---a-wampa-rumpus) | [R2D2 - R training tracker](https://mpca-data.github.io/R2D2_rescue_mission/) |  68 `pts` |
 | Feb 2 | [RStudio: Project setup](https://mpca-air.github.io/RTrain4/01-Day1.html#why_r) | [Stage 0: Start Here](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_tracker/stage_0.MD#start-here) | Bootstrapping :boot: your 95% confidence intervals - Derek|  8 `pts` |
-| Jan 26 | :tada::tada::balloon: 1-Year ANNIVERSARY! Group Celebration time :cake::tada::tada:   | -- | 444 `pts` |
-| Jan 19 | 1-yr Celebration plan & Publication ready Tables - Barbara | -- | 244 `pts` |
-| Jan 12 |  [ggplot review](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Stars_and_galaxy_plot.MD) - Plotting with stars and [_patchwork_](https://patchwork.data-imaginist.com/) - Dorian | -- | 244 `pts` |
-| Jan 05 | R Resolutions: Learning goals for 2021 - Kristie & [Send E-mails with R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/emails/R%20send%20email.R) - Derek | -- | 144 `pts` |  
+| Jan 26 | :tada::tada::balloon: 1-Year ANNIVERSARY! Group Celebration time :cake::tada::tada:   |  | 444 `pts` |
+| Jan 19 | 1-yr Celebration plan & Publication ready Tables - Barbara |  | 244 `pts` |
+| Jan 12 |  [ggplot review](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Stars_and_galaxy_plot.MD) - Plotting with stars and [_patchwork_](https://patchwork.data-imaginist.com/) - Dorian | | 244 `pts` |
+| Jan 05 | R Resolutions: Learning goals for 2021 - Kristie & [Send E-mails with R](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/emails/R%20send%20email.R) - Derek |  | 144 `pts` |  
 | Dec 15 | [Survey Analysis w/ MPCA's Travel survery](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/survey_data/commuter_survey_analysis.R) - Laura & Derek | -- | 650 `pts` |
 | Dec 08 | :art::earth_africa: [Group Exercise: ARTsy Maps](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/art_map_poster.md#map-art) - Dorian  | -- | 14 `pts` |
 | Dec 01 | Fabulous day of errors, mistakes, and Gotcha's - Kristie | -- | 42 `pts` |
@@ -85,7 +85,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | Nov 3 | [Regular expressions `regex` 101](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/strings/stringr_regex_tutorial.md) - Derek | [Strings & things](https://forms.gle/bDVjCnwwcQZQB92H8)  | +novemdecillion `pts` |
 | Oct 27 | :ghost: [Halloween exercise](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/exercises/Hallows_Eve.MD#2020--trick-or-treat): Text mining candy / scary movie data  | Everyone | +1031 `pts`|  
 | Oct 20 | Time series forecasting :chart_with_downwards_trend:  | Barbara | +2050 `pts`|
-| Oct 13 | Group exercise: TidyTuesday data dive [Warmup with Porgs](https://itep-r.netlify.app/page/day2_am.html#porg-review).    Data at `read_csv("https://itep-r.netlify.com/data/porg_data.csv")`  | Everyone | +1000 `pts`|
+| Oct 13 | Group exercise: TidyTuesday data dive [Warmup with Porgs](https://itep-r.netlify.app/page/day2_am.html#porg-review).  Data at `read_csv("https://itep-r.netlify.com/data/porg_data.csv")`  | Everyone | +1000 `pts`|
 | Oct 6 | Questions and Andrea's Shiny tool | Andrea | +2000 `pts` |   
 | Sep 29 |  [Group exercise fun: Data Validation](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/tiny_giraffes_data_validation) | Kristie | 1024 `pts`|
 | Sep 22 | [USGS R community](https://owi.usgs.gov/R/) & packages** (Emily B. and Aida and Dorian) | | +2000 `pts`|
@@ -123,7 +123,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 
 
-## Upcoming Events _(around the world)_
+## Upcoming Events  (around the 🌏)
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
