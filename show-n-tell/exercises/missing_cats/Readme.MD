@@ -2,9 +2,9 @@
 
 <br>
 
-FYI! Our cat shelter, **The Meow House**, is overflowing with found cats.
+FYI! 
 
-We're recruiting more detectives to help us get these cats back home. 
+Our cat shelter **The Meow House** is overflowing with found cats and we're recruiting expert detectives to help these cats find their home. 
 
 <br>
 
