@@ -9,7 +9,9 @@ Our cat shelter **The Meow House** is overflowing with found cats and we're recr
 <br>
 
 >
-> Will you help us? Nevermind, we are putting you on the case anyways. Here's a cat! 
+> Will you help us? 
+> 
+> Nevermind, we're putting you on the case anyways. Here's a cat! 
 >
  
 <br>
