@@ -14,9 +14,9 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ### Up Next
 
-|      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
+|      | :coffee: Morning training |  :tada: Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Apr 13 | [dplyr:: group_by() and summarize() data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ Cat Detective mystery :cake:  | | 14 `pts` |
+| Apr 13 | [dplyr:: group_by() and summarize() data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ Cat Detective mystery :cake:  | 14 `pts` |
 
 <br>
 
@@ -24,7 +24,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
  
 <br>
 
-### Featured R packages
+### Featured packages
 | (hex) |  Package | Function |  What it does | Website |   
 | ---  | --- | --- | --- | --- | 
 | -- | `FCUK` | `library(FCUK)` | Suggests typo corrections when code doesn't run. | [Examples & setup](https://github.com/ThinkR-open/fcuk) |
@@ -48,12 +48,12 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 <br>
 
-### Upcoming 
-|      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
-| ---  | --- | --- | --- | --- | 
-| Apr 20 | | | `sqlite` databases in R -Barbara  | 14 `pts` |
-| Apr 27 | | | Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
-| May 04 | | | Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
+### Upcoming schedule
+|      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
+| ---  | --- | --- | --- | --- |   
+| Apr 20 | |  `sqlite` databases in R -Barbara  | 14 `pts` |
+| Apr 27 | |  Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
+| May 04 | |  Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
 
 <br>
 
@@ -63,7 +63,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- |  
-| Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | [My 1st R Markdown document](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/Rmarkdown/my_1st_markdown.MD) | 14 `pts` |
+| Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | [My 1st R Markdown document](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/Rmarkdown/my_1st_markdown.MD) | 14 `pts` |
 | Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | | Searching for emails -Derek   | 100 `pts` |
 | Mar 23 | [dplyr:: filter() data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
 | Mar 16 |  | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
@@ -123,27 +123,32 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 
 
-## Events & Recordings _(around the world)_
+## Upcoming Events _(around the world)_
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
-| May 6- May 8th | Live Virtual Conference | Questions of Reproducibility in an Age of Big Data ($75) | [Register w/ UMN](https://irsa.umn.edu/session/questions-about-reproducibility)| IRSA |
-| Feb 25, 2021 | Recording | ggplot - Take a Sad Plot & Make it Better w/ Alison Hill | [Take a Sad Plot & Make it Better](https://www.youtube.com/watch?v=JeRRSGWODBQ)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
-| Jan 15, 2021 | Recording | aRt + ggplot: exploring radial visualizations + `coord_polar()` | [aRt + ggplot w/ Ijeamaka Anyene](https://www.youtube.com/watch?v=h0i6KAahLY8)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
-| Jan 21-12 | Live talks | RStudio:: global conference | [RStudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)|  |
-| Jul 07-17 | Recordings | useR! 2020: Intl. R user conference | [useR 2020](https://user2020.r-project.org/program/agenda/)|  |
-| Jul 14-15 | 9:00-1pm | MN's R North Conference| [noRth 2020](https://rnorthconference.github.io/#about)|  |
-| May 14 | 6:30-8pm | Multi-level Modeilng : Twin Cities RLadies| [Online Meetup](https://www.meetup.com/rladies-tc/events/268384963/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGQ5NTI4ZDA3LTcxYjctNDY4MS04NWEzLWFkZDZkZmZjZWI3OA)| [TC R Ladies](https://www.meetup.com/rladies-tc) |
-| Apr 7, 9, 16, 23 | 1-2:30 | Intro to R workshops : MARAMA | Recordings: [Intro to R](https://register.gotowebinar.com/recording/979473951571635467); [tidyverse](https://register.gotowebinar.com/recording/3300678235076032514); [ggplot](https://register.gotowebinar.com/register/2580834570751859715) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
-| March 24, 2020 | 2:30pm | Plot anything w/ ggplot - Online workshop | [ggplot workshop](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) |  | 
-| Jan 29, 2020 | 10-4  |  RStudio Conf 2020 - Recordings available | [RStudio 2020](https://resources.rstudio.com/rstudio-conf-2020)  |   https://resources.rstudio.com   |
+| May 6- May 8th, 2021 | Live Virtual Conference | Questions of Reproducibility in an Age of Big Data ($75) | [Register w/ UMN](https://irsa.umn.edu/session/questions-about-reproducibility)| IRSA |
+
+<br>
+
+## Recordings
+
+| Year | Event  | Topic | Event link | Group webpage |  
+| ---  | --- | --- | --- | --- |
+| 2021 | Workshop | Rmarkdown Tips & Tricks w/ the amazing Allison Horst | [Recording](https://drive.google.com/drive/folders/1GHyHKI6_Tfq1EpvJhTi5LFtMfJy58uvG)| [R-Ladies global](https://rladies.org/) |
+| 2021 | Live demo | Analyzing deforestation data (TidyTuesday) w/ Mr. Robinson | [YouTube screencast](https://www.youtube.com/watch?v=0q-qmNkhWyY)| [Full list](https://www.youtube.com/playlist?list=PL19ev-r1GBwkuyiwnxoHTRC8TTqP8OEi8) |
+| 2021 | Presentation | ggplot - Take a Sad Plot & Make it Better w/ Alison Hill | [Take a Sad Plot & Make it Better](https://www.youtube.com/watch?v=JeRRSGWODBQ)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
+| 2021 | Presentation | aRt + ggplot: exploring radial visualizations + `coord_polar()` | [aRt + ggplot w/ Ijeamaka Anyene](https://www.youtube.com/watch?v=h0i6KAahLY8)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
+| 2021 | Live talks | RStudio:: global conference | [RStudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)|  |
+| 2020| Conference | useR! 2020: Intl. R user conference | [useR 2020](https://user2020.r-project.org/program/agenda/)|  |
+| 2020 | Workshop | Intro to R : MARAMA | [Intro to R](https://register.gotowebinar.com/recording/979473951571635467); [tidyverse](https://register.gotowebinar.com/recording/3300678235076032514); [ggplot](https://register.gotowebinar.com/register/2580834570751859715) |  [MARAMA training](https://marama.org/events/introduction-to-r-training-webinar-2020/) |   
+| 2020 | Workshop | Plot anything w/ ggplot - Online workshop | [ggplot workshop](https://www.youtube.com/watch?v=h29g21z0a68&feature=youtu.be) |  | 
+| 2020 | Conference |  RStudio Conf 2020 - Recordings available | [RStudio 2020](https://resources.rstudio.com/rstudio-conf-2020)  |   https://resources.rstudio.com   |
 
 
 <br>
 
-
-
-## :hatching_chick: What we're learning
+## :hatching_chick: What we are learning
 
 <a href="https://tinystats.github.io/teacups-giraffes-and-statistics/01_introToR.html"><img src="https://tinystats.github.io/teacups-giraffes-and-statistics/images/Landing_page/singleGiraffe-clickme-hover.jpg" width="12%" align="left" /></a>
 <br><br>
