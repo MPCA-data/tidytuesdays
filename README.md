@@ -14,8 +14,8 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ### Up Next
 
-|      | :coffee: Morning training |  :tada: Show-n-tell | :candy: `sugaR pts`  | 
-| ---  | --- | --- | --- | --- |  
+|      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
+| ---  | --- | --- | --- | 
 | Apr 13 | [dplyr:: group_by() and summarize() data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ Cat Detective mystery :cake:  | 14 `pts` |
 
 <br>
@@ -50,7 +50,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 ### Upcoming schedule
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
-| ---  | --- | --- | --- | --- |   
+| ---  | --- | --- | --- |
 | Apr 20 | |  `sqlite` databases in R -Barbara  | 14 `pts` |
 | Apr 27 | |  Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
 | May 04 | |  Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
