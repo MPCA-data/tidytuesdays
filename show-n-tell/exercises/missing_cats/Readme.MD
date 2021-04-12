@@ -15,9 +15,9 @@ Get to know its personality traits and determine its age roughly, and then consu
 They will be oh so forever grateful. :heart_eyes_cat:
 
 
-> Folder of Meow House cats: []()
+> [**The Meow House cats**]()
 
-> The BIG missing cat list: []()
+> [**The BIG missing cat list**]()
 
 
 
