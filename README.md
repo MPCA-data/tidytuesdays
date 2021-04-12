@@ -136,7 +136,7 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | Year | Event  | Topic | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
 | 2021 | Workshop | Rmarkdown Tips & Tricks w/ the amazing Allison Horst | [Google Drive recording](https://drive.google.com/file/d/1s2eRC8ENiaDFo_6h_W7NwE_kx2xxZLE-/view) | [R-Ladies global](https://rladies.org/) |
-| 2021 | Live demo | Analyzing deforestation data (TidyTuesday) w/ Mr. Robinson | [YouTube screencast](https://www.youtube.com/watch?v=0q-qmNkhWyY)| [Full list](https://www.youtube.com/playlist?list=PL19ev-r1GBwkuyiwnxoHTRC8TTqP8OEi8) |
+| 2021 | Live demo | Analyzing deforestation data (TidyTuesday) w/ Mr. Robinson | [Screencast](https://www.youtube.com/watch?v=0q-qmNkhWyY)| [Past weeks](https://www.youtube.com/playlist?list=PL19ev-r1GBwkuyiwnxoHTRC8TTqP8OEi8) |
 | 2021 | Presentation | ggplot - Take a Sad Plot & Make it Better w/ Alison Hill | [Take a Sad Plot & Make it Better](https://www.youtube.com/watch?v=JeRRSGWODBQ)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
 | 2021 | Presentation | aRt + ggplot: exploring radial visualizations + `coord_polar()` | [aRt + ggplot w/ Ijeamaka Anyene](https://www.youtube.com/watch?v=h0i6KAahLY8)| [R-Ladies global](https://www.youtube.com/channel/UCDgj5-mFohWZ5irWSFMFcng) |
 | 2021 | Live talks | RStudio:: global conference | [RStudio::global 2021](https://rstudio.com/resources/rstudioglobal-2021/)|  |
