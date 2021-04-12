@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- |  
-| Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | [My 1st R Markdown document](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/Rmarkdown/my_1st_markdown.MD) | 14 `pts` |
+| Apr 13 | [dplyr:: group_by() and summarize() data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ Cat Detective mystery :cake:  | | 14 `pts` |
 
 <br>
 
@@ -24,6 +24,22 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
  
 <br>
 
+### Featured R packages
+| (hex) |  Package | Function |  What it does | Website |   
+| ---  | --- | --- | --- | --- | 
+| -- | `FCUK` | `library(FCUK)` | Suggests typo corrections when code doesn't run. | [Examples & setup](https://github.com/ThinkR-open/fcuk) |
+
+<details>
+<summary> <b> See more </b></summary>
+
+| (hex) |  Package    | Function |  What it does | Website |  
+| ---  | --- | --- | --- | --- | 
+|  <img src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" width="60">  | `dplyr` | | ||
+
+</details>
+
+
+<br>
 
 > Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2D2_rescue_mission/)** 
 >
@@ -35,30 +51,25 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming 
 |      | :coffee: Morning training |  New mission | :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | --- | 
-| Apr 13 | [dplyr:: group_by() and summarize() data](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | Cat Detectives with dplyr Kristie and Dorian and Derek :cake:  | | 14 `pts` |
 | Apr 20 | | | `sqlite` databases in R -Barbara  | 14 `pts` |
 | Apr 27 | | | Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
 | May 04 | | | Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
-<br>
-
-### Past
-|      | Show-n-tell | Team Quizlet  | :candy:`sugaR pts`  | 
-| ---  | --- | --- | --- |
-| Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | | Searching for emails -Derek   | 100 `pts` |
-| Mar 23 | [dplyr:: filter() data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
-| Mar 16 |  | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
-| Mar 9 | [dplyr:: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
-| Mar 2 | [More dplyr :: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
-| Feb 23 | [Intro to dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce M. | 28 `pts` |
 
 <br>
+
 
 <details>
 <summary> <b> Older topics </b></summary>
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- |  
-
+| Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | | [My 1st R Markdown document](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/Rmarkdown/my_1st_markdown.MD) | 14 `pts` |
+| Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | | Searching for emails -Derek   | 100 `pts` |
+| Mar 23 | [dplyr:: filter() data](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Group - All hands on deck filter time -Dorian  | 0 `pts` |
+| Mar 16 |  | | Intro to tidymodels and machine learning -Derek  | 58 `pts` |
+| Mar 9 | [dplyr:: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Messy data contest - Barbara wins :trophy: | 58 `pts` |
+| Mar 2 | [More dplyr :: select & arrange](https://mpca-air.github.io/RTrain4/02_Day2.html) | | [Finding Carmen Sandiego!](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/sf_carmensandiego/get_the_data.R) the `sf` package: distances, buffers and intersections - Kristie | 48 `pts` |
+| Feb 23 | [Intro to dplyr :: Data exploration](https://mpca-air.github.io/RTrain4/02_Day2.html) | | Keeping tables and figures organized in R notebooks. --Bruce M. | 28 `pts` |
 | Feb 16 | [ggplot2 & Charts](https://mpca-air.github.io/RTrain4/01-Day1.html) | | R Tips and Tricks/Best Practices -- | 38 `pts` |
 | Feb 9 | [Read data & CSVs](https://mpca-air.github.io/RTrain4/01-Day1.html#3_read_data) | [Stage 1: Wampas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_missions/stage_1.MD#stage-1---a-wampa-rumpus) | [R2D2 - R training tracker](https://mpca-data.github.io/R2D2_rescue_mission/) |  68 `pts` |
 | Feb 2 | [RStudio: Project setup](https://mpca-air.github.io/RTrain4/01-Day1.html#why_r) | [Stage 0: Start Here](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/R2D2_tracker/stage_0.MD#start-here) | Bootstrapping :boot: your 95% confidence intervals - Derek|  8 `pts` |
@@ -131,12 +142,6 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 <br>
 
 
-## :phone: Calls for **collaboration**
-Let's team up on this.
-
-- [ ]  None at this time. Stay tuned.
-
-<br>
 
 ## :hatching_chick: What we're learning
 
@@ -162,7 +167,7 @@ Let's team up on this.
 
 ## :earth_africa::busts_in_silhouette: Community projects
 
-> Open to all to contribute – especially you!
+> Open to all to contribute – that's you!
 
 <br>
 
@@ -182,17 +187,15 @@ Let's team up on this.
 
 ## Future topics
 
-> 1. Read / send Outlook emails & attachments with `R` _(Derek & Barbara)_
-> 1. Automate report updating on a R server?
+> 1. Automate report updating on R server?
 > 1. Download tables of data from websites _(Sarah)_
 > 1. Loops: `purrr` package or `for()` loops or `lapply()`?
 > 1. Find data in TEMPO database _(Aida)_
-     - Push data into TEMPO ??? Is this possible?
+     - Push data into TEMPO? Is this possible?
 > 1. Combine, clean and read output from environmental models such as AERMOD
 > 1. Compare large modeling files submitted by consultants: k-diff or `waldo` package
 > 1. Intro to Rmarkdown
 >     - Create a manual for training or methods recording
-> 1. Make website for training _(Min)_
 > 1. Maps and shapefiles
 >     - Kriging / Spatial interpolating between map points
 > 1. Is it an outlier?
@@ -200,15 +203,11 @@ Let's team up on this.
 > 1. Python & R: `reticulate`
 > 1. Show-n-tell something you want to replace: An Excel tool, Word/PDF report, Access database, 
 > 1. `gganimate` Add movement to your charts, make gifs to share
-> 1. Working w/ strings & text
->     - Find exact words
->     - Pull data from PDFs  
->     - Read text from online  
 > 1. Project swap - Will it run?
 > 1. Working in GitHub
 > 1. `data.table` *(Derek)*
 > 1. `broom` your modeling results
-> 1. Write tests for your code / functions - testthat 
+> 1. Write tests for your code / functions - `testthat` pkg
 > 1. [R generative art](https://www.data-imaginist.com/art)
 >    - <img src="https://d33wubrfki0l68.cloudfront.net/68c4238194b9e2a403f144836aeb0dd8dec6cec8/51cfa/art/005_genesis/genesis4563_hu094ca1b1a2a99a63b276daf95703c5da_1678978_500x500_fill_box_center_2.png" width="25%"/> <img src="https://d33wubrfki0l68.cloudfront.net/d2690abfd68ec3d3abd3a0d84d79b2ff449f7aac/e0f3d/art/005_genesis/genesis9458_hu00b8f3fe8c7f8351b6b4597d079006d8_4379029_500x500_fill_box_center_2.png" width="25%"/> 
 
