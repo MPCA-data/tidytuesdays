@@ -1,4 +1,4 @@
-# Pet Detectives Needed    :detective: :cat2: :cat2: :cat2:
+.# Pet Detectives Needed    :detective: :cat2: :cat2: :cat2:
 
 <br>
 
@@ -14,8 +14,9 @@ Our cat shelter **The Meow House** is overflowing with found cats and we're recr
  
 <br>
 
-NM. It doesn't matter. Just take one. 
-Get to know its personality traits and determine its age roughly, and then consult the BIG missing cat list to help find the cat's worried owner.
+Nevermind, we are putting you on the case anyways. Here's a cat!
+
+Get to know its personality traits and determine its age as best you can. Then consult the BIG missing cat list to help find the cat's worried owner.
 They will be oh so forever grateful. :heart_eyes_cat:
 
 
