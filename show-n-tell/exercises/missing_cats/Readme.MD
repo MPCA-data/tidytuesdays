@@ -1,4 +1,4 @@
-.# Pet Detectives Needed    :detective: :cat2: :cat2: :cat2:
+# Pet Detectives Needed    :detective: :cat2: :cat2: :cat2:
 
 <br>
 
