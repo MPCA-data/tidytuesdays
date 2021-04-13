@@ -28,6 +28,8 @@ Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R i
 | (hex) |  Package | Function |  What it does | Website |   
 | ---  | --- | --- | --- | --- | 
 | -- | `FCUK` | `library(FCUK)` | Suggests typo corrections when code doesn't run. | [Examples & setup](https://github.com/ThinkR-open/fcuk) |
+|  <img src="http://lubridate.tidyverse.org/logo.png" width="60">  | `lubridate` | `today()`,`mdy()`, `wday()`, `tz()` | Convert text columns to date objects, extract parts of dates and time such as month, hour, week day. | [Dates & times](https://r4ds.had.co.nz/dates-and-times.html) |
+
 
 <details>
 <summary> <b> See more </b></summary>
