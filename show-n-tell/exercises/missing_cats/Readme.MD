@@ -20,7 +20,7 @@ Our cat shelter **The Meow House** is overflowing with found cats and we're recr
 ### Instructions
 
 1. Get to know your cat's personality traits and determine its age as best you can. 
-    - Useful packages: `tidyverse`, `lubridate`
+    - Useful packages: `library(tidyverse)`, `library(lubridate)`
     - Useful functions: `read_csv()`, `mutate()`, `today()`
 3. Consult the BIG missing cat list to help find the cat's worried owner.
 *(They will be oh so forever grateful :heart_eyes_cat:)*
