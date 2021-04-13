@@ -20,7 +20,8 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 <br>
 
-Want to follow along? Jump to [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
+
+Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
  
 <br>
 
