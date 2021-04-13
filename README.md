@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| Apr 13 | [dplyr:: dates, filter, mutate review](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ [Cat Detective mystery](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/exercises/missing_cats) :cake:  | 14 `pts` |
+| Apr 13 | [dplyr:: dates, filter, mutate review](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ [Cat Detectives](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/exercises/missing_cats) :cake:  | 14 `pts` |
 
 <br>
 
