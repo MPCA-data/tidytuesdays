@@ -41,7 +41,7 @@ Our cat shelter **The Meow House** is overflowing with found cats and we're recr
 <br>
 
 <details>
- <summary> ✔️ Cat owners answer key  <b><em>(Don't peak!)</em></b> </summary> 
+ <summary>  Cat owners answer key  <b><em>(Don't peak!)</em></b> ✔️</summary>
  
 Cats 
  
