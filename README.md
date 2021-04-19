@@ -37,7 +37,7 @@ Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 | (hex) |  Package    | Function |  What it does | Website |  
 | ---  | --- | --- | --- | --- | 
-| -- | **FCUK** | `library(FCUK)` | Suggests typo corrections when code doesn't run. | [Examples & setup](https://github.com/ThinkR-open/fcuk) |
+|  | **FCUK** | `library(FCUK)` | Suggests typo corrections when code doesn't run. | [Examples & setup](https://github.com/ThinkR-open/fcuk) |
 
 
 </details>
