@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| Apr 27 | This is a `%>%`. [Pipes, pipelines](https://mpca-air.github.io/RTrain4/03_Day3.html#5), dots and other magrittr operators |  What's the point? The dot (`.`) does a lot.   | 78 `pts` |
+| Apr 27 | This is a `%>%`. [Pipes, pipelines](https://mpca-air.github.io/RTrain4/03_Day3.html#5), dots and *magrittr* operators |  What's the point? The dot (`.`) does a lot.   | 78 `pts` |
 
 <br>
 
