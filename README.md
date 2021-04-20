@@ -16,7 +16,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| Apr 13 | [dplyr:: dates, filter, mutate review](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ [Cat Detectives](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/exercises/missing_cats) :cake:  | 14 `pts` |
+| Apr 27 | This is a `%>%`. [Pipes, pipelines](https://mpca-air.github.io/RTrain4/03_Day3.html#5), dots and other magrittr operators |  What's the point? The dot (`.`) does a lot.   | 78 `pts` |
 
 <br>
 
@@ -55,9 +55,8 @@ Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R i
 ### Upcoming schedule
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Apr 20 | |  `sqlite` databases in R -Barbara  | 14 `pts` |
-| Apr 27 | |  Pipes, dots and other magrittr operators 'That dot that Derek uses'  | 78 `pts` |
-| May 04 | |  Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
+| Apr 27 | |  `sqlite` databases in R -Barbara  | 14 `pts` |  
+| May the 4th | |  Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
 
 <br>
 
@@ -67,6 +66,7 @@ Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R i
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- |  
+| Apr 13 | [dplyr:: dates, filter, mutate review](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ [Cat Detectives](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/exercises/missing_cats) :cake:  | 14 `pts` |
 | Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | [My 1st R Markdown document](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/Rmarkdown/my_1st_markdown.MD) | 14 `pts` |
 | Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | Searching for emails -Derek   | 100 `pts` |
 | Mar 23 | [dplyr:: filter() data](https://mpca-air.github.io/RTrain4/02_Day2.html) | Group - All hands on deck filter time -Dorian  | 0 `pts` |
