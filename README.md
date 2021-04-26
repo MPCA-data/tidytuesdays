@@ -61,7 +61,7 @@ Month of Visuals
 
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Apr 27 | |  `sqlite` databases in R -Barbara  | 14 `pts` |  
+| Apr 27 | |  Tidy Tuesday planning & `sqlite` databases in R -Barbara  | 14 `pts` |  
 | May the 4th | |  Plotly and Leaflet Mash-Up -Barbara and Dorian | 34 `pts` |
 
 <br>
