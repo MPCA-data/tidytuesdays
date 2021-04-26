@@ -66,7 +66,9 @@ Month of Visuals
 | May 18 | |  `ggplot` Gathering -Barbara and Dorian | 36 `pts` |
 | May 25 | |  ggplot drag and drop `esquisse` Extravaganza -Derek | 326 `pts` |
 | Jun 01 | |  reactive plots -All | 326 `pts` |
-| Jun 08 | |  `gganimate` -Someone | 326 `pts` |
+| Jun 08 | |  `gganimate` -Someone | 226 `pts` |
+| Jun 15 | |  calendar plots and times series -Derek and Kristie | 215 `pts` |
+| Jun 22 | |  Data is Beautiful Plot -Kristie | 200 `pts` |
 
 
 <br>
