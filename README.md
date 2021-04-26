@@ -14,7 +14,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ### Up Next
 
-Month of visuals
+the Month of Visuals is coming...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
