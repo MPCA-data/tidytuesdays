@@ -18,7 +18,7 @@ the Month of Visuals is coming...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-
+| Apr 27 | |  Tidy Tuesday planning & `sqlite` databases in R -Barbara  | 14 `pts` |  
 
 <br>
 
@@ -61,7 +61,6 @@ Month of Visuals
 
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Apr 27 | |  Tidy Tuesday planning & `sqlite` databases in R -Barbara  | 14 `pts` |  
 | May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara and Dorian | 34 `pts` |
 | May 11 | |  `leaflet` Lollapalloza -Dorian | 36 `pts` |
 | May 18 | |  `ggplot` Gathering -Barbara and Dorian | 36 `pts` |
