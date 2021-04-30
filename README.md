@@ -18,7 +18,8 @@ the Month of Visuals is coming...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| Apr 27 | |  Tidy Tuesday planning & `sqlite` databases in R -Barbara  | 14 `pts` |  
+| May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara and Dorian | 34 `pts` |
+
 
 <br>
 
@@ -61,7 +62,6 @@ Month of Visuals
 
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara and Dorian | 34 `pts` |
 | May 11 | |  `leaflet` Lollapalloza -Dorian | 36 `pts` |
 | May 18 | |  `ggplot` Gathering -Barbara and Dorian | 36 `pts` |
 | May 25 | |  ggplot drag and drop `esquisse` Extravaganza -Derek | 326 `pts` |
@@ -79,7 +79,8 @@ Month of Visuals
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- |  
-| Apr 27 | A `%>%` is a pipe. [Pipes, pipelines](https://mpca-air.github.io/RTrain4/03_Day3.html#5), dots and *magrittr* operators |  What's the point? The dot (`.`) does a lot.   | 78 `pts` |  
+| Apr 27 | |  Tidy Tuesday planning & `sqlite` databases in R -Barbara  | 14 `pts` |  
+| Apr 21 | A `%>%` is a pipe. [Pipes, pipelines](https://mpca-air.github.io/RTrain4/03_Day3.html#5), dots and *magrittr* operators |  What's the point? The dot (`.`) does a lot.   | 78 `pts` |  
 | Apr 13 | [dplyr:: dates, filter, mutate review](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ [Cat Detectives](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/exercises/missing_cats) :cake:  | 14 `pts` |
 | Apr 06 | [lubridate:: Working with Dates](https://mpca-air.github.io/RTrain4/03_Day3.html) | [My 1st R Markdown document](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/Rmarkdown/my_1st_markdown.MD) | 14 `pts` |
 | Mar 30 | [dplyr:: Data mutating](https://mpca-air.github.io/RTrain4/02_Day2.html)  | Searching for emails -Derek   | 100 `pts` |
