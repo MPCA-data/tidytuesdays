@@ -18,7 +18,7 @@ the Month of Visuals is coming...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara and Dorian | 34 `pts` |
+| May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara | 34 `pts` |
 
 
 <br>
