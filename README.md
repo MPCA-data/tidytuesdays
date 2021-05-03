@@ -69,6 +69,8 @@ Month of Visuals
 | Jun 08 | |  `gganimate` -Someone | 226 `pts` |
 | Jun 15 | |  calendar plots and times series -Derek and Kristie | 215 `pts` |
 | Jun 22 | |  Data is Beautiful Plot -Kristie | 200 `pts` |
+| Jun 29 | |  Monte Carlo sim -Max K | 10000 `pts` |
+
 
 
 <br>
