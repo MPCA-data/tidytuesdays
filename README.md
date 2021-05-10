@@ -14,12 +14,11 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ### Up Next
 
-the Month of Visuals is coming...
+the Month of Visuals is here...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara | 34 `pts` |
-
+| May 11 | |  `leaflet` Lollapalloza -Dorian | 36 `pts` |
 
 <br>
 
@@ -62,12 +61,11 @@ Month of Visuals
 
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| May 11 | |  `leaflet` Lollapalloza -Dorian | 36 `pts` |
-| May 18 | |  `ggplot` Gathering -Barbara and Dorian | 36 `pts` |
-| May 25 | |  ggplot drag and drop `esquisse` Extravaganza -Derek | 326 `pts` |
+| May 18 | |  ggplot drag and drop `esquisse` Extravaganza -Derek | 326 `pts` |
+| May 25 | |  `ggplot` Gathering -Kristie | 36 `pts` |
 | Jun 01 | |  reactive plots -All | 326 `pts` |
 | Jun 08 | |  `gganimate` -Someone | 226 `pts` |
-| Jun 15 | |  calendar plots and times series -Derek and Kristie | 215 `pts` |
+| Jun 15 | |  Calendar plots and times series -Derek and Kristie | 215 `pts` |
 | Jun 22 | |  Data is Beautiful Plot -Kristie | 200 `pts` |
 | Jun 29 | |  Monte Carlo sim -Max K | 10000 `pts` |
 
@@ -81,6 +79,7 @@ Month of Visuals
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- |  
+| May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara | 34 `pts` |
 | Apr 27 | |  Tidy Tuesday planning & `sqlite` databases in R -Barbara  | 14 `pts` |  
 | Apr 21 | A `%>%` is a pipe. [Pipes, pipelines](https://mpca-air.github.io/RTrain4/03_Day3.html#5), dots and *magrittr* operators |  What's the point? The dot (`.`) does a lot.   | 78 `pts` |  
 | Apr 13 | [dplyr:: dates, filter, mutate review](https://mpca-air.github.io/RTrain4/03_Day3.html#5) | 🕵️‍♀️ [Cat Detectives](https://github.com/MPCA-data/tidytuesdays/tree/master/show-n-tell/exercises/missing_cats) :cake:  | 14 `pts` |
