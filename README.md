@@ -18,7 +18,7 @@ the Month of Visuals is here...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May 11 | `leaflet` Lollapalloza -Dorian |    | 36 `pts` |
+| May 11 | `leaflet` Lollapalloza *-Dorian* |    | 36 `pts` |
 
 <br>
 
@@ -222,26 +222,23 @@ Month of Visuals
 <details>
 <summary> <b> See ideas </b></summary>
  
-> 1. Automate report updating on R server?
+> 1. Automate report updating on an R server?
 > 1. Download tables of data from websites _(Sarah)_
 > 1. Loops: `purrr` package or `for()` loops or `lapply()`?
 > 1. Find data in TEMPO database _(Aida)_
-     - Push data into TEMPO? Is this possible?
 > 1. Combine, clean and read output from environmental models such as AERMOD
-> 1. Compare large modeling files submitted by consultants: k-diff or `waldo` package
+> 1. Compare large files submitted by consultants: k-diff or `waldo` package
 > 1. Intro to Rmarkdown
->     - Create a manual for training or methods recording
+>     - Create a manual for training or methods documentation
 > 1. Maps and shapefiles
 >     - Kriging / Spatial interpolating between map points
 > 1. Is it an outlier?
 > 1. Conditional probability
-> 1. Python & R: `reticulate`
 > 1. Show-n-tell something you want to replace: An Excel tool, Word/PDF report, Access database, 
 > 1. `gganimate` Add movement to your charts, make gifs to share
 > 1. Project swap - Will it run?
 > 1. Working in GitHub
 > 1. `data.table` *(Derek)*
-> 1. `broom` your modeling results
 > 1. Write tests for your code / functions - `testthat` pkg
 > 1. [R generative art](https://www.data-imaginist.com/art)
 >    - <img src="https://d33wubrfki0l68.cloudfront.net/68c4238194b9e2a403f144836aeb0dd8dec6cec8/51cfa/art/005_genesis/genesis4563_hu094ca1b1a2a99a63b276daf95703c5da_1678978_500x500_fill_box_center_2.png" width="25%"/> <img src="https://d33wubrfki0l68.cloudfront.net/d2690abfd68ec3d3abd3a0d84d79b2ff449f7aac/e0f3d/art/005_genesis/genesis9458_hu00b8f3fe8c7f8351b6b4597d079006d8_4379029_500x500_fill_box_center_2.png" width="25%"/> 
@@ -278,7 +275,7 @@ Things to talk about.
 
 `> encourage_cat()`
 
-    Meow-Meow. Happy Anniversary R Users! 
+    Meow-Meow. Hello R Users! 
       \
        \
         \
