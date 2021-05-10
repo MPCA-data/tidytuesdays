@@ -18,7 +18,7 @@ the Month of Visuals is here...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May 11 | |  `leaflet` Lollapalloza -Dorian | 36 `pts` |
+| May 11 | `leaflet` Lollapalloza -Dorian |    | 36 `pts` |
 
 <br>
 
