@@ -1,10 +1,7 @@
-###Section meeting talk
 ###Hi everyone!
 ###Let's make a census map in 10 minutes
 
-###I always load this R package, just because it has most of what I need to process my data.
-##Enter the tidyverse!
-
+### I always load this R package, just because it has most of what I need to process my data.
 library(tidyverse)
 
 ###First I want the shapes of the census block groups. I use the tigris package for that. The tigris package is awesome because of its hex sticker (see it in your chat). We all need wall hangings with that image on it, am I right?
