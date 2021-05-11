@@ -20,8 +20,6 @@ https://rstudio.github.io/leaflet/
 
 
 
----
-class: middle
 
 # Maps as data
 
@@ -241,8 +239,6 @@ https://rstudio.github.io/leaflet
 
 
 
----
-class: inverse, center, middle
 
 # Basemaps
 
@@ -315,8 +311,6 @@ View more layers on GeoCommons: *https://www.mngeo.state.mn.us/chouse/wms/wms_im
 
 
 
----
-class: inverse, middle, center
 
 # Small multiples of maps with `leafsync`
 
@@ -453,8 +447,6 @@ st_as_sf(data,
 ```
 
 
----
-class: inverse, middle, center
 
 # Spatial analysis
 
