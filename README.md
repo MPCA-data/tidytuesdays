@@ -18,7 +18,7 @@ the Month of Visuals is here...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May 11 | [`leaflet` Lollapalloza on the High Seas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#maps-are-fun-again) *-Dorian* |  [Hidden treasure](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#where-is-your-treasure)   | 36 `pts` |
+| May 11 | [`leaflet` Lollapalloza on the High Seas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#maps-are-fun-again) *-Dorian* |  [Hidden treasure](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#where-be-yarr-treasure)   | 36 `pts` |
 
 <br>
 
