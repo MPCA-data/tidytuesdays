@@ -460,13 +460,12 @@ st_as_sf(data,
 
 - `st_join(data1, data2)`
 - `st_nearest_feature(data1, data3)`
-- `st_dist(data1, data2)`
-- `st_buffer(data1, 50)`
+- `st_dist(data1, data2)` 
+- `st_buffer(data1, 50)` # Default units is meters
+
 
 ---
-
-.pull-left[
-### Where is your treasure?
+## Where be yarr treasure?
 
 ```{r, eval=F}
 library(leaflet)
@@ -482,9 +481,9 @@ library(sf)
 
 ]
 
-.pull-right[
 
-### Find a lucky pirate ship
+---
+## The lucky pirate ship
 
 1. Get the coordinates of a treasure from the chat
 2. Create a data.frame for the treasure
@@ -499,6 +498,7 @@ pirates <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/ma
 
 5. Add pirates to your map: 
     - `addCircleMarkers(data = pirates, lat = ****, lng = ****)`
+    - 
 6. Use `st_join()` to see if any pirates are within that buffer
 7. Use `st_nearest_feature()` to find the closest pirate to the treasure
     - Update the map to add another circle for the closest pirate that is red
@@ -513,10 +513,16 @@ pirates <- st_as_sf(pirates, ....)
 ```  
 
 9. Create a 10 km buffer around the treasure with `st_buffer()`
+
+```
+x_buffer <- data %>% 
+            st_transform(crs = 26915) %>% 
+            st_buffer(50000) %>% 
+            st_transform(crs = 4326)
+```            
     - Update the map with `addPolygons(data = x_buffer)`
 10. Use `st_dist()` to find how far every pirate is from the treasure
     
-]
 
 
 
