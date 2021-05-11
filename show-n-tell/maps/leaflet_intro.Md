@@ -4,18 +4,19 @@ author: "@TidyTuesdays"
 ---
 
 
-.pull-left[
+
 # Maps are fun again
 
 <br>
 
 ![](https://leafletjs.com/docs/images/logo.png)
 
-]
+https://rstudio.github.io/leaflet/
 
-.pull-right[
+
+
 ![](https://www.craftsdirect.com/cache/5a482e0b61288738ba7462d28d1dde09.jpg)
-]
+
 
 
 
@@ -452,6 +453,14 @@ st_as_sf(data,
 ```
 
 
+---
+class: inverse, middle, center
+
+# Spatial analysis
+
+![](https://user-images.githubusercontent.com/1325054/34829909-8544f0f0-f6e2-11e7-9161-a0ab29f6762b.png)
+
+
 
 ---
 # SF spatial functions
@@ -460,7 +469,7 @@ st_as_sf(data,
 
 - `st_join(data1, data2)`
 - `st_nearest_feature(data1, data3)`
-- `st_dist(data1, data2)` 
+- `st_distance(data1, data2)` 
 - `st_buffer(data1, 50)` # Default units is meters
 
 
@@ -521,7 +530,7 @@ x_buffer <- data %>%
             st_transform(crs = 4326)
 ```            
     - Update the map with `addPolygons(data = x_buffer)`
-10. Use `st_dist()` to find how far every pirate is from the treasure
+10. Use `st_distance()` to find how far every pirate is from the treasure
     
 
 
