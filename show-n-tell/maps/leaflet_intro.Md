@@ -469,6 +469,7 @@ st_as_sf(data,
 ## Where be yarr treasure?
 
 ```{r, eval=F}
+library(tidyverse)
 library(leaflet)
 library(mapedit)
 library(sf)
