@@ -69,7 +69,7 @@ ej_1 <- ej_shapes[1, ]
 
 plot(ej_1)
 
-## First item
+## Second item
 ej_2 <- ej_shapes[2, ]
 
 plot(ej_2)
