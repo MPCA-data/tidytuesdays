@@ -18,7 +18,7 @@ the Month of Visuals is here...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May 11 | [`leaflet` Lollapalloza on the High Seas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#maps-are-fun-again) *-Dorian* |  [Hidden treasure](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#where-be-yarr-treasure)   | 36 `pts` |
+| May 18 | |  Drag and drop Tableau style with the `esquisse` Extravaganza -Derek | 326 `pts` |
 
 <br>
 
@@ -61,7 +61,6 @@ Month of Visuals
 
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| May 18 | |  ggplot drag and drop `esquisse` Extravaganza -Derek | 326 `pts` |
 | May 25 | |  `ggplot` Gathering -Kristie | 36 `pts` |
 | Jun 01 | |  reactive plots -All | 326 `pts` |
 | Jun 08 | |  `gganimate` -Someone | 226 `pts` |
@@ -79,6 +78,7 @@ Month of Visuals
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- |  
+| May 11 | [`leaflet` Lollapalloza on the High Seas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#maps-are-fun-again) *-Dorian* |  [Hidden treasure](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#where-be-yarr-treasure)   | 36 `pts` |
 | May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara | 34 `pts` |
 | Apr 27 | |  Tidy Tuesday planning & `sqlite` databases in R -Barbara  | 14 `pts` |  
 | Apr 21 | A `%>%` is a pipe. [Pipes, pipelines](https://mpca-air.github.io/RTrain4/03_Day3.html#5), dots and *magrittr* operators |  What's the point? The dot (`.`) does a lot.   | 78 `pts` |  
