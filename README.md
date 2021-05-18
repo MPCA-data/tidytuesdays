@@ -18,7 +18,7 @@ the Month of Visuals is here...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May 18 | |  Drag and drop Tableau style with the `esquisse` Extravaganza -Derek | 326 `pts` |
+| May 18 | | <img src="https://user-images.githubusercontent.com/6283030/118650539-2fd8e900-b7aa-11eb-9bd2-61ad0eeebd61.png" width="60">   Drag and drop Tableau style with the `esquisse` Extravaganza -Derek | 326 `pts` |
 
 <br>
 
