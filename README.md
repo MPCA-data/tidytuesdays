@@ -147,7 +147,7 @@ Month of Visuals
 
 | Date | Time | Event  | Event link | Group webpage |  
 | ---  | --- | --- | --- | --- |
-| May 6- May 8th, 2021 | Live Virtual Conference | Reproducibility in an Age of Big Data ($75) | [Register w/ UMN](https://irsa.umn.edu/session/questions-about-reproducibility)| IRSA |
+| July 5-9th, 2021 | Live Virtual Conference | useR! 2021 | https://user2021.r-project.org/ |  |
 
 <br>
 
