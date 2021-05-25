@@ -20,6 +20,8 @@ the Month of Visuals is here...
 | ---  | --- | --- | --- | 
 | May 25 | Data questions & Messy Barbara data |  Exceling w/ `ggplot` -Kristie | 36 `pts` |
 
+David's data -> [2017-2019 Emissions](https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/help/Davids_EI_data/2017-2019_EI_Point_CAP.csv)
+
 <br>
 
 
