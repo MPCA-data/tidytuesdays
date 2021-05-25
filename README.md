@@ -18,7 +18,7 @@ the Month of Visuals is here...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May 18 | | <img src="https://user-images.githubusercontent.com/6283030/118650539-2fd8e900-b7aa-11eb-9bd2-61ad0eeebd61.png" width="60">   Drag and drop Tableau style with the `esquisse` Extravaganza -Derek | 326 `pts` |
+| May 25 | Data questions & Messy Barbara data |  Exceling w/ `ggplot` -Kristie | 36 `pts` |
 
 <br>
 
@@ -62,7 +62,6 @@ Month of Visuals
 
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| May 25 | |  `ggplot` Gathering -Kristie | 36 `pts` |
 | Jun 01 | |  reactive plots -All | 326 `pts` |
 | Jun 08 | |  `gganimate` -Someone | 226 `pts` |
 | Jun 15 | |  Calendar plots and times series -Derek and Kristie | 215 `pts` |
@@ -78,7 +77,8 @@ Month of Visuals
 <summary> <b> See older topics </b></summary>
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
-| ---  | --- | --- | --- |  
+| ---  | --- | --- | --- | 
+| May 18 | | <img src="https://user-images.githubusercontent.com/6283030/118650539-2fd8e900-b7aa-11eb-9bd2-61ad0eeebd61.png" width="60">   Drag and drop Tableau style with the `esquisse` Extravaganza -Derek | 326 `pts` |
 | May 11 | [`leaflet` Lollapalloza on the High Seas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#maps-are-fun-again) *-Dorian* |  [Hidden treasure](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#where-be-yarr-treasure)   | 36 `pts` |
 | May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara | 34 `pts` |
 | Apr 27 | |  Tidy Tuesday planning & `sqlite` databases in R -Barbara  | 14 `pts` |  
