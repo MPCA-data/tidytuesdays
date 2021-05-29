@@ -18,7 +18,7 @@ the Month of Visuals is here...
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| May 25 | Data questions & Messy Barbara data |  Exceling w/ `ggplot` -Kristie | 36 `pts` |
+| Jun 01 | Exceling w/ `ggplot` -Kristie | Celebrating DEREK! 🥳  | 36 `pts` |
 
 David's data -> [2017-2019 Emissions](https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/help/Davids_EI_data/2017-2019_EI_Point_CAP.csv)
 
@@ -64,7 +64,7 @@ Month of Visuals
 
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Jun 01 | |  reactive plots -All | 326 `pts` |
+| Jun 08 | |  Animated maps - Pirate treasure wrap-up | 326 `pts` |
 | Jun 08 | |  `gganimate` -Someone | 226 `pts` |
 | Jun 15 | |  Calendar plots and times series -Derek and Kristie | 215 `pts` |
 | Jun 22 | |  Data is Beautiful Plot -Kristie | 200 `pts` |
@@ -80,6 +80,7 @@ Month of Visuals
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- | 
+| May 25 | Data questions & Messy Barbara data |  Exceling w/ `ggplot` -Kristie | 36 `pts` |
 | May 18 | | <img src="https://user-images.githubusercontent.com/6283030/118650539-2fd8e900-b7aa-11eb-9bd2-61ad0eeebd61.png" width="60">   Drag and drop Tableau style with the `esquisse` Extravaganza -Derek | 326 `pts` |
 | May 11 | [`leaflet` Lollapalloza on the High Seas](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#maps-are-fun-again) *-Dorian* |  [Hidden treasure](https://github.com/MPCA-data/tidytuesdays/blob/master/show-n-tell/maps/leaflet_intro.Md#where-be-yarr-treasure)   | 36 `pts` |
 | May the 4th | |  Begin the month of Plots! - `plotly` Party -Barbara | 34 `pts` |
