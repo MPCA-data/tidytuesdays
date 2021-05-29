@@ -1,4 +1,4 @@
-## Tenliner Cace Adventure by Einar Saukas
+## Tenliner Cave Adventure by Einar Saukas
 ## Ported from ZX81 BASIC to R by Peter Prevos
 
 # Play game
@@ -29,23 +29,23 @@ get_state <- function(p, q = p) substr(game_state, p, q)
 game_state <- "100"  # The first number is the room number, #1 is the starting room - The Cave
 
 responses <- data.frame(text = c(
-                             "...Sorry, but you cannot.",
-                             "...You walk slowly. Your foot still aches.",
+                             "...Sorry, but he cannot.",
+                             "...Derek walks slowly. His foot still aches.",
                              " *opened* ",
                              " *closed* ",
                              "( There is a *fish*. It stares up at you curiously. )", #The handle sparkles and then goes dark.
                              "( There is a *key* with a small snake etched on its side. )",
                              "( There is nothing of significance. )",
-                             "...You see a metal *chest*.",
-                             "...You see a very large *cat*. It is definitely bigger than you and it is not happy.",
-                             "...You see a leather *boot*. It seems fit for a large left foot. How strange.",
+                             "...Derek sees a metal *chest*.",
+                             "...Derek sees a very large *cat*. It is definitely bigger than you and it is not happy.",
+                             "...Derek sees a leather *boot*. It seems size for a very large left foot. Strange.",
                              " *taken* ",
-                             "You are brave, however the cat was very hungry and ate you. You shall be remembered. But briefly.",
-                             "Yum! The cat was appeased and fell fast asleep. Your name shall be remembered for several years at least."),
+                             "Derek was brave, however the cat was very hungry and ate him. He shall be remembered. But just briefly.",
+                             "Yum! The cat was appeased and fell fast asleep. Derek shall be remembered for several years at least."),
                         stringsAsFactors = F)
 
 rooms <- data.frame(room_n   = 1:4,
-                    room_desc = c("cave", "pit", "hall. You hear a light breeze or is it something breathing", "lake"),
+                    room_desc = c("cave", "pit", "hall. Derek feels a light damp breeze. Or maybe it is something breathing", "lake"),
                     stringsAsFactors = F)
 
 # Room update table
@@ -56,7 +56,7 @@ update_room <- data.frame(room_n     = c(1,3,3,2,2,4),
 
 cat("\n\n\n\n\n\n\n\n\n\n\n\n")
 cat("#---------------------------------------------------------------#\n#\n")
-cat("# You awake and your eyes begin to adjust to the darkness. \n#\n# Ouch! Your left ankle bites with pain. \n#\n# You look around you.")
+cat("# Derek awakes and his eyes begin to adjust to the darkness. \n#\n# Ouch! His left ankle bites with pain. \n#\n# Derek looks around you.")
 cat("\n#\n")
 
 repeat {
