@@ -20,7 +20,11 @@ the Month of Visuals is here...
 | ---  | --- | --- | --- | 
 | Jun 01 | Exceling w/ `ggplot` -Kristie | Celebrating DEREK! 🥳  | 36 `pts` |
 
-David's data -> [2017-2019 Emissions](https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/help/Davids_EI_data/2017-2019_EI_Point_CAP.csv)
+
+## Save DEREK!!! 🐈
+```.go
+source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/text_adventure.R")
+```
 
 <br>
 
