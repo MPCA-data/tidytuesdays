@@ -40,7 +40,7 @@ responses <- data.frame(text = c(
                              "...Derek sees a very large *cat*. It is definitely bigger than you and it is not happy.",
                              "...Derek sees a leather *boot*. It seems size for a very large left foot. Strange.",
                              " *taken* ",
-                             "Derek was brave, however the cat was very hungry and ate him. He shall be remembered. But just briefly.",
+                             "Derek was brave, however the cat was very hungry and ate him. He shall be remembered. But ever so briefly.",
                              "Yum! The cat was appeased and fell fast asleep. Derek shall be remembered for several years at least."),
                         stringsAsFactors = F)
 
