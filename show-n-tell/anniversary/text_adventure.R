@@ -102,7 +102,7 @@ repeat {
            (6 - val(get_state(3))) * (u == "inventory") +
            (6 - (get_state(3) == "0")) * (get_state(1) == 4 & u == "look boot") +
            10 * (get_state(1, 3) == "400" & u == "take key") +
-           2 * (get_state(1, 3) == "201" & u == "open chest") +
+           2 * (get_state(1, 3) == "211" & u == "open chest") +
            10 * (get_state(1, 3) == "211" & u == "take fish") +
            1 * (get_state(1, 3) == "211" & u == "look chest")
 }
