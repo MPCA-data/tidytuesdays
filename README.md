@@ -12,6 +12,13 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 ## Schedule
 
+
+### 🐈 Save DEREK! 
+```.go
+source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/text_adventure.R")
+```
+
+
 ### Up Next
 
 the Month of Visuals is here...
@@ -22,10 +29,7 @@ the Month of Visuals is here...
 
 
 
-## 🐈 Save DEREK! 
-```.go
-source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/text_adventure.R")
-```
+
 
 <br>
 
