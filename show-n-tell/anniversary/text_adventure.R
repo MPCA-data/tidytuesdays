@@ -33,11 +33,11 @@ responses <- data.frame(text = c(
                              "...Derek walks slowly. His foot still aches.",
                              " *opened* ",
                              " *closed* ",
-                             "( There is a *fish*. It stares up at you curiously. )", #The handle sparkles and then goes dark.
+                             "( There is a *fish*. It stares up at Derek curiously. )", #The handle sparkles and then goes dark.
                              "( There is a *key* with a small snake etched on its side. )",
                              "( There is nothing of significance. )",
                              "...Derek sees a metal *chest*.",
-                             "...Derek sees a very large *cat*. It is definitely bigger than you and it is not happy.",
+                             "...Derek sees a very large *cat*. It is definitely bigger than him and it is not happy.",
                              "...Derek sees a leather *boot*. It seems size for a very large left foot. Strange.",
                              " *taken* ",
                              "Derek was brave, however the cat was very hungry and ate him. He shall be remembered. But ever so briefly.",
@@ -56,19 +56,19 @@ update_room <- data.frame(room_n     = c(1,3,3,2,2,4),
 
 cat("\n\n\n\n\n\n\n\n\n\n\n\n")
 cat("#---------------------------------------------------------------#\n#\n")
-cat("# Derek awakes and his eyes begin to adjust to the darkness. \n#\n# Ouch! His left ankle bites with pain. \n#\n# Derek looks around you.")
+cat("# Derek awakes and his eyes begin to adjust to the darkness. \n#\n# Ouch! His left ankle bites with pain. \n#\n# Derek looks around.")
 cat("\n#\n")
 
 repeat {
 
-  cat("\n\n| You are standing in a ")
+  cat("\n\n| Derek is standing in a ")
 
   cat(rooms[val(get_state(1)), ]$room_desc)
 
   cat("...  \n\n")
 
   # Get user input
-  u <- tolower(readline(prompt = "> What do you do (N-S-E-W or look-open-take-feed-inventory)?  "))
+  u <- tolower(readline(prompt = "> What does Derek do (N-S-E-W or look-open-take-feed-inventory)?  "))
 
   if (nchar(u) > 0) {
 
