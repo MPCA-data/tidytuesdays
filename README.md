@@ -21,7 +21,8 @@ the Month of Visuals is here...
 | Jun 01 | Exceling w/ `ggplot` -Kristie | Celebrating DEREK! 🥳  | 36 `pts` |
 
 
-## Save DEREK!!! 🐈
+
+## 🐈 Save DEREK! 
 ```.go
 source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/text_adventure.R")
 ```
