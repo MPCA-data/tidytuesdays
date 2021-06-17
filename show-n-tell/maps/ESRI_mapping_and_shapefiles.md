@@ -43,7 +43,9 @@ tree_data <- tree_data %>%
 ```
 
 <br>
+
 Make a geographic object:
+
 ```r
 ##tell R where the geometry columns are
 tree_data <- st_as_sf(tree_data, coords = c("longitude", "latitude"), crs = 4326)
