@@ -1,8 +1,10 @@
 library(pdftools)
 library(tidyverse)
 
+pdf_file <- "https://github.com/MPCA-data/tidytuesdays/raw/master/help/PDF_data/2017fertsalesreport.pdf"
+
 #read in pdf text
-text <- pdf_data("2017fertsalesreport.pdf")
+text <- pdf_data(pdf_file)
 
 #find starting page
 start_page <- map_lgl(text, ~str_detect(paste(.$text, collapse = " "),
