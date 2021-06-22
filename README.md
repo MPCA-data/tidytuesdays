@@ -8,25 +8,38 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 :rocket: **Explore this week's [[ Data ]](https://github.com/rfordatascience/tidytuesday#datasets) and see what others are [[ Sharing ]](https://twitter.com/hashtag/TidyTuesday)**
 
-<br><br>
+<br>
+
+Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
+ 
+
+<br>
+
 
 ## Schedule
 
 
 ### Up Next
 
-
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
 | Jun 22|  PDF data | Calendar plots and times series -Barbara | 215 `pts` |
 
-
 <br>
 
+### GGPLOT Evolution Exercise
 
-Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R in your browser.
- 
-<br>
+Fancy up a boxplot on student/teacher ratios from across the globe: 
+
+- https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/
+
+
+``` .go
+df_ratios <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/ggplot/student_teacher_ratio.csv")
+```
+
+
+<br><br>
 
 ### Featured functions
 | (hex) |  Package | Functions |  What it does | Website |   
