@@ -18,12 +18,8 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| Jun 15 | |  Calendar plots and times series -Derek and Kristie | 215 `pts` |
+| Jun 22|  Calendar plots and times series -Derek and Kristie | PDF data | 215 `pts` |
 
-### 🐈 Save DEREK! 
-```.go
-source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/text_adventure.R")
-```
 
 <br>
 
@@ -278,6 +274,11 @@ Things to talk about.
 > How do we store and share our methods and code? Do your analyses have versions?
 
 </details>
+
+### 🐈 Save DEREK! 
+```.go
+source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/anniversary/text_adventure.R")
+```
 
 
 `> encourage_cat()`
