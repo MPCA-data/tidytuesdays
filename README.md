@@ -16,14 +16,13 @@ Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R i
 <br>
 
 
-## Schedule
-
-
-### Up Next
+## Schedule - Up Next
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| Jun 22|  PDF data | Calendar plots and times series -Barbara | 215 `pts` |
+| Jun 29 | |  Monte Carlo simulation with Max K | 10000 `pts` |
+
+
 
 <br>
 
@@ -63,14 +62,7 @@ df_ratios <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/
 </details>
 
 
-<br>
 
-> Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2D2_rescue_mission/)** 
->
-> <a href="https://mpca-data.github.io/R2D2_rescue_mission/"><img src="https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/images/R2D2_board.png" width="45%"></a>
->
-
-<br>
 
 ### Upcoming schedule
 
@@ -78,9 +70,8 @@ Month of Visuals
 
 |      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- |
-| Jun ** | |  `gganimate` -Someone | 226 `pts` |
-| Jun 22 | |  Data is Beautiful Plot -Kristie | 200 `pts` |
-| Jun 29 | |  Monte Carlo sim -Max K | 10000 `pts` |
+| July ** | |  `gganimate` -Someone | 226 `pts` |
+| July ** | |  Data is Beautiful Plot -Kristie | 200 `pts` |
 
 
 
@@ -92,6 +83,7 @@ Month of Visuals
   
 | Date | R demo <br> _1st half_  | Show-n-tell <br> **:tada:** <br> _2nd half_ | :candy:`sugaR pts`   |   
 | ---  | --- | --- | --- | 
+| Jun 22|  PDF data | Calendar plots and times series -Barbara | 215 `pts` |
 | Jun 08 | |  Animated maps - Pirate treasure wrap-up | 326 `pts` |
 | Jun 01 | Exceling w/ `ggplot` -Kristie | Celebrating DEREK! 🥳  | 36 `pts` |
 | May 25 | Data questions & Messy Barbara data |  Exceling w/ `ggplot` -Kristie | 36 `pts` |
@@ -312,5 +304,14 @@ source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-t
            \| | |_|/\
       jgs  //_// ___/
                \_)
+
+<br>
+
+<br>
+
+> Track your progress on the **[R2D2 Mission board](https://mpca-data.github.io/R2D2_rescue_mission/)** 
+>
+> <a href="https://mpca-data.github.io/R2D2_rescue_mission/"><img src="https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/images/R2D2_board.png" width="45%"></a>
+>
 
 <br>
