@@ -3,7 +3,7 @@ library(pdftools)
 library(janitor)
 
 #pdf in file
-pdf_file <- "C:/Users/kmell/Desktop/reading_pdfs/2017fertsalesreport.pdf"
+pdf_file <- "https://github.com/MPCA-data/tidytuesdays/raw/master/help/PDF_data/2017fertsalesreport.pdf"
 
 
 #read in pdf data
