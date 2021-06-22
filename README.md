@@ -18,7 +18,7 @@ Each week features a new data set to explore. Come see examples of how others cl
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
-| Jun 22|  Calendar plots and times series -Derek and Kristie | PDF data | 215 `pts` |
+| Jun 22|  PDF data | Calendar plots and times series -Barbara | 215 `pts` |
 
 
 <br>
