@@ -283,7 +283,7 @@ source("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-t
 
 `> encourage_cat()`
 
-    Meow-Meow. Hello R Users! 
+    Meowwww. Hello R Users! 
       \
        \
         \
