@@ -18,6 +18,8 @@ Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R i
 
 ## Schedule - Up Next
 
+Stats & Simulations series...
+
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
 | Jun 29 | |  Monte Carlo simulation with Max K | 10000 `pts` |
