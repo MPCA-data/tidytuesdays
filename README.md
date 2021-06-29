@@ -30,16 +30,18 @@ Stats & Simulations series...
 
 ### GGPLOT Evolution Exercise
 
-<img src="https://d33wubrfki0l68.cloudfront.net/1e7033393a2c70dc1255c5d0f1c563e945519251/61035/img/evol-ggplot/evol-ggplot-1.gif" width=530 >
+<a href="https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/"><img src="https://d33wubrfki0l68.cloudfront.net/1e7033393a2c70dc1255c5d0f1c563e945519251/61035/img/evol-ggplot/evol-ggplot-1.gif" width=538 ></a>
 
-Fancy up a boxplot on student/teacher ratios from across the globe: 
-
-- https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/
-
-### Get the data
+#### Get the data
 ``` .go
 df_ratios <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/ggplot/student_teacher_ratio.csv")
 ```
+
+
+Fancy up a boxplot on student/teacher ratios across the globe: 
+
+- https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/
+
 
 
 <br><br>
