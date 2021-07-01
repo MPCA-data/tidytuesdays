@@ -23,6 +23,15 @@ Stats & Simulations series...
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
 | ---  | --- | --- | --- | 
 | Jun 29 | |  Monte Carlo simulation with Max K | 10000 `pts` |
+| Jul 06 | |  Writing and reading data into a database SQLite | 250 `pts` |
+| Jul 13 | |  Accessing legacy or external databases RODBC ORACLE MSACCESS  | 445 `pts` |
+| Jul 20 | |  DIY Database and query it up | 10000 `pts` |
+| Jul 27 | |  Database panel discussion | 10000 `pts` |
+| Aug 03 | |  Eric Wilcox Freeburg talks about finance and R | 10000 `pts` |
+| Aug 10 | |  basic stats 1 in R | 30 `pts` |
+| Aug 17 | |  less basic stats 2 in R | 1000 `pts` |
+| Aug 24 | |  Simulations and bootstrapping | 5000 `pts` |
+| Aug 31 | |  Show and tell and basic probability swirl() | 2500 `pts` |
 
 
 
