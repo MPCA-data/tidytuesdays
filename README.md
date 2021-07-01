@@ -30,8 +30,8 @@ Stats & Simulations series...
 | Aug 03 | |  basic stats 1 in R | 10000 `pts` |
 | Aug 10 | |  less basic stats 2 in R | 30 `pts` |
 | Aug 17 | |  Simulations and bootstrapping | 1000 `pts` |
-| Aug 24 | |  Show and tell and basic probability swirl() | 5000 `pts` |
-| Aug 31 | |  other stats | 2500 `pts` |
+| Aug 24 | |  Basic probability in swirl() | 5000 `pts` |
+| Aug 31 | |  Show and tell upper level stats | 2500 `pts` |
 
 
 
