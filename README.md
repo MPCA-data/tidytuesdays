@@ -29,8 +29,8 @@ Stats & Simulations series...
 | Jul 27 | |  Database panel discussion | 10000 `pts` |
 | Aug 03 | |  basic stats 1 in R | 30 `pts` |
 | Aug 10 | |  less basic stats 2 in R | 100 `pts` |
-| Aug 17 | |  Simulations and bootstrapping with a returning guest | 1000 `pts` |
-| Aug 24 | |  Basic probability in swirl() all | 5000 `pts` |
+| Aug 17 | |  Common mistakes and pitfalls in stats in R | 1000 `pts` |
+| Aug 24 | Basic probability in swirl() all | | 5000 `pts` |
 | Aug 31 | |  Show and tell upper level stats | 2500 `pts` |
 
 
