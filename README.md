@@ -37,59 +37,6 @@ Stats & Simulations series...
 
 <br>
 
-### GGPLOT Evolution Exercise
-
-<a href="https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/"><img src="https://d33wubrfki0l68.cloudfront.net/1e7033393a2c70dc1255c5d0f1c563e945519251/61035/img/evol-ggplot/evol-ggplot-1.gif" width=538 ></a>
-
-#### Get the data
-``` .go
-df_ratios <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/ggplot/student_teacher_ratio.csv")
-```
-
-
-Fancy up a boxplot on student/teacher ratios across the globe: 
-
-- https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/
-
-
-
-<br><br>
-
-### Featured functions
-| (hex) |  Package | Functions |  What it does | Website |   
-| ---  | --- | --- | --- | --- | 
-|  <img src="https://blognoeliagonz.files.wordpress.com/2019/03/0_vpp28-xhhftjjg9s.png" width="60">  | **esquisse** | `esquisser()` | Drag-n drop-ggplots like Tableau | [Get started `esquisse`](https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html) |  
-|  <img src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" width="60">  | **dplyr** |  `select()`, `arrange()`, `filter()`, `mutate()`, `summarize()`, `group_by()` | Toolbox for exploring, re-arranging, and summarizing data | [Intro to `dplyr`](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) |  
-|  <img src="http://lubridate.tidyverse.org/logo.png" width="60">  | **lubridate** | `today()`,`mdy()`, `wday()`, `tz()` | Convert text columns to date objects, extract parts of dates and time such as month, hour, week day. | [Dates & times](https://r4ds.had.co.nz/dates-and-times.html) |
-
-
-<details>
-<summary> <b> See more </b></summary>
-
-| (hex) |  Package    | Function |  What it does | Website |  
-| ---  | --- | --- | --- | --- | 
-|  <img src="https://magrittr.tidyverse.org/logo.png" width="60">  | `library(magrittr)` |  `%>%`, `(.)` | Make code readable from left to right | [`%>%` Overview](https://magrittr.tidyverse.org/index.html) |  
-|  | **FCUK** | `library(FCUK)` | Suggests typo corrections when code doesn't run. | [Examples & setup](https://github.com/ThinkR-open/fcuk) |
-
-
-</details>
-
-
-
-
-### Upcoming schedule
-
-Month of Visuals
-
-|      | :coffee: Morning training |  :tada:Show-n-tell | :candy: `sugaR pts`  | 
-| ---  | --- | --- | --- |
-| July ** | |  `gganimate` -Someone | 226 `pts` |
-| July ** | |  Data is Beautiful Plot -Kristie | 200 `pts` |
-
-
-
-<br>
-
 
 <details>
 <summary> <b> See older topics </b></summary>
@@ -164,6 +111,48 @@ Month of Visuals
 </details>
 <br>
 
+
+
+### GGPLOT Evolution Exercise
+
+<a href="https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/"><img src="https://d33wubrfki0l68.cloudfront.net/1e7033393a2c70dc1255c5d0f1c563e945519251/61035/img/evol-ggplot/evol-ggplot-1.gif" width=538 ></a>
+
+#### Get the data
+``` .go
+df_ratios <- read_csv("https://raw.githubusercontent.com/MPCA-data/tidytuesdays/master/show-n-tell/ggplot/student_teacher_ratio.csv")
+```
+
+
+Fancy up a boxplot on student/teacher ratios across the globe: 
+
+- https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/
+
+
+
+<br><br>
+
+### Featured functions
+| (hex) |  Package | Functions |  What it does | Website |   
+| ---  | --- | --- | --- | --- | 
+|  <img src="https://blognoeliagonz.files.wordpress.com/2019/03/0_vpp28-xhhftjjg9s.png" width="60">  | **esquisse** | `esquisser()` | Drag-n drop-ggplots like Tableau | [Get started `esquisse`](https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html) |  
+|  <img src="https://d33wubrfki0l68.cloudfront.net/621a9c8c5d7b47c4b6d72e8f01f28d14310e8370/193fc/css/images/hex/dplyr.png" width="60">  | **dplyr** |  `select()`, `arrange()`, `filter()`, `mutate()`, `summarize()`, `group_by()` | Toolbox for exploring, re-arranging, and summarizing data | [Intro to `dplyr`](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html) |  
+|  <img src="http://lubridate.tidyverse.org/logo.png" width="60">  | **lubridate** | `today()`,`mdy()`, `wday()`, `tz()` | Convert text columns to date objects, extract parts of dates and time such as month, hour, week day. | [Dates & times](https://r4ds.had.co.nz/dates-and-times.html) |
+
+<br>
+
+<details>
+<summary> <b> See more </b></summary>
+
+| (hex) |  Package    | Function |  What it does | Website |  
+| ---  | --- | --- | --- | --- | 
+|  <img src="https://magrittr.tidyverse.org/logo.png" width="60">  | `library(magrittr)` |  `%>%`, `(.)` | Make code readable from left to right | [`%>%` Overview](https://magrittr.tidyverse.org/index.html) |  
+|  | **FCUK** | `library(FCUK)` | Suggests typo corrections when code doesn't run. | [Examples & setup](https://github.com/ThinkR-open/fcuk) |
+
+
+</details>
+
+
+<br><br>
 
 
 ## Upcoming Events around the 🌏
