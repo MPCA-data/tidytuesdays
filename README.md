@@ -19,7 +19,9 @@ Want to follow along? Jump on [RStudio Cloud](https://rstudio.cloud/) to use R i
 ## Schedule - Up Next
 
 Database July
+
 Statistics August
+
 Spatial Analysis September
 
 |      | :coffee: Morning training |  👀 Show-n-tell | :candy: `sugaR pts`  | 
