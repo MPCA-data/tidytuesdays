@@ -26,12 +26,13 @@ Spatial Analysis September
 | ---  | --- | --- | --- | 
 | Jul 20 | Dorian | DIY Database and query it up | 10000 `pts` |
 | Jul 27 | |  Database panel discussion | 10000 `pts` |
-| Aug 03 |Nick Witcraft and Barbara Monaco |  basic stats 1 in R | 30 `pts` |
-| Aug 10 |David Brown and Barbara Monaco |  less basic stats 2 in R | 100 `pts` |
-| Aug 17 | |  Common mistakes and pitfalls in stats in R | 1000 `pts` |
+| Aug 03 | Nick Witcraft and Barbara Monaco |  basic stats 1 in R | 30 `pts` |
+| Aug 10 | David Brown and Barbara Monaco |  less basic stats 2 in R | 100 `pts` |
+| Aug 17 | | Common mistakes and pitfalls in stats in R | 1000 `pts` |
 | Aug 24 | Basic probability in swirl() all | | 5000 `pts` |
 | Aug 31 | |  Show and tell upper level stats | 2500 `pts` |
-| Sep 07 | Nick Witcraft spatial analysis of met data | 2500 `pts` |
+| Sep 07 | Nick Witcraft | spatial analysis of met data | 4500 `pts` |
+| Sep 14 | Kristie | sf package review and updates | 3500 `pts` |
 
 
 
