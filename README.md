@@ -227,9 +227,9 @@ Fancy up a boxplot on student/teacher ratios across the globe:
 | [`library(mpcaej)`](https://github.com/MPCA-data/mpcaej#mpcaej) | Shapefiles with MPCA’s criteria for areas of concern for environmental justice | Dorian | | |
 | [`library(mncolors)`](https://github.com/MPCA-data/mncolors#minnesota-color-palettes) | Paint your data with colors from the [MN State Brand style Guide](https://mn.gov/portal/brand/style-guide/colors/), plus a few palettes inspired by local landscapes and wildlife. | Dorian | | |
 | [`library(mpcadb)`](https://github.com/MPCA-data/mpcadb) | Easy R connections to MPCA’s databases: DELTA, TEMPO, EQUIS, RAPIDS, ONBASE...  <br/> - Store common reference data | Derek | | |
+|[MPCA Data Guide](https://mpca-data.github.io/Data-Guide/) | An MPCA guide to get data for water, land, air, and more  <img src="images/data_guide.png" width="40%"> | Dorian | | Add data publishing/sharing tips  |
 | [`library(mpcareports)`](https://github.com/MPCA-data/mpcareports#mpcareports) | MPCA themes for markdown reports -Templates with logo, header, fonts <img src="images/mpca_template.png" width="40%">  | Dorian | | | 
-|[MPCA Data Guide](https://mpca-data.github.io/Data-Guide/) | A guide to data locations and instructions for water, land, air, and more | | | Add data publishing/sharing tips  |
-| [Analysis Methods Guide](https://mpca-air.github.io/air-methods/) | How we analyze monitoring data in R _(currently air focused)_ | | | | 
+| [Analysis Methods Guide](https://mpca-air.github.io/air-methods/) | How we analyze monitoring data in R _(currently air focused)_ | Derek | | | 
 
 <br>
 
